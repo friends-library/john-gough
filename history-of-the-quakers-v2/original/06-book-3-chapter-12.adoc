@@ -1,20 +1,32 @@
 == Chapter XII.
 
-Act against Conventicles.--Quakers the greatest Sufferers.--Remarks on this Act.--Eight
-Persons tried on this Act and sentenced to banishment.--Customary to commit for
-a few Days to expedite their Banishment.--The Bill returned Ignoramus.--The jury
-sent out again and find the Bill.--Offered to be released upon paying the Penalty,
-which they refuse.--The Jailer con tracts with Thomas May to transport
-them in his Ship.--He refuses to take them.--But is compelled.--He
-dismisseth them.--Returning they acquaint the King and Council,
-who order them to Prison,
-where they are confined seven Years.--In London great Numbers imprisoned.--Alderman
-Brown very abusive.--Speech of Judge Keeling.--Remarks thereupon.--Sixteen tried
-at Hicks`'s-hall.--Hard Case of Hannah Trigg.--Forty more tried.--Jurymen,
-for objecting to the Evidence,
-menaced.--For refusing to alter their Verdict bound over to the King`'s Bench.--Edward
-Brush and James Harding transported to Jamaica.--Robert Hayes,
-put aboard with them, dies there.--His Character.
+[.chapter-synopsis]
+* Act against Conventicles
+* Quakers the greatest Sufferers
+* Remarks on this Act
+* Eight Persons tried on this Act and sentenced to banishment
+* Customary to commit fora few Days to expedite their Banishment
+* The Bill returned Ignoramus
+* The jury sent out again and find the Bill
+* Offered to be released upon paying the Penalty, which they refuse
+* The Jailer contracts with Thomas May to transport them in his Ship
+* He refuses to take them
+* But is compelled
+* He dismisseth them
+* Returning they acquaint the King and Council, who order them to Prison
+* They are confined seven Years
+* In London great Numbers imprisoned
+* Alderman Brown very abusive
+* Speech of Judge Keeling
+* Remarks thereupon
+* Sixteen tried at Hicks`'s-hall
+* Hard Case of Hannah Trigg
+* Forty more tried
+* Jurymen, for objecting to the Evidence, menaced
+* For refusing to alter their Verdict bound over to the King`'s Bench
+* Edward Brush and James Harding transported to Jamaica
+* Robert Hayes, put aboard with them, dies there
+* His Character
 
 The statute which judge Turner, in the aforesaid trial, seemed to exult in,
 as one he was confident would certainly reduce the numbers of this people,
@@ -28,7 +40,10 @@ and premunired, was made a pretext for this new act,
 whereby the act of 35 Elizabeth was declared to be in full force.
 It further enacts,
 
-"`That if any person of the age of sixteen years or upwards,
+[.embedded-content-document.legal]
+--
+
+That if any person of the age of sixteen years or upwards,
 after the first of July 1664,
 shall be present at any meeting under colour or pretence of any exercise of religion,
 in any other manner than is allowed by the liturgy or practice of the church of England,
@@ -44,7 +59,7 @@ to be transported to some of the American plantations
 or pay 100£. etc.
 And in case they return, or make their escape, such persons are to be adjudged felons,
 and suffer death.
-Sheriffs or justices of peace, or others commissioned by them, are impowered to dissolve,
+Sheriffs or justices of peace, or others commissioned by them, are empowered to dissolve,
 dissipate and break up all unlawful conventicles,
 and to take into custody such of their number as they think fit.
 Persons who suffer such conventicles in their houses or barns are
@@ -57,7 +72,9 @@ Married women taken at conventicles are to be imprisoned
 for a term not exceeding twelve months,
 unless their husbands pay a sum not exceeding forty pounds for their redemption.
 This act to continue in force for three years,
-and to the end of the next session of parliament.`"
+and to the end of the next session of parliament.
+
+--
 
 It is observable, that the former act passed in 1661 enacted the same penalties,
 though not so largely or particularly expressed as this:
@@ -292,7 +309,7 @@ The eight persons convicted were informed by the judge of that clause in the act
 which provides that upon paying 100£. each, before the rising of the court,
 they might be discharged.
 The court adjourned, and when they met again,
-sent to the prisoners to know whether they would pay the 100l,
+sent to the prisoners to know whether they would pay the 100£,
 to which they unanimously answering No, the court broke up.
 
 Pursuant to the sentence, the jailer, by the sheriffs order, as he said,
@@ -401,7 +418,10 @@ preparatory whereto Judge Keeling,
 at the sessions at the Old Bailey on the 7th of September,
 made the following speech to the grand jury:
 
-"`Because this day was appointed for the trial of these people,
+[.embedded-content-document]
+--
+
+Because this day was appointed for the trial of these people,
 and inasmuch as many are come hither expecting what will be done,
 I shall say something concerning them and their principles,
 that they might not be thought worthy of pity, as suffering more than they deserve,
@@ -409,7 +429,7 @@ for they are a stubborn sect, and the king has been very merciful to them.
 It was hoped that the purity of the church of England would,
 ere this have convinced them, but they will not be reclaimed.
 
-"`They teach dangerous principles; this for one, That it is not lawful to take an oath.
+They teach dangerous principles; this for one, That it is not lawful to take an oath.
 You must not think their leaders believe this doctrine,
 only they persuade these poor ignorant souls so;
 but they have an interest to carry on against the government,
@@ -424,7 +444,7 @@ yea, nay, nay; and it is said, An oath is an end of all strife:
 this for the new testament: And the old is positive for swearing;
 and they that deny swearing deny God a special part of his worship.
 
-"`Now you shall see how this principle of not swearing
+Now you shall see how this principle of not swearing
 tends to the subversion of the government:
 First,
 It denies the king the security he ought to have of his subjects for their allegiance,
@@ -441,7 +461,7 @@ no government can stand without swearing,
 and were these people to have a government among
 themselves they could not live without an oath.
 
-"`Whereas they pretend in their scribbles that this
+Whereas they pretend in their scribbles that this
 act against conventicles doth not concern them,
 but such as under pretence of worshipping God do, at their meetings,
 conspire against the government: This is a mistake, for if they should conspire,
@@ -450,12 +470,12 @@ but this act is against meetings, to prevent them of such conspiracy,
 for they meet to consult to know their numbers, and to hold correspondence,
 that they may in a short time be up in arms.
 
-"`I had the honour to serve the king at York upon the trial of those wicked plotters,
+I had the honour to serve the king at York upon the trial of those wicked plotters,
 and we found those plots were hatched and carried on in these meetings,
 and we hanged up four or five of the speakers or praters,
 whom we found to be chief leaders in that rebellion.
 I warrant you their leaders will keep themselves from the third offence,
-we shall not "`take them.
+we shall not take them.
 If we could catch their leaders we should try them by some other law, which, if executed,
 will take away their lives.
 This is a merciful law, it takes not away their estates, it leaves them entire,
@@ -463,7 +483,9 @@ only banishes them for seven years if they will not pay an hundred pounds;
 and this is not for worshipping God according to their consciences,
 for that they may do in their families, but forsooth they cannot do that,
 but they must have thirty,
-forty or an hundred others to contrive their designs withal.`"
+forty or an hundred others to contrive their designs withal.
+
+--
 
 One might imagine this judge looked upon the bench as a privileged place to utter falsehoods,
 and because his office and power exempted him from detection there,
