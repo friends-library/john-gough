@@ -1,18 +1,19 @@
-== Chapter IX. NEW ENGLAND.
+== Chapter IX. New England.
 
-Persecution continued in New England.--Grievous Sufferings of Alice Ambrose,
-Mary Tomkins and Anne Coleman.--Whipped through three Towns.--Violently
-abused by two Constables.--Elizabeth Hooton obtains a Licence from the
-King to settle in any of the Plantations--With which she returns to Boston,
-where no regard is paid to the Licence.--At Dover she is set in
-the Stocks---Imprisoned at Cambridge--Whipped through three Towns,
-and turned into the Wilderness.--Returning into Cambridge, to fetch her Clothes,
-is again whipped,
-together with her Daughter and Sarah Coleman.--She
-is a second Time whipped through three Towns,
-and turned into the Wilderness.--Whipped again at Boston, and sent away to Rhode Island,
-with a Warrant to whip her from Town to Town.--Edward
-Wharton repeatedly whipped in like Manner.
+[.chapter-synopsis]
+* Persecution continued in New England
+* Grievous Sufferings of Alice Ambrose, Mary Tomkins and Anne Coleman
+* Whipped through three Towns
+* Violently abused by two Constables
+* Elizabeth Hooton obtains a Licence from the King to settle in any of the Plantations
+* With which she returns to Boston, where no regard is paid to the Licence
+* At Dover she is set in the Stocks
+* Imprisoned at Cambridge
+* Whipped through three Towns, and turned into the Wilderness
+* Returning into Cambridge, to fetch her Clothes, is again whipped, together with her Daughter and Sarah Coleman
+* She is a second Time whipped through three Towns, and turned into the Wilderness
+* Whipped again at Boston, and sent away to Rhode Island, with a Warrant to whip her from Town to Town
+* Edward Wharton repeatedly whipped in like Manner
 
 Though the government of New England was restrained from putting the Quakers to death,
 and granted them liberty for a while, it lasted not long:^
@@ -101,24 +102,31 @@ he answered, "`Nobody here knows that book, and for this you shall suffer.`"
 On this occasion the priest supplying the place of a clerk,
 formed for him the following warrant or order:
 
-"`To the Constables of Dover, Hampton, Salisbury, Newbury, Rowley, Ipswich, Wenham, Linn,
-Boston, Roxbury, Dedham,
-and until these vagabond Quakers are carried out of this jurifdiction.
+[.embedded-content-document.legal]
+--
 
-"`You and every of you are required, in the king`'s majesty`'s name,
+[.blurb]
+=== To the Constables of Dover, Hampton, Salisbury, Newbury, Rowley, Ipswich, Wenham, Linn, Boston, Roxbury, Dedham, and until these vagabond Quakers are carried out of this jurisdiction.
+
+You and every of you are required, in the king`'s majesty`'s name,
 to take these vagabond Quakers, Anne Coleman, Mary Tomkins, and Alice Ambrose,
 and make them fast to the cart`'s tail, and driving the cart through your several towns,
 to whip them on their backs, not exceeding ten stripes a piece on each of them,
 in each town, and so convey them from constable to constable,
 till they come out of this jurisdiction, as you will answer it at your peril:
-And this shall be your warrant.`"
+And this shall be your warrant.
 
+[.signed-section-closing]
 Per me,
 
-"`RICHARD WALDEN.`"
+[.signed-section-signature]
+Richard Walden
 
+[.signed-section-context-close]
 At Dover, Dated Dec.
 22nd, 1662.
+
+--
 
 This order was cruelly executed at Dover, while the priest stood by,
 looked at it and laughed, for which cruel levity when Eliakim,
@@ -172,7 +180,7 @@ and left there among wolves and bears, without necessary provisions,
 they were left to wander through places uninhabited and hardly passable,
 in very great danger, until at length they came to Rhode-Island, thence to Barbados,
 and from thence not long after returned to New-England,
-for to that province was their message to testisy
+for to that province was their message to testify
 against the spirit of persecution predominant there.
 Upon their coming to Boston they were presently apprehended by a constable,
 an illiberal and furious zealot, who declared, It was his delight,
@@ -318,18 +326,25 @@ you wrong the king and abuse his name,
 for I believe he never gave you order so to abuse his honest subjects.`"
 However the court made the following order, viz.
 
+[.embedded-content-document.legal]
+--
+
+[.letter-heading]
 To the constables of Dover, Hampton, Salisbury, Newbury, Rowley, Ipswich and Wenham.
 
-"`You and every of you are required, in his majesty`'s name,
+You and every of you are required, in his majesty`'s name,
 to receive into your custody Edward Wharton, a vagabond Quaker,
 and convey him from town to town until he come to his habitation in Salem;
 and the constables of Dover,
 Hampton and Newbury are to whip him through their respective towns at a cart`'s tail,
 not exceeding ten stripes in each town,
 according to the law of vagabond Quakers in that behalf.
-This being the sentence of a court held at Dover the 4th of July, 1663.`"
+This being the sentence of a court held at Dover the 4th of July, 1663.
 
-"`Elias Stilman, cleric.`"
+[.signed-section-signature]
+Elias Stilman, cleric.
+
+--
 
 To which sentence Edward answered,
 "`I fear not the worst you may be suffered to do to me,
@@ -447,18 +462,24 @@ yet this conscientious man was not long in determining his choice,
 he plainly told them that he would not comply with their proposals;
 whereupon Daufort drew up the following warrant, and got Endicot to sign it:
 
-"`To the constables of Boston, of Charlestown, warrant Maiden and Lynn.
+[.embedded-content-document.legal]
+--
 
-"`You are required to take into your custody respectively Edward Wharton,
+[.letter-heading]
+To the constables of Boston, of Charlestown, warrant Maiden and Lynn.
+
+You are required to take into your custody respectively Edward Wharton,
 convicted of being a vagabond from his own dwelling-place;
 and the constable of Boston is to whip him severely
 with thirty stripes on his naked body;
 and from constable to constable you are required to convey him until he comes to Salem,
 the place where he saith he dwelleth: And in thus doing this shall be your warrant.
 Dated at Boston the 30th of June, 1664.
-"`
 
-John Endicot.`"
+[.signed-section-signature]
+John Endicot.
+
+--
 
 Then they led him to the market place, and bound his arms to the wheels of a great gun,
 and barbarously whipped him with thirty stripes,

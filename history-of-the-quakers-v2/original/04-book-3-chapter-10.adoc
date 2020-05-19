@@ -1,13 +1,18 @@
-== Chapter X. DETACHED OCCURRENCES.
+== Chapter X. Detached Occurances.
 
-Travels of Catherine Evans and Sarah Cheevers into Italy.--On their Way to Alexandria
-are put into Malta.--Are put into the Inquisition.--Their Sufferings there.--Released
-by the intervention of Lord D`'Aubigny.--John Philly and William Moore travel into Hungary
-to visit the Hortesche Brethren.--From thence to upper Hungary.--Put in Shackles.--Rifled
-by the Officers.--Brought before the Inquisitor.--Repeatedly examined,
-but no cause of Crimination appearing,
-they are put to the torture.--William Moore`'s Account thereof
-and of their successive Trials and severe Sufferings.
+[.chapter-synopsis]
+* Travels of Catherine Evans and Sarah Cheevers into Italy
+* On their Way to Alexandria are put into Malta
+* Are put into the Inquisition
+* Their Sufferings there
+* Released by the intervention of Lord D`'Aubigny
+* John Philly and William Moore travel into Hungary to visit the Hortesche Brethren
+* From thence to upper Hungary
+* Put in Shackles
+* Rifled by the Officers
+* Brought before the Inquisitor
+* Repeatedly examined, but no cause of Crimination appearing, they are put to the torture
+* William Moore`'s Account thereof and of their successive Trials and severe Sufferings
 
 About this period two English women were imprisoned in the inquisition at Malta,
 where they were confined above three years;
@@ -493,7 +498,10 @@ to extort the confession they wanted by torture.
 Of this the sufferer, William Moore, gives the following account,
 in a letter to William Caton, written soon after his release.
 
-"`Notwithstanding our innocence, the governor would have us racked, which seemed to me,
+[.embedded-content-document.letter]
+--
+
+Notwithstanding our innocence, the governor would have us racked, which seemed to me,
 according to relation, a cruel torment;
 and in those days I often poured out my supplications to the Lord with tears.
 They made ready the benches, lighted the candles, put John out of his room,
@@ -548,7 +556,9 @@ and I told them that by such means they might force men to tell more than they k
 to be out of their pain, as many had done.
 Finally, I told them, it was for love to our religion we were come to those places.
 Then they left off, as thinking there was crime enough.
-Yet still the inquisitor threatened I should be racked again on the third day.`"
+Yet still the inquisitor threatened I should be racked again on the third day.
+
+--
 
 Then they fetched John, who not seeing me,
 thought I had been hanged on the private gallows they had there, and put out of the way;
@@ -714,7 +724,7 @@ manifesting him not only carnal but profane.
 Another time there came one, who was called Brother Valentine,
 and speaking with them concerning the Bible,
 said it had brought many thousands into hell.
-And reading a paper of John`'s, which he bad written to the Earl and council,
+And reading a paper of John`'s, which he had written to the Earl and council,
 showing that he was an Englishman,
 and forasmuch as there was no discord between England and the Empire,
 he could not conceive why an Englishman coming thither
