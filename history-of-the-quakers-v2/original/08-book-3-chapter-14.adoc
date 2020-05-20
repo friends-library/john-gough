@@ -1,16 +1,22 @@
 == Chapter XIV.
 
-The Parliament convened at Oxford,
-pass the Five-mile Act.--Friends suffer by this Act though not
-made against them.--Several Friends come from the Country to London,
-to visit and help their Brethren in this calamitous Season.--George Fox still a Prisoner
-at Lancaster.--From thence removed to Scarborough Castle.--Where his Imprisonment is
-very severe.--His Friends debarred from visiting him.--Several Persons come to dispute
-with him.--Menaces added to the Rigour of his Imprisonment.--At last by Application
-to the King he obtains his Release.--The City of London laid waste by Fire.--Bull and
-Mouth Meeting-house destroyed.--Grace - Church -street Meeting-house built.--George
-Fox travels through several Counties to London.--His Labour and Travels in establishing
-Discipline amongst his Friends.--Dissertation on Discipline.
+[.chapter-synopsis]
+* The Parliament convened at Oxford, pass the Five-mile Act.
+* Friends suffer by this Act though not made against them
+* Several Friends come from the Country to London, to visit and help their Brethren in this calamitous Season
+* George Fox still a Prisoner at Lancaster
+* From thence removed to Scarborough Castle
+* Where his Imprisonment is very severe
+* His Friends debarred from visiting him
+* Several Persons come to dispute with him
+* Menaces added to the Rigour of his Imprisonment
+* At last by Application to the King he obtains his Release
+* The City of London laid waste by Fire
+* Bull and Mouth Meeting-house destroyed
+* Grace - Church -street Meeting-house built
+* George Fox travels through several Counties to London
+* His Labour and Travels in establishing Discipline amongst his Friends
+* Dissertation on Discipline.
 
 As the plague still continued its ravages in the city of London,
 the parliament was convened this year at Oxford:
@@ -25,10 +31,13 @@ pestilence, or any symptom of divine displeasure, were calamities of equal magni
 with the existence of non-conformity, they proceeded to enact a fresh penal law,
 commonly known by the name of The Oxford five-mile act,
 which received the royal assent October the 31st, 1665.
-It was entitled, An aft to restrain non-conformists from inhabiting corporations;
-the preamble to which sets forth,
+It was entitled, An Act to Restrain Non-conformists from Inhabiting Corporations;
+the reamble to which sets forth,
 
-"`that divers Parsons and others in holy orders,
+[.embedded-content-document.legal]
+--
+
+that divers Parsons and others in holy orders,
 not having subscribed the act of uniformity,
 have taken upon them to preach in unlawful assemblies,
 and to instil the poisonous principles of schism and rebellion
@@ -36,7 +45,7 @@ in the hearts of his Majesty`'s subjects to the church and kingdom:
 Be it therefore enacted,
 that all such non-conformist ministers shall take the following oath,
 
-"` I, A. B. do swear that it is not lawful upon any pretence whatsoever;
+I, A. B. do swear that it is not lawful upon any pretence whatsoever;
 to take up arms against the king;
 and that I do abhor that traiterous position of taking
 arms by his authority against his person,
@@ -44,7 +53,7 @@ or against those that are commissioned by him, in pursuance of such commissions;
 and that I will not at any time endeavour any alteration
 of government in church or state.
 
-"`And all such non-conformist ministers shall not after the 24th of March,
+And all such non-conformist ministers shall not after the 24th of March,
 unless in passing the road, come or be within five miles of any city,
 town-corporate or borough, that sends burgesses to parliament,
 or within five miles of any parish, town and place, wherein they have,
@@ -61,7 +70,9 @@ under the penalty of forty pounds, to be distributed as above.
 Any two justices of peace,
 upon oath made before them of any offence committed against this act,
 are empowered to commit the offender to prison for
-six months without bail or mainprize.`"
+six months without bail or mainprize.
+
+--
 
 This bill met with great opposition in the house of lords,
 upon account of its enforcing an unlawful and unjustifiable oath.
@@ -223,7 +234,7 @@ To the rigour and hardships of his imprisonment,
 his keepers added frequent menaces in order to terrify him.
 The deputy governor once told him, That the king,
 knowing he had a great interest in the people, had sent him thither;
-that if there should be any stirring in the nation, they Jhould hang him over the wall.
+that if there should be any stirring in the nation, they should hang him over the wall.
 He replied to this menace, If that was what they desired, and it was permitted them,
 he was ready, for he never feared death or sufferings in his life;
 but was known to be an innocent, peaceable man, free from stirrings and plottings,
@@ -250,14 +261,18 @@ As soon as this order was obtained, it was quickly brought to Scarborough,
 and delivered to the governor, who upon receipt thereof immediately discharged him,
 and gave him the following passport.
 
-"`Permit the bearer hereof George Fox, late a prisoner here,
+[.embedded-content-document.legal]
+--
+
+Permit the bearer hereof George Fox, late a prisoner here,
 and discharged by his majesty`'s order, quietly to pass about his lawful occasions,
 without molestation.
 Given under my hand at Scarborough castle this 1st day of September, 1666.
 
-"`JORDAN CROSSLANDS,
+[.signed-section-signature]
+Jordan Crosslands, Governor of Scarborough Castle.
 
-"`Governor of Scarborough castle.`"
+--
 
 George Fox when he received his release was willing to make the governor
 an acknowledgment for the civility and kindness he had lately shown him,
@@ -406,16 +421,23 @@ realized in the beneficial effects it then had, and hath since continued to prod
 seems to demand a particular disquisition in a work of this nature,
 and this appears the proper place to introduce it.
 
-=== A Dissertation on the Discipline exercised amongst the People called Quakers.
+[.old-style]
+=== A Dissertation on the Discipline exercised amongst the People called Quakers
 
-==== SECT. I.
+[alt.centered]
+Sect. I
+
+[.small-break]
+'''
 
 The first meeting for church affairs that I find any clear account of,
 was held at Skipton in Yorkshire, whether occasionally by particular appointment,
 or at certain stated times, doth not appear.
 Of this meeting, the nature and use is described by George Fox in his journal as follows:
 
-"`To this meeting came many friends out of most parts of the nation;
+[quote]
+____
+To this meeting came many friends out of most parts of the nation;
 for it was about business relating to the church,
 both in this nation and beyond the seas.
 Several years before, when I was in the North,
@@ -434,7 +456,8 @@ and saw friends books and accounts of collections for the relief of the poor:
 how we took care, one county to help another, and help our friends beyond sea,
 and provide for our poor, that none of them should be a charge to their parishes,
 etc. the justices and officers confessed that we did their work,
-and would pass away peaceably and lovingly, commending friends practice.`"
+and would pass away peaceably and lovingly, commending friends practice.
+____
 
 By this account it appears as if this was a general meeting for the whole nation,
 or a great part thereof, and fixed in this town as a central situation,
@@ -504,9 +527,15 @@ the collecting accounts of these sufferings in order
 to lay them before government and seek redress,
 took up much of the attention of that meeting at that time,
 as appears from the queries of that meeting, the three first of which are,
+
+[.numbered]
 1+++.+++ What present prisoners?
+
+[.numbered]
 2+++.+++ How many discharged last year?
 When, and how?
+
+[.numbered]
 3+++.+++ How many died prisoners?
 As many exigencies in suffering cases might arise
 in the intervals between the yearly meetings,
@@ -520,7 +549,7 @@ meet the sixth day in every week,
 for the purpose of considering and consulting upon such matters
 as may be laid before them by any of the country correspondents;
 particularly any suffering cases of friends that may want their counsel or assistance:
-and from thence is called the meeting for sufferings , and is a meeting for record.
+and from thence is called the meeting for sufferings, and is a meeting for record.
 
 This economy hath ever since subsisted amongst this people,
 whereby the great ends of religious society, real devotion of heart towards God,
@@ -554,7 +583,17 @@ The result of which deliberations,
 and the advice appearing requisite to the state of the society,
 are generally transmitted to the counties in an epistle from the said yearly meeting.
 
-==== SECT. II. Of the Manner of conducting these Meetings.
+[.small-break]
+'''
+
+[alt.centered]
+Sect. II.
+
+[alt.centered]
+Of the Manner of conducting these Meetings.
+
+[.small-break]
+'''
 
 From these meetings of discipline no members of the society are excluded;
 but every one in unity hath liberty to attend and express
@@ -571,7 +610,7 @@ not of authority, but conviction, which is the divine authority,
 and the way of Christ`'s power and spirit in his people; making good his blessed promise,
 that he would be in the midst of his,
 where and whenever they were met together in his name, even to the end of the world.`"^
-footnote:[William Penn`'s Rise and Progress]
+footnote:[William Penn`'s [.book-title]#Rise and Progress#]
 
 Yet they have a clerk in each meeting,
 who generally undertakes the office voluntary at the desire of the meeting,
@@ -606,9 +645,17 @@ the witness of their transactions, and of the frame of their hearts,
 are under the properest temper of mind for deliberating and deciding
 upon the subject of religion and its concerns.
 
-==== SECT. III. Of the Objects of Discipline in the sundry Meetings.
+[.small-break]
+'''
 
-==== I. Monthly Meetings.
+[alt.centered]
+Sect. III.
+
+[alt.centered]
+Of the Objects of Discipline in the sundry Meetings.
+
+[.small-break]
+'''
 
 The monthly meetings may not be improperly termed the executive power of this society,
 as it is their business to apply the rules of the discipline
@@ -618,31 +665,39 @@ the order that the inquiries of the quarterly meeting are made into their care;
 as contained in the following queries,
 which are answered by each monthly meeting to the quarterly meeting.
 
+[.numbered]
 1+++.+++ Are meetings for worship and discipline duly attended;
 and do friends avoid all unbecoming behaviour therein?
 
+[.numbered]
 2+++.+++ Are love and unity preserved amongst you,
 and do you discourage all tale-bearing and detraction?
 
+[.numbered]
 3+++.+++ Is it your care by example and precept to train up your children in a godly conversation,
 and in frequent reading the holy scriptures; as also in plainness of speech,
 behaviour and apparel?
 
+[.numbered]
 4+++.+++ Do you bear a faithful and christian testimony against the receiving or paying tithes,
 priests demands or those called church rates?
 
+[.numbered]
 5+++.+++ Are friends careful to avoid all vain sports, places of diversion, gaming,
 and all unnecessary frequenting of ale-houses or taverns, excess in drinking,
 and intemperance of every kind?
 
+[.numbered]
 6+++.+++ Are friends just in their dealings,
 and punctual in fulfilling their engagements and are they advised
 carefully to inspect the state of their affairs once in the year?
 
+[.numbered]
 7+++.+++ Is early care taken to advise and deal with such as appear
 inclinable to marry contrary to the rules of our society;
 and do none remove from or into your monthly or two weeks-meetings without certificates?
 
+[.numbered]
 8+++.+++ Have you two or more faithful friends deputed in each
 particular meeting to have the oversight thereof?
 and is care taken when anything appears amiss that
@@ -667,7 +722,10 @@ were for introducing flesh-pleasing doctrines and
 a temporizing disposition to evade suffering,
 which occasioned the following minute of the yearly meeting, 1675.
 
-"`It hath been our care and practice from the beginning,
+[.embedded-content-document.minute]
+--
+
+It hath been our care and practice from the beginning,
 that an open testimony for the Lord should be borne,
 and a public standard for truth and righteousness upheld in the power and spirit of God,
 by our open and known meetings,
@@ -679,7 +737,9 @@ of Jesus keep up these public testimonies in their respective places,
 and not decline, forsake or remove their public assemblies because of informers,
 or the like persecutors;
 for such practices are not consistent with the nobility of truth,
-and therefore not to be owned in the church of Christ.`"
+and therefore not to be owned in the church of Christ.
+
+--
 
 Others afterwards born in the society,
 and holding the profession of their religion in the form,
@@ -775,7 +835,10 @@ Particularly in the year 1731 this weighty subject
 seems to have engaged their very serious consideration,
 which produced the following lively recommendation.
 
-"`Inasmuch as we have a large body of youth growing up, the offspring of friends,
+[.embedded-content-document]
+--
+
+Inasmuch as we have a large body of youth growing up, the offspring of friends,
 these call for our especial care and concern,
 that they may be preserved in the way of truth, in which our forefathers walked;
 and in order thereto, we tenderly recommend to all parents and guardians, First,
@@ -807,14 +870,14 @@ well instructed in the holy scriptures from a child,
 and of the unfeigned faith which dwelt in his grandmother Lois and mother Eunice, 2 Tim. 1:5.
 who no doubt had a religious care of his education.
 
-"`But where parents or guardians are deficient in such their care,
+But where parents or guardians are deficient in such their care,
 we recommend monthly meetings, that they stir them up thereto,
 either by visiting them in their families,
 or in such manner as in the wisdom of God they may see meet,
 that so the doctrines of the gospel, and a conversation agreeable thereunto,
 may be maintained unto all generations.
 
-"`And in order to render this advice more effectual,
+And in order to render this advice more effectual,
 we farther tenderly recommend to all heads of families,
 that they do frequently call their children and servants together,
 and in a solemn religious way cause them to read the holy scriptures, and in so doing,
@@ -823,7 +886,7 @@ respecting christian faith and practice according to the former advice of this m
 particularly that in the year 1706,
 to which in an especial manner we refer on this occasion: which is as follows, viz.
 
-"`Forasmuch, as next to our own souls,
+Forasmuch, as next to our own souls,
 our children and offspring are the most immediate objects of our care and concern,
 it is tenderly recommended to all that are or may be parents or guardians of children,
 that they be diligently exercised in this care and concern,
@@ -846,7 +909,9 @@ it is our tender desire that seasonable opportunities may be taken to wait upon 
 with your children, in your families, for the manifestation of his blessed power,
 to make them sensible of his witness and feed of life and grace in their hearts,
 in order to beget in them the living knowledge and
-love of the truth as it is in Jesus.`"
+love of the truth as it is in Jesus.
+
+--
 
 As to the subject of the fourth query, the receiving or paying of tithes,
 I have before explained the grounds of their declining the payment thereof,
@@ -934,7 +999,10 @@ gave occasion to lively and warm admonitions of the yearly meeting to recur back
 and imitate the honourable examples of their worthy predecessors,
 particularly to the following minute of 1732.
 
-"`We find it our duty to remind our respective members,
+[.embedded-content-document.minute]
+--
+
+We find it our duty to remind our respective members,
 of the remarkable uprightness and honesty of our friends in the beginning,
 in their commerce and converse.
 How exact were they in performing their words and promises,
@@ -961,7 +1029,9 @@ that friends do earnestly advise them to a suitable
 care and necessary inspection into their circumstances,
 in order that they may be helped; and if any proceed contrary to such advice,
 and by their failure bring open scandal and reproach on the society,
-that then friends justifiably may, and ought to testify against such offenders.`"
+that then friends justifiably may, and ought to testify against such offenders.
+
+--
 
 In the times whereof I am now writing,
 there seems to have been little or no occasion for admonition,
@@ -973,7 +1043,10 @@ near twenty years after the establishment of the yearly meeting,
 and exhibits a specimen of their watchful care against everything that
 might dishonour or defile the reputation of their society.
 
-"`Advised that none launch into trading and worldly business
+[.embedded-content-document]
+--
+
+Advised that none launch into trading and worldly business
 beyond what they can manage honourably and with reputation;
 so that they may keep their words with all men, that their yea may prove yea indeed,
 and their nay, nay; for whatsoever is otherwise cometh of evil:
@@ -981,7 +1054,9 @@ and that they use few words in their dealings,
 lest they bring dishonour to the truth of God through their forwardness;
 and the holy profession of his name and truth; Such are for judgment,
 and the judgment of truth ought to be set over them,
-that those who abide and walk in the truth may be clear of their iniquities.`"
+that those who abide and walk in the truth may be clear of their iniquities.
+
+--
 
 Their ideas of justice in commerce were not confined
 to the regular payment of their just debts;
@@ -1049,7 +1124,10 @@ to reside amongst them and frequenting their meetings,
 is to inquire of them whence they came,
 and to write for a certificate or character for them.
 
-"`Their way of marriage is peculiar to them; and shows a distinguishing care,
+[.embedded-content-document]
+--
+
+Their way of marriage is peculiar to them; and shows a distinguishing care,
 above other societies protesting Christianity.
 They say that marriage is an ordinance of God,
 and that God only can rightly join man and woman in marriage.
@@ -1068,7 +1146,7 @@ first obtaining the consent of the young woman`'s parents or guardians,
 he is obliged to condemn such proceeding in writing,
 previous to the meeting taking cognizance of the marriage.]
 
-"`The method of the meeting is, to take a minute thereof,
+The method of the meeting is, to take a minute thereof,
 and to appoint proper persons to inquire of their
 conversation and clearness from all others,
 and whether they have discharged their duty to their parents or guardians;
@@ -1123,9 +1201,9 @@ and did declare before witnesses that he did take such a woman to be his wife,
 and the woman declared she took that man to be her husband.
 This marriage being afterward called in question,
 all the bishops (he said) did conclude it to be a lawful marriage.`"
-Whereupon the jury brought in their verdict in favour of the child, George Fox`'s journal.]
+Whereupon the jury brought in their verdict in favour of the child, George Fox`'s [.book-title]#Journal.#]
 
-"`The observance of the aforesaid ceremonies they have refused: not out of humour,
+The observance of the aforesaid ceremonies they have refused: not out of humour,
 but conscience reasonably grounded; inasmuch as no scripture- example tells us,
 that the priest had any other part of old time, than that of a witness among the rest,
 before whom the Jews used to take one another: and therefore this people look upon it,
@@ -1139,7 +1217,7 @@ and it is free of the inconveniencies with which other methods are attended:
 their care and checks being so many, and such,
 as that no clandestine marriages can be performed among them.
 
-"`It may not be unfit to say something here of their births and burials,
+It may not be unfit to say something here of their births and burials,
 which make up so much of the pomp of too many called christians.
 For births, the parents name their own children;
 which is usually some days after they are born, in the presence of the midwife,
@@ -1149,7 +1227,7 @@ of the birth and name of the child or children; which is recorded in a proper bo
 in the monthly meeting to which the parents be long,
 avoiding the accustomed ceremonies and festivals.
 
-"`Their burials are performed with the same simplicity.
+Their burials are performed with the same simplicity.
 If the body of the deceased be near any public meeting-place,
 it is usually carried thither,
 for the more convenient reception of those that accompany it to the burying-ground.
@@ -1186,8 +1264,11 @@ so that simplicity of life is what they observe with great satisfaction;
 though it sometimes happens not to be without the
 mockeries of the vain world they live in.
 
+[.signed-section-signature]
 Thus far William Penn.^
-footnote:[Penn`'s Rise and Progress]
+footnote:[Penn`'s [.book-title]#Rise and Progress#]
+
+--
 
 However obnoxious this society may have been to unmerited calumny on other accounts,
 their charity hath been too obvious not to pro cure general approbation;
@@ -1205,7 +1286,10 @@ which instructed them to do good to all, but especially to the household of fait
 The sentiments of these people on this subject may be perceived
 from the following extract from an epistle of Stephen Crisp.
 
-"`Concerning practical charity ye know it is supported by liberality,
+[.embedded-content-document.epistle]
+--
+
+Concerning practical charity ye know it is supported by liberality,
 and where liberality ceaseth, charity waxeth cold;
 where there is no contribution there is no distribution;
 where the one is sparing the other is sparing;
@@ -1217,9 +1301,9 @@ they will have a care of keeping back any of God`'s part;
 for he hath in all ages in a most singular manner espoused the cause of the poor,
 the widow and the fatherless,
 and hath often by his prophets and ministers given a special charge to rich men,
-that they should look to it, that they were faithful stewards of what they possessed.`"
+that they should look to it, that they were faithful stewards of what they possessed.
 
-"`Now as concerning the necessities of the poor, there is great need of wisdom,
+Now as concerning the necessities of the poor, there is great need of wisdom,
 when ye meet together about that affair;
 for though the worthiness or unworthiness of persons is not to be considered in judgment,
 yet in this it is; and you will find some that men have made poor;
@@ -1232,7 +1316,7 @@ and then to deal out that love in the outward manifestations thereof,
 according to the measure that the Lord in his wisdom working you,
 shall measure forth to them.
 
-"`And as to those who by sickness, lameness, age,
+And as to those who by sickness, lameness, age,
 or other impotency are brought into poverty by the hands of providence,
 these are your peculiar care, and objects pointed out to you to bestow your charity upon,
 for by them the Lord calls for it;
@@ -1264,7 +1348,7 @@ they are of your household and under your care, both to visit,
 and to relieve as members of one body, of which Christ Jesus is head,
 and he that giveth to such poor lendeth to the Lord and he will repay it.
 
-"`But there is another sort of poor,
+But there is another sort of poor,
 who make themselves poor through their sloth and carelessness,
 and sometimes by their willfulness; being heady and high-minded,
 and taking things in hand that are more than they can manage,
@@ -1279,7 +1363,7 @@ while they neglect their own, and run into a worse way than unbelievers,
 while they profess to be believers,
 yet do not take due care for those of their own household.
 
-"`The charity that is proper to such, is to give them admonition and reproof,
+The charity that is proper to such, is to give them admonition and reproof,
 and to convince them of their sloth and negligence; and if they submit to your reproof,
 and are willing to amend,
 then care ought to be taken to help them into a way to support themselves;
@@ -1293,7 +1377,9 @@ because they dissolve the obligation of society by their disorderly walking;
 for our communion doth not stand only in frequenting meetings,
 and hearing truth preached,
 but in regulating the life and conversation by the principle and spirit of truth,
-and therein both the rich and the poor have fellowship one with another.`"
+and therein both the rich and the poor have fellowship one with another.
+
+--
 
 There is another sort that are made poor by cruelty and oppression;
 by long imprisonments, and spoiling of their goods:
@@ -1306,7 +1392,17 @@ let all that are capable be ready and willing to advise, relieve and help the di
 This is an acceptable work cf charity, and a great comfort to such in sharp afflictions,
 and their souls shall bless the instruments of their ease and comfort.
 
-==== SECT. IV. Of their Method of Dealing with Transgressors.
+[.small-break]
+'''
+
+[alt.centered]
+Sect. IV.
+
+[alt.centered]
+Of their Method of Dealing with Transgressors.
+
+[.small-break]
+'''
 
 Having given a general view of the subjects of the
 christian discipline amongst this people,
@@ -1359,7 +1455,10 @@ These things premised;
 I proceed to lay before the reader a more particular account of the method
 of their proceedings in the word`'s of William Penn.
 
-"`It may be expected,
+[.embedded-content-document.letter]
+--
+
+It may be expected,
 I should here set down what sort of authority is exercised by this people,
 upon such members of their society as correspond not in their lives with their profession,
 and that are refractory to this good and wholesome order settled among them;
@@ -1367,7 +1466,7 @@ and the rather,
 because they have not wanted their reproach and sufferings from some tongues and pens,
 Upon this occasion, in a plentiful manner.
 
-"`The power they exercise, is such as Christ has given to his own people,
+The power they exercise, is such as Christ has given to his own people,
 to the end of the world, in the persons of his disciples, viz. To oversee, exhort,
 reprove, and after long suffering and waiting upon the disobedient and refractory,
 to disown them, as any longer of their communion,
@@ -1389,7 +1488,7 @@ to carry it to outward force and corporeal punishment.
 A practice they have been taught to dislike, by their extreme sufferings,
 as well as their known principles for an universal liberty of conscience.
 
-"`On the other hand, they equally dislike an independency in society.
+On the other hand, they equally dislike an independency in society.
 An unaccountableness in practice and conversation
 to the rules and terms of their own community,
 and to those that are the members of it.
@@ -1408,7 +1507,7 @@ or they are denied by them: That is all the mark they set upon them,
 and the power they exercise,
 or judge a christian society can exercise upon those that are members of it.
 
-"`The way of their proceeding against such as have lapsed or transgressed, is this:
+The way of their proceeding against such as have lapsed or transgressed, is this:
 He is visited by some of them, and the matter of fact laid home to him,
 be it any evil practice against known and general virtue,
 or any branch of their particular testimony, which he in common professeth with them.
@@ -1423,10 +1522,12 @@ give forth a paper to disown such a fact, and the party offending:
 Recording the same as a testimony of their care for
 the honour of the truth they profess.
 
-"`And if he or she shall clear their profession and themselves,
+And if he or she shall clear their profession and themselves,
 by sincere acknowledgment of their fault, and godly sorrow for so doing,
 they are received and looked upon again as members of their communion.
-For as God, so his true people, upbraid no man after repentance.`"
+For as God, so his true people, upbraid no man after repentance.
+
+--
 
 I have already observed that the executive part of
 the discipline is vested in the monthly meetings:

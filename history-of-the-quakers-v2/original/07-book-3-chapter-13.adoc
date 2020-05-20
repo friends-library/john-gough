@@ -1,22 +1,21 @@
 == Chap XIII
 
-Exemplary Patience of this People under Suffering.--Sundry Friends by
-Example and Precept encourage them to Steadfastness.--George Fox,
-jun.
-his Warning to England.--George Bishop`'s to the King and
-Parliament.--Reflection on the Manners of the Age,
-which are thought to draw down the Judgments of Heaven upon it.
-1+++.+++ The Dutch War.
-2+++.+++ A depopulating Pestilence.--More than one hundred and twenty condemned
-to Transportation in London.--An Embargo laid on the Shippings in order
-to oblige the Masters to transport the Prisoners.--Fifty-five taken from
-Newgate to be transported.--The Plague breaks out in the Ship and carries
-off twenty-seven of the Prisoners.--The Ship taken by a Dutch Privateer,
-and the surviving Prisoners set at liberty.--The Plague increases.--Fifty-two
-of the People called Quakers die in Newgate of the Pestilence,
-notwithstanding which the Prisons are crowded with
-fresh Prisoners.--Death of Samuel Fisher,
-Joseph Fuce, and William Caton.
+[.chapter-synopsis]
+* Exemplary Patience of this People under Suffering
+* Sundry Friends by Example and Precept encourage them to Steadfastness
+* George Fox, jun. his Warning to England
+* George Bishop`'s to the King and Parliament
+* Reflection on the Manners of the Age, which are thought to draw down the Judgments of Heaven upon it
+* 1+++.+++ The Dutch War
+* 2+++.+++ A depopulating Pestilence
+* More than one hundred and twenty condemned to Transportation in London
+* An Embargo laid on the Shippings in order to oblige the Masters to transport the Prisoners
+* Fifty-five taken from Newgate to be transported
+* The Plague breaks out in the Ship and carries off twenty-seven of the Prisoners
+* The Ship taken by a Dutch Privateer, and the surviving Prisoners set at liberty
+* The Plague increases
+* Fifty-two of the People called Quakers die in Newgate of the Pestilence, notwithstanding which the Prisons are crowded with fresh Prisoners
+* Death of Samuel Fisher, Joseph Fuce, and William Caton.
 
 Exposed as this people was to multiplied penalties and severe execution of unequal laws,
 yet through all the exertions of malicious violence,
@@ -68,19 +67,28 @@ and that many in it should fall and be taken away.`"
 
 The next is a short admonitory caution from George Bishop, of Bristol, addressed
 
-"`To the King and both houses of parliament.
+[.embedded-content-document.letter]
+--
 
-"`Thus saith the Lord,
+[.letter-heading]
+To the King and both houses of parliament.
 
-"`Meddle not with my people, because of their conscience to me,
+[.salutation]
+Thus saith the Lord,
+
+Meddle not with my people, because of their conscience to me,
 and banish them not out of the nation because of their conscience;
 for if you do I will send my plagues upon you, and you shall know that I am the Lord.
 
-"`Written in obedience to the Lord by his servant,`"
+Written in obedience to the Lord by his servant,
 
+[.signed-section-signature]
+G+++.+++ Bishop.
+
+[.signed-section-context-close]
 Bristol 15th 9mo 1664.
 
-G+++.+++ BISHOP.`"
+--
 
 Yet whilst these rigorous measures were thus rigorously executed,
 for forcing uniformity in the age: religion,
@@ -285,7 +293,7 @@ and joined in society with the baptists.
 In the year 1655 he was convinced of the truth, as held by the people called Quakers,
 and through obedience thereto became a faithful minister of the same,
 and travelled much in the exercise of his ministerial labours for
-the propagation of righteousness both in Engiand and foreign parts.
+the propagation of righteousness both in England and foreign parts.
 At Dunkirk in Flanders he had good service in testifying
 against the idolatry of the priests and friars,
 and preaching to the English garrison there.
