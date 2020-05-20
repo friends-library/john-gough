@@ -1,11 +1,16 @@
 == Chapter XV
 
-Violent Proceedings of William Armourer in Berkshire.--Abingdon Session.--Thomas Curtis`'s
-whole Family in Prison.--Trial of fifty Prisoners.--The jury bring them in not guilty.--Some
-of the Prisoners remanded and the Oath tendered.--The Oath tendered to Anne Curtis,
-who remonstrates against it.--Twenty premunired,
-and two sentenced to banishment.--Trial of Joseph Phipps on the
-Act for Banishment.--Persecution in Northamptonshire.
+[.chapter-synopsis]
+* Violent Proceedings of William Armourer in Berkshire
+* Abingdon Session
+* Thomas Curtis`'s whole Family in Prison
+* Trial of fifty Prisoners
+* The jury bring them in not guilty
+* Some of the Prisoners remanded and the Oath tendered
+* The Oath tendered to Anne Curtis, who remonstrates against it
+* Twenty premunired, and two sentenced to banishment
+* Trial of Joseph Phipps on the Act for Banishment
+* Persecution in Northamptonshire.
 
 During the rebuilding of London after the fire,
 the heat of persecution abated for a season, not only in the city,
@@ -70,7 +75,7 @@ Upon this a priest sitting by was desired to satisfy Thomas in that point:
 But being cautious of entering into debate upon a subject,
 wherein he might doubt the validity of his argumentation, he put if off,
 under the pretence that they were an obstinate people and not to be satisfied.
-At length Armourer ordered them to be taken away,- saying, I know they will not take it;
+At length Armourer ordered them to be taken away, saying, "`I know they will not take it;`"
 although many of them did not refuse it.
 
 Thomas Curtis, against whom and his wife Anne (whose father it hath been remarked,
