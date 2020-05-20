@@ -1,11 +1,13 @@
 == Chapter XVII.
 
-Thomas Vincent, a Presbyterian Preacher, vilifies Friends,
-who demand a public Meeting to vindicate themselves.--The Meeting held,
-but interrupted by the Rudeness of the Auditory.--William Penn appeals to the
-Public in a little Tract.--For which he is imprisoned in the Tower.--Where he
-writes No Cross no Crown.--Death of Thomas Loe,
-Josiah Coale, and Francis Howgill.--Account of Josiah Coale and Francis Howgill.
+[.chapter-synopsis]
+* Thomas Vincent, a Presbyterian Preacher, vilifies Friends, who demand a public Meeting to vindicate themselves
+* The Meeting held, but interrupted by the Rudeness of the Auditory
+* William Penn appeals to the Public in a little Tract
+* For which he is imprisoned in the Tower
+* Where he writes No Cross no Crown
+* Death of Thomas Loe, Josiah Coale, and Francis Howgill
+* Account of Josiah Coale and Francis Howgill.
 
 Although the Quakers (so called) were freer from disturbance
 by the government than in the foregoing years,
@@ -39,7 +41,7 @@ or themselves give him an opportunity to prove them, if he were able; which,
 after some demur, he agreed to;
 but took care to have the house filled before the
 hour appointed with his own hearers and partisans,
-also to procure three assistants, Thomas Danson, Thomas Doolittle and ------ Maddocks.
+also to procure three assistants, Thomas Danson, Thomas Doolittle and +++_______+++ Maddocks.
 
 George Whitehead and William Penn attended this meeting,
 to hear what erroneous doctrines Vincent could charge the Quakers with,
@@ -88,13 +90,13 @@ precluded from the opportunity of promoting piety by his ministerial labours,
 was not in his confinement unmindful of this great purpose of his life,
 he applied himself to promote it by writing:
 Several treatises were the fruits of his solitude, particularly that excellent one,
-entitled "`No Cross no Crown,`" a book tending to promote the general design of religion,
+entitled [.book-title]#No Cross No Crown,# a book tending to promote the general design of religion,
 was well accepted, and hath passed sundry impressions.
 
 And in order to clear himself from the aspersions cast upon
 him in relation to the doctrine of the Trinity,
-etc. he published a piece called "`Innocency With Her Open Face,`" by way of apology
-for "`The Sandy Foundation Shaken,`" in which he so successfully vindicated himself,
+etc. he published a piece called [.book-title]#Innocency with Her Open Face,# by way of apology
+for [.book-title]#The Sandy Foundation Shaken# in which he so successfully vindicated himself,
 that soon after he was released from his imprisonment,
 which had been of seven months continuance.
 
@@ -424,7 +426,13 @@ which conveying useful instructions to young people,
 more peculiarly those of the female sex,
 it may not be useless to annex the following abstract thereof.
 
-"`Daughter Abigail, This is for thee to take heed unto and observe,
+[.embedded-content-document.letter]
+--
+
+[.salutation]
+Daughter Abigail,
+
+This is for thee to take heed unto and observe,
 for the regulating thy conversation in this world,
 so that thy life may be happy and thy end blessed,
 and God glorified by thee in thy generation.
@@ -432,7 +440,7 @@ I was not heir to great possessions; but the Lord hath endowed me with a compete
 and hath been as a tender father to me, because I trusted in him,
 and loved righteousness from a child.
 
-"`My counsel to thee is, that you remember thy Creator in the days of thy youth,
+My counsel to thee is, that you remember thy Creator in the days of thy youth,
 fear him and serve him all thy days:
 First seek the kingdom of God and the righteousness thereof.
 Though thou be born into the world a reasonable creature,
@@ -456,7 +464,7 @@ and gave being to thee and all things in heaven and on earth.
 And do thou inquire of thy dear mother, she will inform thee,
 she knows him and the way to life and peace, and hearken to her instructions.
 
-"`Be sober-minded in thy youth, and delight to read the scriptures and friends books,
+Be sober-minded in thy youth, and delight to read the scriptures and friends books,
 and take heed to what thou readest, to conform thy practice thereto,
 as far as thou understandest, and pray often to the Lord,
 that he will increase thy knowledge in his law,
@@ -471,14 +479,14 @@ and take heed for the time to come that thou run not into the same evil again:
 Keep thy heart clean; watch against the evil in thyself, in that which shews it,
 wherein there is power, and thereby thou hast power to overcome all evil.
 
-"`Dear child, avoid sensual and sinful pleasures,
+Dear child, avoid sensual and sinful pleasures,
 which are but transient delights terminating in misery;
 but keep under the cross to the carnal will and affections; avoid evil and loose company,
 for evil communications corrupt good manners; and associate with those who fear the Lord,
 who worship in spirit and in truth, whose lives are holy and exemplary,
 and whose conversation is pure and blameless.
 
-"`And now, Abigail, as to thy well being in this life,
+And now, Abigail, as to thy well being in this life,
 this is my advice and counsel unto thee; love thy dear mother; ever obey and honour her,
 and see thou grieve her not; be not stubborn or wilful,
 but submissive to her instruction, and obedient to her commands,
@@ -521,12 +529,17 @@ in thy advancing years, and all thy life long.
 These things I give thee in charge to observe as
 my Mind and Will and Counsel unto thee unalterable,
 
+[.signed-section-closing]
 Thy dear father,
 
-"`FRANCIS HOWGILL.`"
+[.signed-section-signature]
+Francis Howgill.
 
+[.signed-section-context-close]
 26th, 5 mo.
-1666.`"
+1666.
+
+--
 
 The people called Quakers appear to have been pretty much
 undisturbed by the civil power through this year,
@@ -546,7 +559,7 @@ for which they took away his bed, and committed him to prison.
 {footnote-paragraph-split}
 From Thomas Cole of Lexden in
 Essex nine cows worth 30£. were taken by distress for tithes.
-[.book-title]#Besse,# vol. i.£. p. 202.
+[.book-title]#Besse,# vol. i. p. 202.
 {footnote-paragraph-split}
 Robert Latche of Cherinton in Kent,
 had his corn seized and taken off his wagon, as he was bringing it home,
