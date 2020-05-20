@@ -13,7 +13,7 @@
 * At last by Application to the King he obtains his Release
 * The City of London laid waste by Fire
 * Bull and Mouth Meeting-house destroyed
-* Grace - Church -street Meeting-house built
+* Grace Church-street Meeting-house built
 * George Fox travels through several Counties to London
 * His Labour and Travels in establishing Discipline amongst his Friends
 * Dissertation on Discipline.
@@ -29,10 +29,10 @@ instead of sympathizing in the general distress, or conforming to the occasion,
 and attempting a reformation of the dissolute manners of the age, as if neither war,
 pestilence, or any symptom of divine displeasure, were calamities of equal magnitude,
 with the existence of non-conformity, they proceeded to enact a fresh penal law,
-commonly known by the name of The Oxford five-mile act,
+commonly known by the name of _The Oxford five-mile Act,_
 which received the royal assent October the 31st, 1665.
-It was entitled, An Act to Restrain Non-conformists from Inhabiting Corporations;
-the reamble to which sets forth,
+It was entitled, _An Act to Restrain Non-conformists from Inhabiting Corporations;_
+the preamble to which sets forth,
 
 [.embedded-content-document.legal]
 --
@@ -45,13 +45,13 @@ in the hearts of his Majesty`'s subjects to the church and kingdom:
 Be it therefore enacted,
 that all such non-conformist ministers shall take the following oath,
 
-I, A. B. do swear that it is not lawful upon any pretence whatsoever;
+_I, A. B. do swear that it is not lawful upon any pretence whatsoever;
 to take up arms against the king;
 and that I do abhor that traiterous position of taking
 arms by his authority against his person,
 or against those that are commissioned by him, in pursuance of such commissions;
 and that I will not at any time endeavour any alteration
-of government in church or state.
+of government in church or state._
 
 And all such non-conformist ministers shall not after the 24th of March,
 unless in passing the road, come or be within five miles of any city,
@@ -270,7 +270,10 @@ without molestation.
 Given under my hand at Scarborough castle this 1st day of September, 1666.
 
 [.signed-section-signature]
-Jordan Crosslands, Governor of Scarborough Castle.
+Jordan Crosslands
+
+[.signed-section-context-close]
+Governor of Scarborough Castle.
 
 --
 
@@ -1263,9 +1266,7 @@ and as they aim at no more,
 so that simplicity of life is what they observe with great satisfaction;
 though it sometimes happens not to be without the
 mockeries of the vain world they live in.
-
-[.signed-section-signature]
-Thus far William Penn.^
+__Thus far William Penn.__^
 footnote:[Penn`'s [.book-title]#Rise and Progress#]
 
 --
