@@ -1,11 +1,19 @@
 == Chapter XXIII.
 
-Meeting-houses in London shut up.--George Fox taken before the Mayor and dismissed.--An
-episcopalian Priest brought to preach at Gracious-street.--George Whitehead preaches
-after him.--Proceedings at Peel-meeting.--Trial of William Penn and William Mead for
-a Riot.--Acquitted by the fury.--The fury fined and imprisoned.--Trial of Thomas Rudyard
-and others.--Sentence passed on the Prisoners clandestinely.--Imprisonment in an infected
-jail.--Accounts of these Trials published.--The Recorder rewarded for his Service.
+[.chapter-synopsis]
+* Meeting-houses in London shut up
+* George Fox taken before the Mayor and dismissed
+* An episcopalian Priest brought to preach at Gracious-street
+* George Whitehead preaches after him
+* Proceedings at Peel-meeting
+* Trial of William Penn and William Mead for a Riot
+* Acquitted by the jury
+* The jury fined and imprisoned
+* Trial of Thomas Rudyard and others
+* Sentence passed on the Prisoners clandestinely
+* Imprisonment in an infected jail
+* Accounts of these Trials published
+* The Recorder rewarded for his Service
 
 Upon the commencement of this act`'s taking place, in London and several other places,
 the meeting-houses were shut up, and a guard placed at the door, to keep the people out,
@@ -19,8 +27,8 @@ and both of them were carried before the Lord Mayor by a constable and an inform
 attended by a guard of soldiers.
 As they were pasting along the informer discovered himself by the following expression,
 It will never be a good world, until all the people come to the good old religion,
-that was two hundred years ago: Upon hearing which, George said, What!
-A papist informer.
+that was two hundred years ago: Upon hearing which, George said, '`What!
+A papist informer.`'
 When they came to the court before the mayor`'s house,
 some of the people asked George Fox why he was brought thither?
 he replied, ask that informer, and ask him his name.
@@ -29,7 +37,7 @@ for the Lord Mayor will know by what authority you intrude yourself with soldier
 into the execution of those laws which belong to the civil magistrate to execute.
 The informer unwilling to abide the examination, slipped out of the court,
 and was received by the populace in the street with aloud cry of,
-a papist informer! a papist informer! who were like to have handled him roughly,
+'`a papist informer! a papist informer!`' who were like to have handled him roughly,
 had not George Fox persuaded the constable and soldiers to rescue him out of their hands.
 By which means he got into an house, changed his periwig, and made his escape.
 The informer being fled, and no body appearing in that quality, the Lord Mayor,
@@ -104,8 +112,7 @@ up and preached after the minister had ended,
 but what he preached the witnesses could not tell,
 {footnote-paragraph-split}
 The Mayor said, if the minister had done it was a conventicle.
-{footnote-paragraph-split}
-G+++.+++ Whitehead.
+_G+++.+++ Whitehead._
 If I had preached sedition or discord against either
 the government or peace of the nation,
 I might justly suffer by this law;
@@ -113,48 +120,38 @@ being an act to prevent and suppress seditious conventicles.
 But it was no other but the gospel of peace and salvation by Jesus Christ that I preached,
 to exalt the power of godliness, directing the people thereto,
 that they may not remain under empty and dead forms of profession.
-{footnote-paragraph-split}
-Mayor.
+_Mayor._
 I believe both you and others have done good--Well,
-I must fine you 40£.£. this being for the second offence;
+I must fine you 40£. this being for the second offence;
 you were convicted before Sir Joseph Sheldon once before.
-{footnote-paragraph-split}
-G+++.+++ Whitehead.
+_G+++.+++ Whitehead._
 Must I suffer for preaching the gospel, as if I had been preaching sedition?
 Doth the law make no difference?
 Besides I was not convicted according to this law be fore justice Sheldon,
 for it was there made appear that the witness forswore himself;
 for he swore that he took me preaching,
 when many could testify (as some did) that I was praying, and not preaching at that time.
-{footnote-paragraph-split}
-Mayor.
+_Mayor._
 But were you on your knees with your hat off when they took you?
-{footnote-paragraph-split}
-G+++.+++ Whitehead.
+_G+++.+++ Whitehead._
 Yea, I was, and the meeting was in a solemn posture of prayer,
 the men with their hats off: And the soldiers pulled me down when I was praying.
-{footnote-paragraph-split}
-Mayor.
+_Mayor._
 However, you were in a religious exercise.
-{footnote-paragraph-split}
-G+++.+++ Wbitehead.
+_G+++.+++ Wbitehead._
 If preaching must be accounted a religious exercise, not allowed by the liturgy,
 yet I do not understand that prayer is included in the clause.
 "`Every person who shall take upon him to preach or teach in any such meeting,
-and shall be thereof convicted, shall forfeit 20L`" Now here is no praying mentioned.
+and shall be thereof convicted, shall forfeit 20£`" Now here is no praying mentioned.
 Now I desire thy judgment, whether preaching or teaching can be meant praying?
-{footnote-paragraph-split}
-Mayor.
+_Mayor._
 No, praying is not here mentioned; however your conviction is recorded,
-you may make your appeal.£.
-{footnote-paragraph-split}
-G+++.+++ Whitehead.
+you may make your appeal.
+_G+++.+++ Whitehead._
 To whom shall I make my appeal but to those that wrong me.
-{footnote-paragraph-split}
-Mayor.
-I must do according to law; I must sine you 40£.£.
-{footnote-paragraph-split}
-G+++.+++ Whitehead.
+_Mayor._
+I must do according to law; I must fine you 40£.
+_G+++.+++ Whitehead._
 That law which makes no distinction be tween preaching sedition
 and preaching the gospel of peace I must deny,
 as being both against reason and against God, and God, who judgeth righteously,
@@ -213,20 +210,27 @@ standing on a bulk or stall.
 George Whitehead answered, That is not true: I was praying, standing on the ground,
 but leaning on a stall.
 
-Soldiers.
+[.discourse-part]
+_Soldiers._
 We took him praying, but leaning on a bulk.
 
-George Whitehead.
+[.discourse-part]
+_George Whitehead._
 See how confused and contradictory they are in their evidence,
 for preaching and praying are two things;
 neither is praying mentioned in the clause of that act which
 is made against such as take upon them to preach or teach.
 
-Justice Foster.
+[.discourse-part]
+_Justice Foster._
 You conjured them together to the meeting.
 
-George Whitehead.
+[.discourse-part]
+_George Whitehead._
 That`'s not true, for they were gathered before I came to the meeting.
+
+[.small-break]
+'''
 
 The major reproving the soldiers for going beyond his order,
 which was to keep friends in the street, and to keep sentry at the door,
@@ -235,22 +239,32 @@ but not to take them prisoners.
 Justice Bowles, in excuse of the soldiers, said, Sir,
 after you were gone I ordered them to take those that preached, and I thank them.
 
-Justice Foster.
+[.discourse-part]
+_Justice Foster._
 What a devil did you come there to pray for?
 
-George Whitehead.
+[.discourse-part]
+_George Whitehead._
 Do these words become a magistrate?
 We did not meet to hear or sing ballads in the street, nor do we meet at play houses,
 nor at bawdy-houses, nor at drinking-houses, to be drunk, where the devil is served;
-but singly to serve and worship the living God,
+but singly to serve and worship the living God.
+
+[.small-break]
+'''
+
 The major and some more with him seemed highly offended at these expressions,
-calling out, Whom do you accuse?
-whom do you accuse for going to bawdy-houses?
+calling out, '`Whom do you accuse?
+whom do you accuse for going to bawdy-houses?`'
 Whereupon some of the company present smiled one upon another.
 
-George Whitehead.
+[.discourse-part]
+_George Whitehead._
 I accuse none, but tell you what meetings we do not come at, nor own;
 and for what end we do meet.
+
+[.small-break]
+'''
 
 The information against John Scot was, that they took him preaching, which was,
 that when they were behaving with rudeness and violence he desired them to be moderate.
@@ -282,8 +296,8 @@ privileges of the people in the prisoners and the jury.
 
 The indictment set forth, that William Penn and William Mead,
 with divers other persons to the number of 300,
-at Grace-church-street in the city of London, on the 15th of August,
-with force and arms tumultuously assembled together, and that William Perm,
+at Grace Church-street in the city of London, on the 15th of August,
+with force and arms tumultuously assembled together, and that William Penn,
 by agreement between him and William Mead, had preached there in the public street,
 whereby was caused a great concourse of people.
 To this Indictment they severally pleaded not guilty.
@@ -312,15 +326,15 @@ Who replied, "`It is a maxim in your own law that no man is bound to accuse hims
 why then dost thou go about to ensnare me?`"
 The recorder, in resentment, returned, "`Sir, hold your tongue,
 I did not go about to ensnare you.`"
-Then William Penn freely declared we confess ourselves so far from recanting
+Then William Penn freely declared, '`we confess ourselves so far from recanting
 or declining to vindicate our assembling ourselves to preach,
 pray, or worship the eternal, holy, just God,
 that we believe it to be out indispensable duty to meet upon so good an account;
 nor shall all the powers upon earth be able to divert
 us from reverencing and adoring God,
-who made us.
-Richard Brown alledged, you are not here for worshipping God, but for breaking the law;
-you do yourselves a great deal of wrong in going on in that discourse.^
+who made us.`'
+Richard Brown alledged, '`you are not here for worshipping God, but for breaking the law;
+you do yourselves a great deal of wrong in going on in that discourse.`'^
 footnote:[This appears to me a nice distinction in terms, without a difference in effect.
 The law alluded to by Brown was made against all worship not according to the liturgy, etc.
 The Quakers worship was from conscientious conviction, not according thereto,
@@ -352,21 +366,27 @@ he did not know were the law was to be found:
 Its Lex non scripta, that which many have studied thirty or forty years to know,
 and would you have me tell you in a moment?`"
 
-William Penn.
+[.discourse-part]
+_William Penn._
 If the common law be so hard to be understood, it is far from being common;
 but if Lord Coke in his institutes be of any authority, he tells us,
 that common law is common right, and that common right is the great charter privileges.
 
-Recorder.
+[.discourse-part]
+_Recorder._
 You are a troublesome fellow,
 and it is not for the honour of the court to suffer you to go on.
 
-William Penn.
+[.discourse-part]
+_William Penn._
 I design no affront to the court, but to be heard in my just plea;
 and I must plainly tell you, that if you deny me the oyer of that law,
 which you suggest I have broken, you do at once deny me an acknowledged right,
 and evidence to the whole world your resolution to sacrifice the privileges
 of Englishmen to your sinister and arbitrary designs.
+
+[.small-break]
+'''
 
 This exasperated the recorder to that degree that
 he called to the officers to take him away.
@@ -388,7 +408,9 @@ as their trophies, by our pretended forfeitures for conscience-sake.
 William Mead, being left alone at the bar,
 also addressed the jury in the following speech:
 
-"`Ye men of the jury, I now stand here to answer to an indictment against me,
+[quote]
+____
+Ye men of the jury, I now stand here to answer to an indictment against me,
 which is a bundle of stuff, full of lies and falsehoods;
 for therein I am accused that I met with force and arms unlawfully and tumultuously.
 Time was when I had freedom to use a carnal weapon, and then I thought I feared no man:
@@ -399,7 +421,8 @@ an oyer of the law on which our indictment is grounded.
 If the recorder will not tell you what makes a riot, etc.
 Coke tells us, a riot is, when three or more are met together to beat a man,
 or to enter forcibly into another man`'s land, to cut his grass, his wood,
-or break down his pales.`"
+or break down his pales.
+____
 
 The recorder, pulling off his hat in a contemptuous manner, said, "`I thank you, Sir,
 for telling me what the law is.`"
@@ -420,12 +443,16 @@ whether it be not contrary to the undoubted right of every Englishman to give th
 their charge in the absence of the prisoners`" The recorder answered sneeringly,
 "`ye are present, ye do hear, do you not?`"
 
-William Penn.
+[.discourse-part]
+_William Penn._
 No thanks to the court that ordered me into the bail-dock: And you of the jury,
 take notice that I have not been heard,
 neither can you legally depart the court before I have been fully heard,
 having at least ten or twelve material points to offer,
 in order to invalidate the indictment.
+
+[.small-break]
+'''
 
 This speech being very unpalatable to the court, the recorder cried out,
 pull that fellow down, pull him down.
@@ -453,10 +480,15 @@ and forced them up again to bring in a verdict they would accept.
 Upon their return they produced their verdict in writing, signed by them all, as follows,
 viz.
 
-"`We the jurors hereafter named do find William Penn guilty of speaking or preaching
+[.embedded-content-document.legal]
+--
+
+We the jurors hereafter named do find William Penn guilty of speaking or preaching
 to an assembly met together in Gracious-street the 14th August 1670,
 and that William.
-Mead is not guilty of the said indictment.`"
+Mead is not guilty of the said indictment.
+
+[.signed-section-signature]
 Thomas Veer, foreman.
 Charles Meilson.
 Edward Bushel.
@@ -469,6 +501,8 @@ Henry Mitchel.
 James Damask.
 John Brightman.
 William Plumsted.
+
+--
 
 This both the mayor and recorder resented so highly
 that they exceeded the bounds of moderation,
@@ -553,17 +587,19 @@ and the next day he was sent to Newgate, under pretence,
 that be stirred up persons to disobedience to the laws,
 and abetted and encouraged such as met in unlawful and seditious conventicles,
 contrary to the late act:
-But his cafe being brought before the court of common-pleas by habeas corpus,
+But his case being brought before the court of common-pleas by habeas corpus,
 that court gave judgment, that he was unjustly imprisoned and unlawfully detained.
 Whereupon he was set at liberty.
-The magistrates, mortified at their dis grace and disappointment,
+The magistrates, mortified at their disgrace and disappointment,
 caused an indictment to be framed against him,
 for hindering due course of law against one Samuel Allenbridge.
 On this trial he so well defended his cause that he was acquitted.
 Their efforts to punish him on these accounts failing them,
 they next availed themselves of his religious profession,
 and committed him to Newgate from a meeting at White-hart
-court.]) were brought to trial upon like indictments,
+court.]
+
+were brought to trial upon like indictments,
 for meeting in a riotous manner.
 The same jury, who acquitted Penn and Mead,
 had been also sworn in court to try these other Quakers;
@@ -639,7 +675,7 @@ the bench passing sentence without any of them hearing it:
 So determined were they to effect their purpose of punishing them,
 that they went over all forms of legal proceedings in favour of the prisoners.
 
-It appeared by the newgate book that this clandestine
+It appeared by the Newgate book that this clandestine
 sentence condemned them in sundry fines,
 some forty marks, some twenty;
 and as a special mark of their vindictive disposition towards Thomas Rudyard,
@@ -647,11 +683,11 @@ he was fined 100£. and all to be committed to prison,
 until they should pay their respective fines.
 
 But it appearing that Newgate was so full of prisoners that there
-could not be convenient '` room for this additional number;
+could not be convenient room for this additional number;
 the court entered into a consultation where to imprison them,
 and being informed that during the sessions the master of the house
 and one of the prisoners had died of the spotted fever,
-out of the dog by Newgate, they ordered these friends to be imprisoned there;
+out of the _dog_ by Newgate, they ordered these friends to be imprisoned there;
 and a keeper was appointed to prevent their going out on any occasion.
 Yet through the goodness of divine providence they were preserved in health,
 beyond the expectation of their friends or hope of their enemies,
@@ -681,13 +717,13 @@ vilified and condemned, the great preserver of our lives, freedom and property.
 
 Thirdly, that he be brought to trial in order to condign punishment,
 in such manner as the house shall judge most fit and requisite.
-And two days after, "`Die Veueris, 13th December, 1667, resolved,
+And two days after, "`__Die Veueris,__ 13th December, 1667, resolved,
 that the precedent or practice of fining or imprisoning
 jurors for verdicts is illegal.`"
 
 The account of the succeeding trials of these people
 at that session was published by Thomas Rudyard,
-under the title of, The second Part of the People`'s ancient and just Liberties asserted,
+under the title of, [.book-title]#The Second Part of the People`'s Ancient and Just Liberties Asserted,#
 who as a lawyer was well qualified with precision to point out the right of juries,
 and the unlawfulness of the proceedings then in vogue.
 These pieces were well accepted by the public, particularly the former,
@@ -704,8 +740,8 @@ which happened the 16th of the same month, viz. September 1670.
 His father was at this time perfectly reconciled to his son,
 and left him both his paternal blessing and a plentiful estate:
 And seems to have conceived a favourable opinion of his friends,
-as appears by his deathbed expressions, record ed by his son in that excellent treatise,
-No Cross no Crown.
+as appears by his deathbed expressions, record ed by his son in that
+excellent treatise, [.book-title]#No Cross No Crown.#
 
 But the intemperate and extrajudicial proceedings of the recorder were
 looked upon in a different light by his colleagues of the bench.
