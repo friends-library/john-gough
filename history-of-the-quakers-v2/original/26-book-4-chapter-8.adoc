@@ -1,14 +1,17 @@
 == Chapter VIII.
 
-Robert Barclay applies to the King for relief.--Earl of Arrol requires Bonds,
-which the Prisoners refuse.--Ordered to pay their Fines to George Melvil.
-Who makes excessive Distraints.--Distrains David Barclay`'s labouring Oxen,
-for which he can find no Purchasers.--George Skein, Provost,
-unreasonably severe.--Alexander Burnet, Bailiff,
-an active Accomplice in Persecution.--Receives Orders to remove sundry
-Prisoners to a more commodious Prison but declines Compliance.--Strait
-and hard Imprisonment.--Some ordered to be removed,
-and some released.--Their Treatment at Bamff more liberal and humane.
+[.chapter-synopsis]
+* Robert Barclay applies to the King for relief
+* Earl of Arrol requires Bonds, which the Prisoners refuse
+* Ordered to pay their Fines to George Melvil
+* Who makes excessive Distraints
+* Distrains David Barclay`'s labouring Oxen, for which he can find no Purchasers
+* George Skein, Provost, unreasonably severe
+* Alexander Burnet, Bailiff, an active Accomplice in Persecution
+* Receives Orders to remove sundry Prisoners to a more commodious Prison but declines Compliance
+* Strait and hard Imprisonment
+* Some ordered to be removed, and some released
+* Their Treatment at Bamff more liberal and humane
 
 During this time Robert Barclay being in London, and gaining admittance to the king,
 delivered him a narrative of these proceedings,
@@ -47,7 +50,7 @@ were released by the remaining commissioners.
 Melvil soon after applied himself to the execution of his commission,
 and from some took goods or cattle to double,
 and from others to who makes treble the value of their respective fines.
-Coming to Jonn Skein`'s shop, under pretence that there were not goods sufficient,
+Coming to John Skein`'s shop, under pretence that there were not goods sufficient,
 though three times the value of his fine, he went to his dwelling house,
 where entrance being refused him,
 he applied to the provost for a warrant to break open his doors,
@@ -93,7 +96,7 @@ in the dispute they held with the students of Aberdeen,
 and also in the reports thereof, published an account of it.
 The students thought it necessary for their reputation to publish an answer,
 which when they had completed,
-they could find no printer who would undertake the publication at his own risque,
+they could find no printer who would undertake the publication at his own risk,
 whereby they were obliged to let their performance lie dormant,
 or print it at their own expense.
 Having with some difficulty raised the money in hopes
@@ -207,7 +210,7 @@ and representing the cruelty of their confinement,
 the commissioners issued an order for the removal of part of the prisoners to Bamff,
 and for the release of part of them from prison,
 confining them to their own houses and parishes: These last said,
-"`they did accept of their liberty; "` but as to the restrictions enjoined,
+"`they did accept of their liberty; but as to the restrictions enjoined,
 they should not esteem themselves under an obligation to submit thereto.`"
 And those who were ordered to be removed to Bamff, being delivered over to the sheriff,
 he also gave them their liberty,
@@ -276,4 +279,4 @@ by means of the opportunities they found of preaching from those prisons,
 into which they were thrust on purpose to prevent them from preaching.
 And that during the persecution the appointed meetings
 were not only constantly held at the usual times,
-but greatly increascd in the numbers attending them.
+but greatly increased in the numbers attending them.
