@@ -1,4 +1,4 @@
-== CHAP. XXIV.
+== Chapter XXIV.
 
 [.chapter-synopsis]
 * Illegal Proceedings at Horsly-down
@@ -36,8 +36,8 @@ for demolishing the said meeting-house.
 [.blurb]
 === An order of the king and council for demolishing the meeting-house at Horsly-down in Southwark. At the court at Whitehall, 29th July, 1670.
 
-[.letter-heading]
-Present.
+[.no-indent.emphasized]
+Present:
 
 The King`'s most excellent Majesty.
 
