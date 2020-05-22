@@ -1,14 +1,21 @@
 == CHAP II.
 
-Persecution recommenced.--George Fox imprisoned at Worcester,
-together with Thomas Lower.--Brought to trial at the Sessions.--Oaths of Allegiance
-and Supremacy required of George Fox.--For refusing be is remanded to Prison.--Thomas
-Lower discharged.--And solicits his Father`'s Discharge in vain.--George Fox removed
-by Habeas Corpus.--By Parker`'s Contrivance remanded to Worcester.--Brought again
-before the Sessions.--George Fox`'s Vindication.--Clandestinely condemned in a
-Premunire.--Falls sick in Prison.--The King offers him a Pardon;
-which he is not free to accept.--Removed again by Habeas Corpus and released--After
-his Release goes down to Swarthmore to reside.
+[.chapter-synopsis]
+* Persecution recommenced
+* George Fox imprisoned at Worcester, together with Thomas Lower
+* Brought to trial at the Sessions
+* Oaths of Allegiance and Supremacy required of George Fox
+* For refusing be is remanded to Prison
+* Thomas Lower discharged
+* And solicits his Father`'s Discharge in vain
+* George Fox removed by Habeas Corpus.--By Parker`'s Contrivance remanded to Worcester
+* Brought again before the Sessions
+* George Fox`'s Vindication
+* Clandestinely condemned in a Premunire
+* Falls sick in Prison
+* The King offers him a Pardon; which he is not free to accept
+* Removed again by Habeas Corpus and released
+* After his Release goes down to Swarthmore to reside
 
 For the indulgence was hardly sooner revoked, than the informers,
 priests and magistrates busied themselves in stirring up fresh persecution.
@@ -159,16 +166,16 @@ footnote:[This priest, called Doctor Crowther, though thus regardless of his flo
 appears to have been a rigid exactor of their tithes;
 of which we meet with the following instances in [.book-title]#Besse`'s Sufferings.#
 In 1676 he prosecuted John Halford aforesaid, on the statute for treble damages,
-for a claim of seven year tithes, worth about 5£.£. per annum,
+for a claim of seven year tithes, worth about 5£. per annum,
 who by execution at several times had taken from him goods and chattels to the
-value of 158£.£. In 1678 William Banbury was arrested for tithes at his suit,
+value of 158£. In 1678 William Banbury was arrested for tithes at his suit,
 and committed to Worcester jail, afterward removed to London,
 and committed to the Fleet prison; and the same year his mother, Mary Banbury,
 was cast into the same prison at his suit, on the same account.
 He prosecuted William Parr of Shipston several times.
 Upon one of these prosecutions he was imprisoned above a year at Worcester,
 and a judgment being obtained against him for 8£.£. he lost by distraint
-four cows worth 14£.£. At another time for the like demand of 8£.£. he
+four cows worth 14£.£. At another time for the like demand of 8£. he
 suffered by distraint of four cows and two horses 30£.£. Crowther had
 the power of holding an ecclesiastical court once in three years,
 to which the said William Parr was cited for not coming to hear common prayer,
@@ -315,16 +322,24 @@ Upon this account application was made to justice Parker,
 for liberty for him to be removed out of the jail into the city,
 who after much importunity wrote the following note to the jailer,
 
-"`Mr. Harris,
+[.embedded-content-document.letter]
+--
 
-"`I have been much importuned by some friends of George Fox to write to you:
+[.salutation]
+Mr. Harris,
+
+I have been much importuned by some friends of George Fox to write to you:
 I am informed by them that he is in a very weak condition, and very much indisposed.
 What lawful favour you can do, for the benefit of air for his health, pray show him.
 I suppose next term they will make application to the king, I am, Sir,
 
-"`Your loving friend,
+[.signed-section-closing]
+Your loving friend,
 
-"`HENRY PARKER.`"
+[.signed-section-signature]
+Henry Parker
+
+--
 
 George Fox`'s wife finding him fixed in prison under the sentence of premunire,
 came up from the north to attend him, and also to solicit his discharge,
