@@ -1,9 +1,14 @@
 == Chapter VI.
 
-Fresh Solicitation for relief of Friends.--Discovery of the Popish Plot.--Roger
-Longworth committed to Prison under pretext of being a concealed Papist.--Privately
-discharged.--Successive Disappointments in the Sale of distrained Cattle.--Account
-of Isaac Penington.--Parliament dissolved.--New Parliament summoned.
+[.chapter-synopsis]
+* Fresh Solicitation for relief of Friends
+* Discovery of the Popish Plot
+* Roger Longworth committed to Prison under pretext of being a concealed Papist
+* Privately discharged
+* Successive Disappointments in the Sale of distrained Cattle
+* Account of Isaac Penington
+* Parliament dissolved
+* New Parliament summoned.
 
 George Fox, after his return from Holland,
 and visiting the meetings of his friends in various parts of England,
@@ -80,10 +85,13 @@ whereby one protestant fights against another.
 Roger Longworth, of Bolton in Lancashire, occasionally travelling into Cheshire,
 was by two officious justices sent to prison by the following mittimus.
 
-COM.
-CHESTER SS.
+[.embedded-content-document.legal]
+--
 
-"`Forasmuch as by reason of several expressions, which we have,
+[.letter-heading]
+Com. Chester SS.
+
+Forasmuch as by reason of several expressions, which we have,
 in Holme in the county of Chester, heard from a strange person,
 who calls himself Roger Longworth, of Bolton in the county of Lancaster,
 we do suspect the said Roger Longworth is a papist,
@@ -99,14 +107,19 @@ of the peace to be held in and for this county of Chester,
 without bail or mainprize.
 For so doing this shall be your warrant.
 Given under our hands and seals at Holme this 20th day of February,
-Anno rni Caroli fecundi, etc. tricesimo, Annoq.
-Dom. 1678-9.
+_Anno rni Caroli fecundi, etc. tricesimo, Annoq.
+Dom._ 1678-9.
 
-"`THOMAS MANWARING, Bart.
+[.signed-section-signature]
+Thomas Manwaring, Bart.
 
-"`JEFFRY SHACKERLY, Knt.`"
+[.signed-section-signature]
+Jeffry Shackerly, Knt.
 
-To the Keeper of Chester Castle.`"
+[.signed-section-context-close]
+To the Keeper of Chester Castle.
+
+--
 
 After he had been left in prison about two months he was set at
 liberty by a private order from the said justice Manwaring.
