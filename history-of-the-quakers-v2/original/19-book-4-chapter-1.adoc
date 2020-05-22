@@ -1,11 +1,15 @@
-== BOOK IV, Chapter I. From the Declaration of Indulgence to the Death of Kjng Charles II.
+== BOOK IV, Chapter I. From the Declaration of Indulgence to the Death of King Charles II.
 
-The King publishes his Declaration of Indulgence to Dissenters.--Heads
-thereof.--Measures adopted by the People called Quakers to procure the
-release of their Friends.--Thomas Hicks calumniates the Quakers,
-so called.--Answered by William Penn,--Partial Proceedings
-of the Baptists.--Public Affairs.--Declaration of Indulgence
-revoked.--Change in the Disposition of the Parliament.
+[.chapter-synopsis]
+* The King publishes his Declaration of Indulgence to Dissenters
+* Heads thereof
+* Measures adopted by the People called Quakers to procure the release of their Friends
+* Thomas Hicks calumniates the Quakers, so called
+* Answered by William Penn
+* Partial Proceedings of the Baptists
+* Public Affairs
+* Declaration of Indulgence revoked
+* Change in the Disposition of the Parliament
 
 The people called Quakers enjoyed little ease to their persons or security
 of their property from their first appearance to this time;
@@ -20,29 +24,36 @@ by virtue of his prerogative, as supreme in ecclesiastical affairs,
 to issue his proclamation for suspending the execution of the penal laws against nonconformists,
 in substance as follows:
 
+[.numbered]
 1+++.+++ The King publishes it, in virtue of his supreme power in ecclesiastical matters,
 which is aright inherent in his person, and acknowledged by several acts of parliament.
 
+[.numbered]
 2+++.+++ He declares his express resolution to be,
 that the church of England be preserved and remain entire in her doctrine,
 discipline and government, as now it stands established by law.
 
+[.numbered]
 3+++.+++ That no person shall be capable of holding any sort of
 ecclesiastical benefice or preferment of any kind,
 who is not entirely conformable.
 
+[.numbered]
 4+++.+++ That the execution of all penal laws in matters ecclesiastical
 against whatsoever class of nonconformists or recusants,
 be immediately suspended.
 
+[.numbered]
 5+++.+++ He declares that he will from time to time allow such a sufficient number of places,
 as shall be desired in all parts of his kingdom,
 for such as did not conform to the church of England, to meet and assemble in,
 in order to their public worship and devotion.
 
+[.numbered]
 6+++.+++ That none of his subjects do presume to meet in any place,
 until such place be allowed, and the teacher of that congregation be approved by him.
 
+[.numbered]
 7+++.+++ That this indulgence,
 as to the allowance of public places of worship and approbation of teachers,
 shall extend to all sorts of nonconformists and recusants,
@@ -202,13 +213,13 @@ in vilifying that virtue, which they had not the courage to imitate.
 
 One Thomas Hicks, a preacher among the Baptists in London,
 employed his pen in writing several pamphlets successively,
-under the invidious title of A Dialogue between a Christian and a Quaker;
+under the invidious title of [.book-title]#A Dialogue between a Christian and a Quaker;#
 which (as usual in that unfair method of handling polemical
 subjects) makes the fictitious Quaker speak in character,
 or out of character, as best answered the author`'s design;
 which appears not to have been to investigate truth,
 so much as to represent his Quaker a deformed, ridiculous and erroneous being,
-and for that purpose make him (says Thomas Ellwood ) utter
+and for that purpose make him (says Thomas Ellwood) utter
 "`some things abominably false;
 others so ridiculously foolish,
 as could not reasonably be supposed to come into the conceit,
@@ -218,7 +229,7 @@ that went under the name of a Quaker.`"
 The unfair dealing and perverse misrepresentations
 of this antagonist making a defence necessary,
 this business was undertaken by William Penn, in two books,
-the first entitled Reason against Railing; the other, The counterfeit Christian detected.
+the first entitled [.book-title]#Reason against Railing;# the other, [.book-title]#The Counterfeit Christian Detected.#
 In which Hicks is not only convicted of publishing many palpable forgeries,
 unfair perversions, and groundless calumnies against the people called Quakers at large,
 but having indulged his invidious disposition so
