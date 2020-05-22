@@ -1,19 +1,21 @@
-== Chapter XXI. ISLE or MAN.
+== Chapter XXI. Isle of Man.
 
-Persecution in the Isle of Man exceedingly grievous.--William Callow and
-Evan Christen suffer severe Imprisonment for very trivial Demands.--Warrant
-issued by two Priests for committing the Quakers,
-so called, to prison.--They are excommunicated without Process,
-and delivered over to the secular Power.---Order for their
-Transportation.--Put on board a ship to be transported,
-upon which the Sailors leave the Ship.--Forced on board other Ships and taken to Dublin,
-and sent back by the Mayor.--William Callow and Evan Christen have
-a long Conference with the Bishop and Dean.--They go to the Island,
-but are not suffered to land.--Their Estates seized.--William Callow,
-after an ineffectual Application to the Earl of Derby,
-solicits the Intercession of the Duke of Tork and Prince Rupert.--The Bishop`'s
-Inhumanity.--Four Women banished with Circumstances of Barbarity.--Attempt to
-transport William Callow to Virginia.--Is landed in Ireland.
+[.chapter-synopsis]
+* Persecution in the Isle of Man exceedingly grievous
+* William Callow and Evan Christen suffer severe Imprisonment for very trivial Demands
+* Warrant issued by two Priests for committing the Quakers, so called, to prison
+* They are excommunicated without Process, and delivered over to the secular Power
+* Order for their Transportation
+* Put on board a ship to be transported, upon which the Sailors leave the Ship
+* Forced on board other Ships and taken to Dublin, and sent back by the Mayor
+* William Callow and Evan Christen have a long Conference with the Bishop and Dean
+* They go to the Island, but are not suffered to land
+* Their Estates seized
+* William Callow, after an ineffectual Application to the Earl of Derby, solicits the Intercession of the Duke of Tork and Prince Rupert
+* The Bishop`'s Inhumanity
+* Four Women banished with Circumstances of Barbarity
+* Attempt to transport William Callow to Virginia
+* Is landed in Ireland
 
 Persecution in this sequestered island,
 under the arbitrary rule of the lord of the land (the Earl
@@ -68,27 +70,35 @@ to which ecclesiastical power was stretched in this wretched island,
 by the following order issued by two priests, judges of the Bishop`'s court,
 for imprisoning the Quakers.
 
-"`We have received orders from our reverend ordinary
+[.embedded-content-document.legal]
+--
+
+We have received orders from our reverend ordinary
 to admonish the Quakers to conform and come to church,
 or be committed until they submit to law and forasmuch as they refuse,
 after several charges and publications in the parish church,
 but continue their refractoriness to all government of the church,
 and are therefore censured to be committed into St. Germain`'s prison,
 and there let them remain till orders given to the contrary,
-and for so doing this shall be your discharge.`"
+and for so doing this shall be your discharge.
 
-"`ROBERT PARR.
+[.signed-section-signature]
+Robert Parr.
 
-"`JOHN HARRISON.
+[.signed-section-signature]
+John Harrison.
 
-"`P. S. If they refuse to be committed by you,
+[.postscript]
+P+++.+++ S. If they refuse to be committed by you,
 call for the assistance of a soldier from Captain Ascough.
-Let the fumner put this in execution immediately.`"
+Let the summoner put this in execution immediately.
+
+--
 
 By this order the said William Callow,
 Evan Christen and some others were again lodged in their former dismal mansion of Germain`'s,
 and in about four months after all the women of this
-profession were arrested by a fumner or apparitor,^
+profession were arrested by a summoner or apparitor,^
 footnote:[These were the wife of said William Callow,
 (who being just recovering out of a fever, and unable either to walk or ride,
 was suffered to stay at home for the present) Jane Christen, Jane Kennell, Anne Christen,
@@ -172,14 +182,21 @@ who took away his sails, and would not let him put off without the prisoners,
 and his vessel was in danger of breaking.
 Upon which the mayor gave him the following order.
 
-"`SIR,
+[.embedded-content-document.legal]
+--
 
-"`You are hereby required to take back in your own vessel, the prisoners called Quakers,
+[.salutation]
+Sir,
+
+You are hereby required to take back in your own vessel, the prisoners called Quakers,
 which you brought against their voluntary consent out of the Isle of Man,
 and them to put on shore on the said island, to follow their necessary occasions;
 of which you may not sail at your peril.
 
-"`Dated the 27th of September, 1665.`"
+[.signed-section-context-close]
+Dated the 27th of September, 1665
+
+--
 
 Pursuant to this order he brought them back, but either being, or pretending to be,
 driven by the island by contrary winds, he carried them to Whitehaven,
@@ -221,31 +238,38 @@ The conference itself is too prolix to be introduced here at full length;
 But a small part thereof, as conveying an idea of this bishop`'s spirit,
 may not be impertinent to lay before the reader.
 
-Bishop.
+[.discourse-part]
+_Bishop._
 What have you to say to me?
 
-Answer.
+[.discourse-part]
+_Answer._
 We have to say to thee, viz, to let thee know that we are persecuted,
 and banished from place to place for conscience-sake, and most of it long of thee.
 
-Bishop.
+[.discourse-part]
+_Bishop._
 I did not banish you--I left you fast enough when I left the island.
 
-Answer.
+[.discourse-part]
+_Answer._
 Yet notwithstanding we know that our banishment is long of thee,
 or else the earl would be loath to use us there worse than his tenants in this country.
 
-Bishop.
+[.discourse-part]
+_Bishop._
 I have no more to do with you or say to you; but what I told you before,
 that if I can persuade my lord to the contrary, you shall not go again to the island.
 
-Answer.
+[.discourse-part]
+_Answer._
 Indeed we expect no better from the spirit of persecution in any whomsoever;
 but thou art contrary to the spirit of Christ, who laid,
 do unto all men as you would be done unto,
 who taught to love our enemies and not to persecute.
 
-Bishop.
+[.discourse-part]
+_Bishop._
 Yon are not persecuted but banished, because you do not come to church.
 
 How easily men suffer themselves to be imposed upon,
@@ -266,11 +290,17 @@ when the master sent a petition to the bishop,
 requesting that they might go on shore until he was ready to return, and then,
 if required, he would carry them back to England, whereunto the bishop replied,
 
-"`I am content that the Quakers be secured on shore until the return of the vessel,
+[.embedded-content-document.letter]
+--
+
+I am content that the Quakers be secured on shore until the return of the vessel,
 upon security given by the owner of the vessel and the Quakers
 for their return upon his departure from the island.
 
-"`ISAAC SODER and MAN.`"
+[.signed-section-signature]
+Isaac Soder and Man.
+
+--
 
 They continued at home about a month, when they were brought to Ramsey,
 and forced again from wife and relations.
@@ -330,9 +360,12 @@ they had applied by letter to the bishop for leave
 to return to their houses until the The spring,
 and then return to prison, they not having wherewith to subsist during the winter,
 nor necessaries for persons in their condition, but that the bishop,
-deaf to their entreaties, had re turned the following severe answer.
+deaf to their entreaties, had returned the following severe answer.
 
-"`If upon releasement they will put in security to promise
+[.embedded-content-document.letter]
+--
+
+If upon releasement they will put in security to promise
 to come to the service and conform to the order of the church,
 and all such as are excommunicated to acknowledge their schisms, and receive absolution,
 I shall so far presume upon my lord`'s favour, as to grant them liberty;
@@ -341,9 +374,13 @@ and if they miscarry in their health or lives,
 it is wholly imputable to their disobedience,
 and they must be accounted their own murderers; and this is all I can say to them.
 
-"`ISAAC SODER and MAN
+[.signed-section-signature]
+Isaac Soder and Man.
 
-"`Castletown, 15th December, 1666.`"
+[.signed-section-context-close]
+Castletown, 15th December, 1666.
+
+--
 
 Thus the bishop, who had power and influence to persecute with cruelty,
 but pretended want of power to relieve, while he wanted only tenderness to feel,
@@ -414,7 +451,7 @@ with aggravated circumstances of inhumanity.
 The master of the ship being brought before the governor and the bishop,
 represented the weak condition of the women, and what they had suffered at sea,
 and the danger to which they must certainly be exposed by being hurried again on board;
-but the bistiop, whose heart seems steeled against every impression of humanity,
+but the bishop, whose heart seems steeled against every impression of humanity,
 unmoved by the representation,
 sent an order to raise the parish people to put William Callow`'s wife on board.
 The messenger informed him she was very weak, and they did not know but in labour.

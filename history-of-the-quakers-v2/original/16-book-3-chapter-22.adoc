@@ -1,15 +1,24 @@
 == Chapter XXII.
 
-Persecution relaxed in England.--A Design to tolerate Dissenters.--Opposed by
-the Bishops.--The Parliament address the King for a Proclamation against Dissenters.--Conventicle
-Act.--Remarks thereupon.--Ecclesiastics promote the severe Execution thereof.--The
-People called Quakers the greatest Sufferers.--Many of them greatly spoiled.--Informers
-profligate and infamous.--Many of them perjure themselves by false Information.--Exorbitant
-in their Distraints.--Justices and Informers frequently exercise their Power
-beyond the Law.--Yet Appeals are generally ineffectual.--Arbitrary Misconstruction
-of the Word Conventicle.--Unfair Method of fining for a Preacher.--Some Justices
-discourage the Informers.--George Fox writes against the Act,
-and encourages his Friends to faithfulness.
+[.chapter-synopsis]
+* Persecution relaxed in England
+* A Design to tolerate Dissenters
+* Opposed by the Bishops
+* The Parliament address the King for a Proclamation against Dissenters
+* Conventicle Act
+* Remarks thereupon
+* Ecclesiastics promote the severe Execution thereof
+* The People called Quakers the greatest Sufferers
+* Many of them greatly spoiled
+* Informers profligate and infamous
+* Many of them perjure themselves by false Information
+* Exorbitant in their Distraints
+* Justices and Informers frequently exercise their Power beyond the Law
+* Yet Appeals are generally ineffectual
+* Arbitrary Misconstruction of the Word Conventicle
+* Unfair Method of fining for a Preacher
+* Some Justices discourage the Informers
+* George Fox writes against the Act, and encourages his Friends to faithfulness.
 
 Persecution in England seems to have been some time considerably relaxed,
 although not totally put a stop to, particularly in the city of London,
@@ -97,16 +106,19 @@ and force them to defile their consciences in declining their duty of divine
 worship according to their persuasion of the divine requirings.
 
 The title of this third act, was,
-"`An act to prevent and suppress seditious conventicles,`" 22 Car.
+"`An Act to Prevent and Suppress Seditious Conventicles,`" 22 Car.
 II. which received the royal assent the 11th of the month called April, 1670,
 and was to the following effect,
 
-"`That if any persons upwards of sixteen years of age shall be present at any assembly,
+[.embedded-content-document.legal]
+--
+
+That if any persons upwards of sixteen years of age shall be present at any assembly,
 conventicle or meeting, under colour or pretence of any exercise of religion,
 in any other manner than according to the liturgy and practice of the church of England,
 where there are five persons or more present besides those of the said household,
 in such cases the offender shall pay 5s. for the first offence; and 10s. for the second.
-And the preacher or teachers`' in any such meetings "`hall forfeit 20£. for the first,
+And the preacher or teachers`' in any such meetings shall forfeit 20£. for the first,
 and 40£. for the second offence.
 And those who knowingly suffer such conventicles in their houses, barns, yards,
 etc. shall forfeit 20£. Any justice of peace on the oath of two witnesses,
@@ -130,7 +142,7 @@ and in case of poverty, upon the good and chattels of any other present;
 and the like upon the house where the conventicle is held,
 and the money to be divided as above.
 
-"`And it is further enacted, that the justice or justices of the peace, constable,
+And it is further enacted, that the justice or justices of the peace, constable,
 headboroughs, etc. may by warrant,
 with what aid and assistance they shall think necessary,
 break open and enter into any house or place where they shall be informed of a conventicle,
@@ -155,7 +167,9 @@ the fine shall be levied on the goods and chattels of the husband,
 provided the prosecution be within three months.
 Parties aggrieved may appeal to the quarter sessions
 if the fine amount to 10£. and to no other court,
-and if cast to pay treble damages.`"
+and if cast to pay treble damages.
+
+--
 
 The palpable injustice of this iniquitous law upon this did not escape
 the notice of these who were exposed to the danger of suffering thereby;
@@ -265,7 +279,7 @@ John Chapple, priest of Brant-Broughton in Lincolnshire,
 perceiving the constable not forward in making distresses
 and breaking up meetings sent him the following letter:
 {footnote-paragraph-split}
-"`Thomas Kelsey,
+Thomas Kelsey,
 I cannot but wonder that any king`'s officer should
 be so backward in executing the king`'s laws,
 as I find you to be: Methinks you should have gone to Sir Christopher Nevile,
@@ -281,12 +295,15 @@ for whatever his tenants at Broughton may be,
 sure I am he is a person more zealous for the church.
 No more at present from
 {footnote-paragraph-split}
-"`Your friend,
+Your friend,
 {footnote-paragraph-split}
-"`JOHN CHAPPLE.`']
+John Chapple.]
 in which he directs all ecclesiastical judges and officers,
 
-"`to take notice of all non-conformists, holders, frequenters,
+[.embedded-content-document.letter]
+--
+
+to take notice of all non-conformists, holders, frequenters,
 maintainers and abettors of conventicles,
 especially of the preachers or teachers in them, and of the places wherein they are held;
 ever keeping a more watchful eye over the cities and great towns,
@@ -299,19 +316,21 @@ they do address themselves to the civil magistrate, justices and others concerne
 imploring their help and assistance for preventing and suppressing the same,
 according to the late act in that behalf made and set forth.
 
-"`What the success will be we must leave to God Almighty;
+What the success will be we must leave to God Almighty;
 yet I have this confidence under God, that if we do our parts now at first seriously,
 by God`'s help, and the assistance of the civil power,
 considering the abundant care and provision the act contains for our advantage,
-we shall in a few months see a great alteration in the distractions of these times.`"^
-footnote:[Neale]
+we shall in a few months see a great alteration in the distractions of these times.^
+footnote:[[.book-title]#Neale#]
+
+--
 
 The bishop of Peterborough declared publicly in the steeple-house at Rowel,
 after he had commanded the officers to put this act in execution,
 "`Against all fanatics it hath done its business, except the Quakers;
 but when the parliament sits again, a stronger law will be made,
 not only to take away their lands and goods, but also to sell them for bondslaves.`"^
-footnote:[Sewel, p. 506]
+footnote:[[.book-title]#Sewel,# p. 506]
 Who can acquit the church, so called, of their share in the persecution,
 when the rulers thereof were so intemperately warm and active in it,
 and still insatiate with all these severities, inhumanly planning more and greater?
@@ -326,14 +345,16 @@ as they were generally encouragers of,
 (and many of them were not ashamed themselves to turn) informers.
 Thomas Elwood, a contemporary writer, informs us,
 
-"`That some of the clergy of most ranks, and others,
+[quote]
+____
+That some of the clergy of most ranks, and others,
 who were excessively bigotted to that party,
 used their utmost efforts to find out and encourage
 the most profligate wretches to turn informers;
 and get such persons into parochial offices as would be most obsequious to their directions,
 and prompt, at their beck, to put this law into most rigorous execution.
 
-"`In some parts care had been timely taken, by some not of the lowest rank,
+In some parts care had been timely taken, by some not of the lowest rank,
 to choose out some persons properly qualified, men of acute parts, close countenances,
 pliant tempers and deep dissimulation and send them forth as spies among the sectaries,
 so called, with instructions to thrust themselves into all societies;
@@ -376,6 +397,7 @@ the very time when the honest man stood at the bar,
 ready to be arraigned on his false accusation.
 This discovery of his villainy leaving no further room to play the hypocrite,
 he threw off the mask, and openly appeared in his proper character, that of an informer.]
+____
 
 Doth not this proceeding seem to be in consequence of the archbishop`'s instructions?
 
@@ -390,8 +412,8 @@ footnote:[The ministers would preach in large families with only four strangers,
 and as many under the age of sixteen as would come, and at other times,
 where people might hear in several adjoining houses;
 but after all infinite mischief`'s ensued; families were impoverished and divided;
-friendship between neighbours interrupted, and general distrust and jealousy succeeded.
-Neale, v. 2. p. 675.]
+friendship between neighbours interrupted, and general distrust and
+jealousy succeeded. [.book-title]#Neale,# v. 2. p. 675.]
 Yet they could not by any contrivance entirely escape the vigilance of the informers,
 or the vigorous pursuit of the justices and their officers.
 But the Quakers, who had no freedom,
@@ -480,7 +502,7 @@ who frequently gave them directions to be sure to take enough,
 they often sold the distresses for less than half value, and would then come for more.
 To recite all the instances of cruel plunderings on one hand,
 and distressing sufferings on the other, even in this year,
-recorded in Besse`'s [.book-title]#Account of the Sufferings of this People,#
+recorded in Besse`'s [.book-title]#Account of the Sufferings of This People,#
 would even make a volume; wherefore I shall content my self with a few notes
 exhibiting some cases in confirmation of these remarks.^
 footnote:[In Wiltshire the fines of sundry friends amounted to
@@ -509,7 +531,7 @@ was dragged out and fined by two justices 10£. for which his goods were taken
 by distress to the value of 50£.
 {footnote-paragraph-split}
 Charles Barnet,
-a baker of Leominster, was fined 20£.£. for preaching,
+a baker of Leominster, was fined 20£. for preaching,
 and afterwards 40£. for a second offence; for which all the goods in his house,
 and all the wood in his yard, were taken away.
 After which warrants being again issued against him,
@@ -518,7 +540,7 @@ which would spoil before it could be sold; the justice answered, if you cannot s
 you may bring it me to give to my horses.
 {footnote-paragraph-split}
 Theophilus Green, preaching at a meeting at Uxbridge,
-was fined 20£.. and under pretence that he had uttered seditious expressions,
+was fined 20£. and under pretence that he had uttered seditious expressions,
 because he exhorted his friends to keep their meeting in the name of Jesus,
 notwithstanding the laws of man to the contrary, he was sent to Newgate.
 For this and other fines for meeting,
@@ -532,7 +554,7 @@ ignorance and malevolence together, by telling them in effect; the act of 35 Eli
 was not made against the Papists but the Quakers for, said he,
 the church of Rome is a true church, as well as any other;
 for a man though he be a lame or ill- favoured man,
-yet he is a man as well as a lord or an earl.£. And
+yet he is a man as well as a lord or an earl. And
 though the church of Rome have some corruptions,
 yet it is a true church as well as any other, and so it could not be made against them;
 therefore it must needs be against these people.
@@ -634,7 +656,7 @@ Francis Plumstead of London was sworn against by two
 informers for preaching at a meeting in Devonshire buildings on the 25th of November,
 1683, and for being at another meeting there on the 15th of the same month,
 whereupon one Dudley North, justice,
-had issued warrants of distress for 30 He deposited that sum in the hands of the constable,
+had issued warrants of distress for 30£. He deposited that sum in the hands of the constable,
 and appealed.
 His appeal was prosecuted from sessions to sessions;
 at length affidavit was made that the said two informers
@@ -648,7 +670,7 @@ He also proved by two witnesses, present at the meeting, that he did not preach 
 Nevertheless, and though no evidence appeared against him,
 the Recorder endeavoured to invalidate the testimony of his witnesses,
 and so wrought upon the jury that they brought him in guilty of being at the other meeting,
-for which he was fined 10£.£. By which fine and the charges of his appeal,
+for which he was fined 10£. By which fine and the charges of his appeal,
 he computed the damage by him sustained to be at least 40.
 {footnote-paragraph-split}
 Henry
@@ -659,7 +681,7 @@ he appealed, and was cast on three of these indictments, by the evidence of a wo
 who was afterwards proved to be perjured,
 for he had three substantial witnesses to testify the contrary of what she swore.
 The other two appeals he gained;
-but the whole of his loss and charges amounted to 72£.£.
+but the whole of his loss and charges amounted to 72£.
 {footnote-paragraph-split}
 William
 Collard of Southwark,
@@ -667,7 +689,7 @@ had his goods seized by a warrant with a wrong name, where upon he appealed;
 but the jury upon trial, though inclined to acquit him,
 being sent out three times by the bench with threatening words, at last said,
 they thought it must be for the king;
-so that he lost his cause with the additional charges to the value of about 17£.£.]
+so that he lost his cause with the additional charges to the value of about 17£.]
 for as the dernier or only resort was to the quarter sessions,
 the influence of the convicting justice, the partiality of of the bench, corrupt juries,
 or the neglect of the justices in putting their decrees into due execution,
@@ -690,15 +712,15 @@ at the house of John Penford at Kirby-Mucklow in Leicestershire.
 Thither came the informers, and found them in consultation about works of charity.
 John Penford bid them look into the books of accounts then lying open,
 that so they might not misrepresent the cause of their meeting.
-Four of them were summoned to appear before the justices at Marke£.t- Bosworth, who,
+Four of them were summoned to appear before the justices at Market-Bosworth, who,
 appearing accordingly, were charged with being at a seditious conventicle;
 they desired that the informers might give in their depositions in their hearing,
 but the justices would not grant it; for they were so partially disposed,
 that one of them told John Penford, who had a considerable estate,
 that he would reduce him to poverty.
-They fined John Penford 30£ 20£. for the house, and 10£.£. for a preacher,
-though no preacher was there; they also fined several others 3£.£. 6s. 8d. each,
-so that the whole amounted to 50£.£. Penford and another appealed to the quarter sessions,
+They fined John Penford 30£. 20£. for the house, and 10£.£. for a preacher,
+though no preacher was there; they also fined several others 3£. 6s. 8d. each,
+so that the whole amounted to 50£. Penford and another appealed to the quarter sessions,
 and retained counsel to plead their cause.
 But so arbitrary were the justices,
 that they refused to try the appeal unless the appellants would take the oath of allegiance;
@@ -720,7 +742,7 @@ the house of one Robert Abbott, where many of their horses were:
 there they held their meeting, the men in one room and the women in another.
 But though there was neither preaching nor praying at that time,
 yet the said justice Walrond fined the said Robert
-Abbott 40£.£. for two meetings held in his house,
+Abbott 40£. for two meetings held in his house,
 and issued a warrant to distrain his goods, which was done;
 but Abbott to prevent their being carried away,
 paid down the money and appealed to the quarter sessions,
@@ -747,7 +769,7 @@ Several persons were fined for attending his funeral at Alford; Robert Hunt,
 a justice of peace, calling this office of respect to the deceased a conventicle,
 though nothing was spoken at the grave: the widow was fined 40s. for herself,
 her son and four relations.
-His brother for himself and others 1£.£. 7s. Several neighbours
+His brother for himself and others 1£. 7s. Several neighbours
 who were not Quakers were fined for going to the funeral,
 and paid their fines to prevent the seizure of their goods.
 {footnote-paragraph-split}
@@ -758,11 +780,11 @@ crept into their company, and while they were sitting together,
 the sick man spoke a few words to his friends concerning
 his own experience of the work of religion.
 This the informer swore to be a conventicle,
-and the sick man was fined 20£.£. for which they took away six of his cows.
+and the sick man was fined 20£. for which they took away six of his cows.
 {footnote-paragraph-split}
 In Somersetshire,
 the widow of Philip Tyler was fined for being at his funeral,
-and suffered distress of two cows worth 9£.£. from sundry others,
+and suffered distress of two cows worth 9£. from sundry others,
 for being at said funeral, goods were taken to the amount of 82£. and upwards.
 {footnote-paragraph-split}
 An honest woman at Keel in Staffordshire, being dead,
@@ -778,7 +800,7 @@ and did so accordingly: and he himself died six days after and was buried beside
 Several of the neighbours came to his funeral, and amongst the rest the church-wardens;
 the corpse being interred, a friend kneeled down to prayer:
 upon this the church-wardens grounded an information,
-upon which the said friend was fined 20£.£. and several others in other sums;
+upon which the said friend was fined 20£. and several others in other sums;
 which upon appeal being returned to some of them, so irritated the priest,
 that he endeavoured to prevail upon the magistrates of the town,
 where the friend who prayed at the funeral dwelt, to tender him the oath of allegiance,
@@ -804,7 +826,7 @@ when the meeting there was breaking up;
 they went and made information that James Radcliff preached there,
 who was not at that meeting;
 however the justices upon this evidence fined him
-20£.£. for which the officers broke open five doors,
+20£. for which the officers broke open five doors,
 and took away twelve kine, and an horse worth 39£.£.
 {footnote-paragraph-split}
 William Claytor of Elton in Nottinghamshire,
@@ -813,7 +835,7 @@ where were no others but the family; an informer came in,
 and asked William some usual familiar questions, to whom he gave him proper answers:
 upon which he gave information to a justice, that there was a meeting,
 and that William Claytor spake,
-whereupon the justice fined William 20£.£. and John Barker 12£.£. [.book-title]#Besse,# v. 1. p. 555.
+whereupon the justice fined William 20£. and John Barker 12£. [.book-title]#Besse,# v. 1. p. 555.
 {footnote-paragraph-split}
 Another time William Claytor and some others being assembled,
 and sitting together in silence, two informers came in,
@@ -821,10 +843,10 @@ and with them some of the town officers: one of the informers said, take their n
 William Claytor asked, What will you take our names for?
 The informer said, for silent meeting; Nay, said the other informer,
 put him down for a speaker; which they did accordingly,
-and he was fined by justice Whaley for speaking or preaching 40£.£. for a second offence,
+and he was fined by justice Whaley for speaking or preaching 40£. for a second offence,
 having been formerly convicted on a like stratagem as before-mentioned.
 {footnote-paragraph-split}
-A parallel cafe to this was that of Joseph Wallis,
+A parallel case to this was that of Joseph Wallis,
 who fitting silent in a meeting, one Walker, an informer, came in, and asked him,
 When will you give over this?
 Joseph answered, When wilt thou give over thy trade?
