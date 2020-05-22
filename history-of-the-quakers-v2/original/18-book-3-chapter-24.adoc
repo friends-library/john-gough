@@ -1,13 +1,17 @@
-== CHAP. XXIV.
+== Chapter XXIV.
 
-Illegal Proceedings at Horsly-down.--Order of Council for demolishing
-the Meeting-house there.--Cruel Abuse by Soldiers.--The civil Officers
-endeavour to prevent their Abuses ineffectually.--Remark thereupon.--Proceedings
-at Ratcliff.--At Wheeler-street.--William Penn taken from thence,
-and after an Examination before Sir John Robinson and others committed
-to Newgate on the Oxford Five-mile Act.--George Fox takes a Journey
-into the Country and is taken ill.--Exerts himself to procure his
-Wife`'s Liberty with Success.--Sails for America.
+[.chapter-synopsis]
+* Illegal Proceedings at Horsly-down
+* Order of Council for demolishing the Meeting-house there
+* Cruel Abuse by Soldiers
+* The civil Officers endeavour to prevent their Abuses ineffectually
+* Remark thereupon
+* Proceedings at Ratcliff
+* At Wheeler-street
+* William Penn taken from thence, and after an Examination before Sir John Robinson and others committed to Newgate on the Oxford Five-mile Act
+* George Fox takes a Journey into the Country and is taken ill
+* Exerts himself to procure his Wife`'s Liberty with Success
+* Sails for America
 
 Having traced the arbitrary proceedings of this session,
 and the consequent transactions thus far, we are to view measures still more violent,
@@ -26,13 +30,16 @@ in performance of their religious duty, in the month called July,
 the following order was issued by the king and council
 for demolishing the said meeting-house.
 
-"`An order of the king and council for demolishing
-the meeting-house at Horsly-down in Southwark.
-At the court at Whitehall, 29th July, 1670.
+[.embedded-content-document.legal]
+--
 
-P R E S E NT.
+[.blurb]
+=== An order of the king and council for demolishing the meeting-house at Horsly-down in Southwark. At the court at Whitehall, 29th July, 1670.
 
-"`The King`'s most excellent Majesty.
+[.no-indent.emphasized]
+Present:
+
+The King`'s most excellent Majesty.
 
 His Highness Prince Rupert.
 
@@ -62,7 +69,10 @@ Mr. Vice Chamberlain.
 
 Mr. Secretary Trevor.
 
-"`His Majesty being informed that there have been
+[.small-break]
+'''
+
+His Majesty being informed that there have been
 of late frequent conventicles and seditious meetings,
 under pretence of religious worship,
 contrary to and in contempt of of the laws established,
@@ -82,7 +92,10 @@ that this signification of his royal pleasure be affixed on the said building,
 to the end that the owners and occupiers of the same may take notice thereof,
 to prevent and hinder said meetings at their peril.
 
-"`JOHN NICHOLAS.`"
+[.signed-section-signature]
+John Nicholas.
+
+--
 
 The execution of this order, which was grounded upon no legal process or judicial trial,
 was not committed to the civil power,
@@ -267,28 +280,41 @@ and soon after waited on the governor of the tower, Sir John Robinson,
 who looking sternly upon him, asked him, if he owned the meeting-house in Wheeler-street?
 to which Gilbert replied, he did, and several more too.
 
-Robinson.
+[.discourse-part]
+_Robinson._
 And how dare you own any meeting-house contrary to the king`'s laws?
+
+[.small-break]
+'''
 
 G+++.+++ Latey answered, he owned that meeting house before the king had any such law.
 
-Robinson.
+[.discourse-part]
+_Robinson._
 I find you area pretty fellow; pray who lives in that house?
 
-G+++.+++ Latey.
+[.discourse-part]
+_G+++.+++ Latey._
 My tenant.
 
-Robinson.
+[.discourse-part]
+_Robinson._
 Your tenant! pray what is your tenant?
 
-G+++.+++ Latey.
+[.discourse-part]
+_G+++.+++ Latey._
 One that I have thought fit to grant a lease to.
 
-Robinson.
+[.discourse-part]
+_Robinson._
 Then you have a tenant, that has taken a lease from you?
 
-G+++.+++ Latey.
+[.discourse-part]
+_G+++.+++ Latey._
 Yes.
+
+[.small-break]
+'''
 
 Upon this the governor looked displeased,
 and addressing a friend who accompanied him by name, said,
@@ -341,13 +367,16 @@ Although Robinson had the mittimus already made, and his name put in,
 he pretended not to know him, but applying himself to the constable, asked,
 what is this person`'s name?
 
-Constable.
+[.discourse-part]
+_Constable._
 Mr. Penn, Sir.
 
-F+++.+++ Robinson.
+[.discourse-part]
+_F+++.+++ Robinson._
 Is your name Penn?
 
-W+++.+++ Penn.
+[.discourse-part]
+_W+++.+++ Penn._
 Dost thou not know me?
 Hast thou forgot me?^
 footnote:[He might well ask this question,
@@ -355,86 +384,113 @@ since it was but a few months since his remarkable trial at the
 Old Bailey when he gave them just occasion to remember him;
 and it is probable the remembrance stirred up this fresh persecution of malice prepense.]
 
-F+++.+++ Robinson.
+[.discourse-part]
+_F+++.+++ Robinson._
 I do not know you, I do not desire to know such as you are.
 Is that your name, Sir?
 
-W+++.+++ Penn.
+[.discourse-part]
+_W+++.+++ Penn._
 Yes, my name is Penn, I am not ashamed of my name.
 Next he proceeded to examine the constables and others who gave evidence,
 that they found him at a meeting at Wheeler-street, speaking to the people.
 
+[.small-break]
+'''
+
 Upon which Robinson said, Mr. Penn, you know the law better than I can tell you,
 and you know these things are contrary to the law.
 
-W+++.+++ Penn.
+[.discourse-part]
+_W+++.+++ Penn._
 If thou believest me to be better versed in the law than thyself,
 I know no law I have transgressed.
 Now, whereas I am probably to be tried by the last act against conventicles,
 I conceive it doth not reach me.
 
-F+++.+++ Robinson.
+[.discourse-part]
+_F+++.+++ Robinson._
 No, Sir, I shall not proceed upon that law.
 
-W+++.+++ Penn.
+[.discourse-part]
+_W+++.+++ Penn._
 What law then?
 I am sure that was intended for the standard on these occasions.
 
-F+++.+++ Robinson.
+[.discourse-part]
+_F+++.+++ Robinson._
 The Oxford act of six months.
 
-W+++.+++ Penn.
+[.discourse-part]
+_W+++.+++ Penn._
 That of all acts cannot concern me; for I was never in orders,
 neither episcopally nor classically,
 and one of them is intended by the preamble of the act.
 
-F+++.+++ Robinson.
+[.discourse-part]
+_F+++.+++ Robinson._
 No, no, any that speak to an unlawful assembly; and you spoke to an unlawful assembly.
 
-W+++.+++ Penn.
+[.discourse-part]
+_W+++.+++ Penn._
 An unlawful assembly is too general a word,
 the act doth not define what is meant by an unlawful assembly.
 
-F+++.+++ Robinson.
+[.discourse-part]
+_F+++.+++ Robinson._
 But other acts do.
 
-W+++.+++ Penn.
+[.discourse-part]
+_W+++.+++ Penn._
 That is not to the purpose.
 It is hard that you will not stick to some one act,
 but to accomplish your ends borrow a piece out of one act to supply the defects of another,
 and of a different nature from it.
 
-F+++.+++ Robinson next proceeded to require him to take the oath prescribed by the act;
-and upon his refusing, said, I am sorry you should put me upon this severity,
-it is no pleasant work to me.
-To this William Penn replied, not without reason: these are but words,
-it is manifest this is a prepense malice;
-thou hast several times set the meetings for me, and this day particularly.
+[.small-break]
+'''
 
-F+++.+++ Robinson.
+F+++.+++ Robinson next proceeded to require him to take the oath prescribed by the act;
+and upon his refusing, said, '`I am sorry you should put me upon this severity,
+it is no pleasant work to me.`'
+To this William Penn replied, '`not without reason: these are but words,
+it is manifest this is a prepense malice;
+thou hast several times set the meetings for me, and this day particularly.`'
+
+[.discourse-part]
+_F+++.+++ Robinson._
 No, I profess, I could not tell you would be there.
 
-W+++.+++ Penn.
+[.discourse-part]
+_W+++.+++ Penn._
 Thy own corporal told me that you had intelligence at the tower,
 that I would be at Wheeler-street: It is disingenuous and partial:
 I never gave thee occasion for such unkindness.
 
-Robinson.
+[.discourse-part]
+_Robinson._
 I vow, Mr. Penn, I am sorry for you; you are an ingenious gentleman all the world allows,
 and you have a plentiful estate;
 why should you render yourself unhappy by associating with such a simple people.
 
-W+++.+++ Penn.
+[.discourse-part]
+_W+++.+++ Penn._
 I confess I have made it my choice to relinquish
 the company of those that are ingeniously wicked,
 to converse with such as are more honestly simple.
 
-F+++.+++ Robinson.
+[.discourse-part]
+_F+++.+++ Robinson._
 Well, Mr. Penn, I have no ill will towards you; your father was my friend,
 and I have a great deal of kindness for you.
 
-W+++.+++ Penn.
+[.discourse-part]
+_W+++.+++ Penn._
 But thou hast an ill way of expressing it.
+
+[.small-break]
+'''
+
 Which was really the case, for notwithstanding this profession of kindness,
 after months on some further discourse he committed him, as was before determined,
 to Newgate for six months, upon an act which had no relation to him,
@@ -444,7 +500,7 @@ and the publication of their arbitrary exertion of power against law,
 operating more powerfully on his passions to avenge himself of him,
 than the remembrance of his father`'s friendship to
 requite it with acts of kindness to the son.
-Upon Robinson`'s signifying he must send him to Newgate for fix months,
+Upon Robinson`'s signifying he must send him to Newgate for six months,
 and when they are expired that then he might come out, William Penn,
 like a man and a christian, replied, "`Is that all?
 thou well knowest a larger imprisonment hath not daunted me:
@@ -453,9 +509,9 @@ Thy religion persecutes, and mine forgives:
 I desire God to forgive you all that are concerned in my commitment,
 and I leave you all in perfect charity, wishing your everlasting salvation.`"
 
-Being thus committed to prison, he employed the time of his confinement in writing.
-"`The great cause of liberty of conscience briefly debated
-and defended,`" with several other occasional pieces,
+Being thus committed to prison, he employed the time of his confinement
+in writing. [.book-title]#The Great Cause of Liberty of Conscience Briefly Debated
+and Defended,# with several other occasional pieces,
 were the production of his pen at this time.
 
 After some time the heat of this persecution abated in the city;
