@@ -1,12 +1,21 @@
 == Chapter XI.
 
-Account received of the continued Persecution in New England.--Public
-Affairs.--Party Animosities increase.--New Parliament not suddenly convened.--Party
-Distinctions.--Petitioners and Abhorrers.--Whig and Tory.--George Whitehead
-and Thomas Burr imprisoned and prosecuted at Norwich by Francis Bacon,
-Recorder.--Informer disappointed.--Major Part of the Magistrates moderate.--The Recorder
-displaced.--Whereby they obtain their Release.--Sufferings continued.--George Fox`'s
-Declaration.--Fresh Application for Relief from Acts against Popish Recusants.
+[.chapter-synopsis]
+* Account received of the continued Persecution in New England
+* Public Affairs
+* Party Animosities increase
+* New Parliament not suddenly convened
+* Party Distinctions
+* Petitioners and Abhorrers
+* Whig and Tory
+* George Whitehead and Thomas Burr imprisoned and prosecuted at Norwich by Francis Bacon, Recorder
+* Informer disappointed
+* Major Part of the Magistrates moderate
+* The Recorder displaced
+* Whereby they obtain their Release
+* Sufferings continued
+* George Fox`'s Declaration
+* Fresh Application for Relief from Acts against Popish Recusants
 
 George Fox, on his return to London, received letters from New England,
 with an account of the renewed cruel proceedings
@@ -211,7 +220,10 @@ George Fox, who was then in London,
 thought it necessary to publish the following declaration on behalf of himself and friends,
 to remove such groundless suspicions from the parliament.
 
-"`It is our principle and testimony to deny and renounce
+[.embedded-content-document]
+--
+
+It is our principle and testimony to deny and renounce
 all plots and plotters against the king,
 or any of his subjects; for we have the spirit of Christ,
 by which we have the mind of Christ, who came to save men`'s lives,
@@ -228,7 +240,10 @@ and free us from those sufferings; and that ye will not put upon us to do those 
 which we have suffered so much and so long already for not doing; for if you do,
 ye will make our sufferings and bonds stronger, instead of relieving us.
 
-"`GEORGE FOX.`"
+[.signed-section-signature]
+George Fox
+
+--
 
 Notwithstanding the former applications on behalf of this society to the late parliament,
 in regard to their sufferings as popish recusants,
@@ -260,8 +275,10 @@ of London or its neighbourhood upon the sittings of said committee,
 particularly William Penn,
 George Whitehead and William Mead of whom the committee inquired,
 
+[.numbered]
 1+++.+++ If they owned themselves protestant dissenters?
 
+[.numbered]
 2+++.+++ How they suffered by laws made against popish recusants?
 
 To both which questions, answering to the satisfaction of the committee,
