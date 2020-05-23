@@ -1,17 +1,15 @@
 == Chapter XVIII.
 
-William Edmundson visits these islands a second,
-Time.--At Bridgetown a Priest disturbs the Meeting and challenges William Edmundson
-to a Dispute.--In which being foiled the Priest complains to the Governor.
---William Edmundson waits upon the Governor,
-and by his Discourse brings him to moderation.--William
-Edmundson appears before the Council,
-where the Priest failing in proof of his Charges meets with merited
-Reproof.--William Edmundson writes an Epistle to the Governor,
-etc. against the prevailing Vices of the island--And their Treatment of the Negro Slaves.--Act
-passed to prevent the People called Quakers from bringing Negroes to their Meetings,
-and against their Schoolmasters and Preachers.--Reflections on this Act,
-and on the Slave Trade.
+[.chapter-synopsis]
+* William Edmundson visits these islands a second time
+* At Bridgetown a Priest disturbs the Meeting and challenges William Edmundson to a Dispute
+* In which being foiled the Priest complains to the Governor
+* William Edmundson waits upon the Governor, and by his Discourse brings him to moderation
+* William Edmundson appears before the Council, where the Priest failing in proof of his Charges meets with merited Reproof
+* William Edmundson writes an Epistle to the Governor, etc. against the prevailing Vices of the island
+* And their Treatment of the Negro Slaves
+* Act passed to prevent the People called Quakers from bringing Negroes to their Meetings, and against their Schoolmasters and Preachers
+* Reflections on this Act, and on the Slave Trade.
 
 In the year 1675,
 William Edmundson aforesaid went a second time from Ireland to Barbados,
@@ -103,7 +101,6 @@ vicious practices abounding among the inhabitants,
 and eluded his labours amongst them by an epistle addressed to the governor, council,
 and all others in authority in the island of Barbados, in which,
 after a recital of the various vices and
-
 immoralities which blemished the island, as swearing, drunkenness, pride,
 oppression and uncleanness;
 and pointing out from scripture that general depravity frequently draws down the symptoms
@@ -134,15 +131,22 @@ and the fulness thereof.
 
 He concludes his said epistle in these plain and honest terms:
 
+[.embedded-content-document.epistle]
+--
+
 You have power, if you make the right use of it, to rectify these abuses,
 if the inclination of your hearts be to the Lord;
 or otherwise he will find a way to purge the land of her wickedness and her filthy abominations;
 and in that day remember you are warned by one, that wishes well to the island,
 and stability to her government.
 
+[.signed-section-signature]
 William Edmundson.
 
+[.signed-section-context-close]
 21, 12th mo, 1675.
+
+--
 
 Although the rulers to whom this epistle was addressed, convicted, doubtless,
 in their consciences that the state of their island gave just occasion
@@ -165,7 +169,10 @@ etc.
 
 The preamble recites,
 
-"`that many negroes have been suffered to remain in the meetings of the Quakers,
+[.embedded-content-document.legal]
+--
+
+that many negroes have been suffered to remain in the meetings of the Quakers,
 as hearers of their doctrine, and taught in their principles,
 whereby the safety of this island may be much hazarded.`" They therefore enact,
 that if after the publication of the act any negro or negroes shall
@@ -189,7 +196,9 @@ and hath been so for twelve months together,
 shall hereafter publicly discourse or preach at the meetings of the Quakers,
 upon the penalty of six months imprisonment,
 and shall forfeit ten thousand pounds of Muscovado sugar,
-to be recovered and divided in manner aforesaid.`"
+to be recovered and divided in manner aforesaid.
+
+--
 
 By this act several of the said people were great sufferers;
 but the attempt made on Ralph Fretwell aforesaid, and Richard Sutton,
@@ -296,13 +305,14 @@ who must be dead to all the tender feelings of the human heart,
 before they could be concerned in a traffic so disgraceful to civilization,
 and rendering the name of christian odious to infidels.
 
-----Quid non mortalia pectora cogis
-
-Auri sacra fames.----
+[verse]
+____
+_Quid non mortalia pectora cogis
+Auri sacra fames._
 
 O cursed hunger of pernicious gold,
-
 What bands of faith can impious lucre hold.
+____
 
 As they were thus purchased or kidnapped,
 they were hurried on board the ships in waiting to carry off their human cargo,
