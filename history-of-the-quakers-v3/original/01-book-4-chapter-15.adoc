@@ -1,15 +1,22 @@
 == Book IV. Chapter XV.
 
-Public Affairs.--Rise of the Separation of John Wilkinson and John Story.--Causes thereof.
--- They endeavour to form a Party and cause a Division in Westmoreland.--Friends
-of that County refer the Matter to some Friends of the neighbouring Counties,
-who give Judgment against the Authors of the Separation--Which is confirmed by a general
-Meeting at Drawell-- The Subject of this Separation brought before the yearly Meeting.--William
-Penn writes upon this Subject.--Robert Barclay publishes his Anarchy of the Ranters--Which
-draws upon him the Calumny of the Party.--William Rogers an advocate of their Cause.--Publishes
-a Book under the Title of The Christian Quaker.-- Thomas Elwood and George Whitehead
-reply thereto.--William Rogers`'s Challenge to the yearly Meeting accepted.
--- He quits London suddenly.
+[.chapter-synopsis]
+* Public Affairs
+* Rise of the Separation of John Wilkinson and John Story
+* Causes thereof
+* They endeavour to form a Party and cause a Division in Westmoreland
+* Friends of that County refer the Matter to some Friends of the neighbouring Counties
+* Who give Judgment against the Authors of the Separation
+* Which is confirmed by a general Meeting at Drawell
+* The Subject of this Separation brought before the yearly Meeting
+* William Penn writes upon this Subject
+* Robert Barclay publishes his Anarchy of the Ranters
+* Which draws upon him the Calumny of the Party
+* William Rogers an advocate of their Cause
+* Publishes a Book under the Title of "`The Christian Quaker`"
+* Thomas Elwood and George Whitehead reply thereto
+* William Rogers`'s Challenge to the yearly Meeting accepted
+* He quits London suddenly
 
 Ever since the king dissolved the Oxford parliament,
 the court triumphing in the depression of the country party,
@@ -60,10 +67,16 @@ and thinking themselves called upon to take away the occasion sought against the
 by exculpating their society from any concern in plotting or acting against government,
 presented the following address:
 
-To the KING.
+[.embedded-content-document.address]
+--
 
+[.letter-heading]
+To the King.
+
+[.signed-section-context-open]
 The humble address of the People commonly called Quakers:
 
+[.salutation]
 Oh King,
 
 The king of kings and lord of the whole earth incline thy
@@ -95,7 +108,7 @@ much less avenge ourselves for injuries done us,
 but to commit our cause to him that judgeth righteously,
 as peaceable followers of our Saviour and Redeemer,
 in his patient example and sufferings, who is the prince of peace.
-"`O king, we do further declare,
+O king, we do further declare,
 that God Almighty hath taught and engaged us to acknowledge and actually to obey magistracy
 (as his ordinance) in all things not repugnant to his law and light in our consciences,
 which is certainly agreeable to the holy scriptures,
@@ -135,6 +148,8 @@ and (in conversation) truly honour the king;
 and suffer not the ruin of such as are quiet in the land,
 nor of the widow and the fatherless, for their peaceable consciences,
 to lie at the door of a prince professing the tender and compassionate religion of Christ.
+
+--
 
 Although the king (who did not naturally delight in cruelty) seemed
 affected with this exhibition of unreasonable and unmerited sufferings,
