@@ -1,12 +1,14 @@
 == Chapter XIV.
 
-Seven hundred of the People called Quakers in Prison.--Persecution
-at Bristol continued.--Cruelty of Isaac Dennis,
-Jailer,
-who on his Death bed is seized with Horror in reflecting on his
-past Conduct.--Persecution of Richard Vickris on the Statute of
-35 Elizabeth.--Removed by Habeas Corpus to the King`'s Bench Bar,
-and acquitted.--Persecution in London continues.--Persecution in Somersetshire.
+[.chapter-synopsis]
+* Seven hundred of the People called Quakers in Prison
+* Persecution at Bristol continued
+* Cruelty of Isaac Dennis, Jailer
+* On his Death bed is seized with Horror in reflecting on his past Conduct
+* Persecution of Richard Vickris on the Statute of 35 Elizabeth
+* Removed by Habeas Corpus to the King`'s Bench Bar, and acquitted
+* Persecution in London continues
+* Persecution in Somersetshire
 
 In the year 1683, persecution continued rather increasing in many places,
 the number of prisoners of the people called Quakers in the different
@@ -290,7 +292,9 @@ but before the time of trying his appeal, the justice absconded, and the money w
 George Whitehead, in his Journal, page 543,
 gives the following account of some part of friends sufferings in London at this time:
 
-"`The being shut out of our meeting-houses for divers
+[quote]
+____
+The being shut out of our meeting-houses for divers
 years in and about the cities of London and Westminster,
 and our meetings kept in the streets, in all sorts of weather,
 was a trial and hardship upon us, even upon old and young, men and women.
@@ -300,7 +304,8 @@ although it was no small hardship to our persons to be kept out of doors in the 
 severe and long frost and snow in the year 1683, for about three months together,
 when the river Thames was so frozen, that horses,
 coaches and carts could pass to and fro upon it,
-and a street be erected and stand over it.`"
+and a street be erected and stand over it.
+____
 
 In Cheshire, Thomas Needham and Philip Egerton, justices,
 committed at one time about eighty persons to Chester Castle from a meeting ar Newton,
@@ -446,7 +451,9 @@ for the purpose of propagating pure religion amongst his friends and others.
 His motives, and the ends he had in view,
 he himself hath declared to the following purport, viz.
 
-"`It is but a short time and we shall have done with this world;
+[quote]
+____
+It is but a short time and we shall have done with this world;
 and I desire that I may be faithful to the end,
 that I may enjoy that of the hand of the Lord, which I received truth for.
 If it had not been to obtain peace of conscience while I am in this world,
@@ -461,7 +468,8 @@ For this cause do I forsake father and mother, wife and estate;
 and whosoever thinks otherwise of me,
 with the rest of my faithful brethren whom God hath called into his work,
 are all mistaken concerning us, and I would they knew us better.`"^
-footnote:[Piety Promoted.]
+footnote:[[.book-title]#Piety Promoted.#]
+____
 
 At last, after all his labour, in which he discharged himself with fidelity,
 to the spiritual advantage of many, after all his trials, sufferings and travels,
@@ -563,4 +571,5 @@ the 18th 1mo. 1681, O. S. being about sixty-five years of age,
 leaving be hind him a good report amongst the inhabitants of that town,
 where he had resided for several years.
 
+[.the-end]
 End of the Second Volume.
