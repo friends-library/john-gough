@@ -1,11 +1,15 @@
 == Chapter XXVIII. Pennsylvania
 
-Pennsylvania granted by the Crown to William Penn.--Of which he is made Governor
-and absolute Proprietor.--William Penn publishes a Description of the Country,
-and encouraging Terms of Settlement.--He takes Shipping for his Province.
---And at his Arrival is received with joy and Affection.--His Treaty
-with the Indians.--Kindness of the Indians to the new Settlers.
---Liberty of Conscience the leading Article of the Constitution.--First general Assembly.
+[.chapter-synopsis]
+* Pennsylvania granted by the Crown to William Penn
+* Of which he is made Governor and absolute Proprieto
+* William Penn publishes a Description of the Country, and encouraging Terms of Settlement
+* He takes Shipping for his Province
+* And at his Arrival is received with joy and Affection
+* His Treaty with the Indians
+* Kindness of the Indians to the new Settlers
+* Liberty of Conscience the leading Article of the Constitution
+* First general Assembly
 
 Sir William Penn, who had been long employed in the station of admiral,
 both under Oliver Cromwell and King Charles the Second,
@@ -46,8 +50,13 @@ governor gave order to use them with the utmost candour and humanity,
 appointed commissioners to treat with them about land, and to confirm a league of peace,
 by whom he also addressed the following letter:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 London, the 18th of the 8th month, 1681.
 
+[.salutation]
 My Friends,
 
 There is a Great God and Power, that hath made the world and all things therein,
@@ -88,9 +97,13 @@ and receive these presents and tokens which I have sent you,
 as a testimony of my good-will to you, and my resolution to live justly, peaceably,
 and friendly with you.
 
-I am your, loving friend,
+[.signed-section-closing]
+I am your loving friend,
 
+[.signed-section-signature]
 W+++.+++ Penn.
+
+--
 
 In the summer of 1682, William Penn himself took shipping for this province,
 in order to take possession and establish the constitution and government thereof,
@@ -169,6 +182,8 @@ Ever an advocate for a full toleration of religion,
 he established it in the first place on the broadest bottom,
 the leading article of the new constitution being this:
 
+[quote]
+____
 That all persons living in this province,
 who confess and acknowledge the one Almighty and Eternal God to be the Creator,
 Upholder and Ruler of the world, and that conscience,
@@ -177,6 +192,7 @@ shall in no wise be molested or prejudiced for their religious
 persuasion or practice in matters of faith and worship;
 nor shall they be compelled at any time to frequent or maintain any religious worship,
 place, or ministry whatsoever.
+____
 
 In the tenth month following a general assembly of the freeholders was held at Chester,
 by which Newcastle was annexed to Pennsylvania;
@@ -319,6 +335,10 @@ to the advancement of himself or his family in wealth or grandeur,
 as is apparent from the following lines addressed by him about this time to a
 person who had made some invidious and unmerited reflections upon him:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My Old Friend,
 
 I could speak largely of God`'s dealings with me in getting this thing:
@@ -358,8 +378,13 @@ and the fellowship of his tender heavenly spirit; and our faith is,
 for ourselves and one another,
 that the Lord will be with us a king and a counsellor forever.
 
+[.signed-section-closing]
 Thy ancient, though grieved friend,
 
+[.signed-section-signature]
 William Penn.
 
+[.signed-section-context-close]
 Chester, 5th of the 12th mo, 1682
+
+--
