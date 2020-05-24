@@ -1,15 +1,18 @@
 == BOOK V. From the Death of King Charles II. to the Revolution. Chapter I.
 
-The Duke of York ascends the Throne.--Fictitious Address of the
-People called Quakers.--Remark thereupon.--First Application of
-the People called Quakers to King James.--Their suffering Case.--
-Friends of London draw up a more copious State of their Case to
-lay before Parliament.--The Duke of Monmouth lands in the West.
---Defeated,
-taken and executed.--Rigorous Severity against his Adherents.--The King
-addreseth the Parliament in a magisterial Strain.--Which excepts against
-his dispensing Power.--Friends of London renew their Solicitations in
-favour of those in Prison.---King`'s Order for their Release.
+[.chapter-synopsis]
+* The Duke of York ascends the Throne
+* Fictitious Address of the People called Quakers
+* Remark thereupon
+* First Application of the People called Quakers to King James
+* Their suffering Case
+* Friends of London draw up a more copious State of their Case to lay before Parliament
+* The Duke of Monmouth lands in the West Defeated, taken and executed
+* Rigorous Severity against his Adherents
+* The King addreseth the Parliament in a magisterial Strain
+* Which excepts against his dispensing Power
+* Friends of London renew their Solicitations in favour of those in Prison
+* King`'s Order for their Release
 
 Notwithstanding the opposition which, during the late reign,
 had been made to the succession of the Duke of York,
@@ -62,8 +65,13 @@ Accordingly, about a month after this king`'s accession to the throne, George Wh
 Gilbert Latey and Alexander Parker waited upon him with the following address,
 and case of their friends:
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To King James the Second.
 
+[.signed-section-context-open]
 The humble application of the people called Quakers.
 
 Whereas it has pleased Almighty God (by whom kings
@@ -80,12 +88,16 @@ and a conscientious people that truly fear and serve God,
 we do humbly hope that the king`'s tenderness will appear,
 and extend with his power to express the same,
 recommending to his princely clemency the case of our present
-suffering friends hereunto annexed.`"
+suffering friends hereunto annexed.
 
+[.letter-heading]
 To the King.
-"`The distressed case and request of the suffering people commonly called Quakers,
+
+[.signed-section-context-open]
+The distressed case and request of the suffering people commonly called Quakers,
 humbly presented.
 
+[.salutation]
 Showing,
 
 That according to accounts lately given, above fourteen hundred of the said people,
@@ -130,7 +142,10 @@ from prisons, spoil and ruin.
 And we shall, as in christian duty bound, pray God for the king`'s welfare in this world,
 and his eternal happiness in that which is to come.
 
+[.signed-section-context-close]
 London, the 2nd of the 1st month called March, 1684-5.
+
+--
 
 Soon after the friends of London drew up a more copious state of their case and sufferings,
 addressed to the king and both houses of parliament,
@@ -235,6 +250,10 @@ But being earnestly desirous to obtain the liberty of their imprisoned friends,
 the friends of London renewed their solicitations to the king for their liberation,
 and at length obtained the following warrant to Sir Robert Sawyer, attorney-general:
 
+[.embedded-content-document.legal]
+--
+
+[.letter-heading]
 James R.
 
 Whereas we are given to understand that several of our subjects, commonly called Quakers,
@@ -267,11 +286,16 @@ and for your so doing this shall be your warrant.
 Given at our Court at Whitehall the 15th Day of March, 1685-6,
 in the second year of our reign.
 
+[.signed-section-closing]
 By his Majesty`'s Command,
 
+[.signed-section-signature]
 Sunderland, P.
 
+[.signed-section-context-close]
 To our trusty and well beloved our Attorney-general
+
+--
 
 Sir Robert being at this time at his country house in Hampshire,
 about forty miles from London,
