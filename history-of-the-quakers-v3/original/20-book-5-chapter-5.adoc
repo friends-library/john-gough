@@ -1,12 +1,15 @@
 == Chapter V.
 
-The Bishops in the Tower tried and acquitted.
---The Queen reported to be delivered.--Prince of Orange invades England.--King James
-flies to France.--The Prince and Princess of Orange declared King and Queen of England.--William
-Penn falls under the groundless Suspicion of being a Papist or Jesuit.
---William Popple`'s Letter to him thereupon.
---His Answer.
---William Penn summoned before the Lords of Council.
+[.chapter-synopsis]
+* The Bishops in the Tower tried and acquitted
+* The Queen reported to be delivered
+* Prince of Orange invades England
+* King James flies to France
+* The Prince and Princess of Orange declared King and Queen of England
+* William Penn falls under the groundless Suspicion of being a Papist or Jesuit
+* William Popple`'s Letter to him thereupon
+* His Answer
+* William Penn summoned before the Lords of Council.
 
 The bishops, who had been imprisoned in the tower,
 were brought to their trial at the king`'s bench bar, for publishing a seditious libel,
@@ -54,10 +57,14 @@ which forms characters from vague conjectures.
 
 The following lines are extracts from the said letter, and William Penn`'s answer thereto.
 
-To the Honourable William Penn,
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+To the Honourable William Penn,
 Proprietor and Governor of Pennsylvania.
 
+[.salutation]
 Honoured Sir,
 
 Though the friendship with which you are pleased to honour me doth afford
@@ -213,16 +220,21 @@ by such a public vindication of your honour, as your own prudence,
 upon these suggestions, will now show you to be most necessary, and most expedient.
 I am, with unfeigned and most respectful affection,
 
+[.signed-section-closing]
 Honoured Sir,
 
-Your most humble
+[.signed-section-signature]
+Your most humble and most obedient servant.
 
-And most obedient servant.
-
+[.signed-section-context-close]
 London, October the 20th, 1688.
 
+--
+
+[.offset]
 W+++.+++ Penn`'s Answer to the foregoing Letter.
 
+[.salutation]
 Worthy Friend,
 
 It is now above twenty years, I thank God,
@@ -420,11 +432,16 @@ that I am extremely sensible of the kindness and
 justice intended me by my friends on this occasion,
 and that I am, for that and many more reasons,
 
+[.signed-section-closing]
 Thy obliged and affectionate friend,
 
+[.signed-section-signature]
 William Penn.
 
+[.signed-section-context-close]
 Teddington, October the 24th, 1688.
+
+--
 
 Notwithstanding the foregoing explanation of his conduct;
 his clear refutation of sundry calumnies charged upon him;
