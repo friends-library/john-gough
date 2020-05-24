@@ -1,20 +1,22 @@
 == Chapter IV.
 
-Informers and their Abettors in danger,
-through an Inquiry into their Application of the Fines they had recovered.--Revocation
-of the Edict of Nantz.--Declaration for Liberty of Conscience.
---For which the Dissenters present Addresses of Thanks to the King.--Address
-of the People called Quakers of the City of London.--Second Address
-from the yearly Meeting on behalf of the Body at large.
---Both the King and the Dissenters desire the Repeal of the Penal Laws,
-but with different Views.--Application to the Prince of Orange in favour of the
-Repeal of the Penal Laws and Test.--He is willing the former should be repealed,
-but not the latter.--Second Declaration for Liberty of Conscience.--Ordered
-to be distributed by the Bishops,
-to be read in all Churches and Chapels.--Seven of them show the Reasons why they cannot
-comply.--For which they are imprisoned in the Tower.--Robert Barclay hath a Conference
-with the Bishops in the Tower.--Persecution subsides.--The People called Quakers petition
-the King for relief in respect to their Sufferings for Tithes.
+[.chapter-synopsis]
+* Informers and their Abettors in danger, through an Inquiry into their Application of the Fines they had recovered
+* Revocation of the Edict of Nantz
+* Declaration for Liberty of Conscience
+* For which the Dissenters present Addresses of Thanks to the King
+* Address of the People called Quakers of the City of London
+* Second Address from the yearly Meeting on behalf of the Body at large
+* Both the King and the Dissenters desire the Repeal of the Penal Laws, but with different Views
+* Application to the Prince of Orange in favour of the Repeal of the Penal Laws and Test
+* He is willing the former should be repealed, but not the latter
+* Second Declaration for Liberty of Conscience
+* Ordered to be distributed by the Bishops, to be read in all Churches and Chapels
+* Seven of them show the Reasons why they cannot comply
+* For which they are imprisoned in the Tower
+* Robert Barclay hath a Conference with the Bishops in the Tower
+* Persecution subsides
+* The People called Quakers petition the King for relief in respect to their Sufferings for Tithes.
 
 The people called Quakers and other dissenters being thus
 providentially rescued from the tyranny of persecuting justices,
@@ -80,12 +82,16 @@ that they might not seem less sensible of the relief which they,
 who had suffered more severely than any others, received,
 thought it expedient also to wait upon the king with the following address;
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To King James II. over England, etc.
 
-The humble and thankful address of several of the king`'s subjects,
-commonly called Quakers, in and about the city of London,
-on behalf of themselves and those of their communion.
+[.blurb]
+=== The humble and thankful address of several of the king`'s subjects, commonly called Quakers, in and about the city of London, on behalf of themselves and those of their communion.
 
+[.salutation]
 May it please the King,
 
 Though we are not the first in this way,
@@ -128,6 +134,8 @@ he may receive a better crown amongst the blessed.
 
 Which is the prayer of, etc.
 
+--
+
 This address met with a favourable reception;
 but being presented by friends of London only,
 at the ensuing yearly meeting held in that city,
@@ -136,6 +144,10 @@ a second address was drawn up in the name and on behalf of the community at larg
 deputing amongst others William Penn to deliver it,
 who introduced the delivery with the following speech:
 
+[.embedded-content-document]
+--
+
+[.salutation]
 May it please the King,
 
 It was the saying of our blessed Lord to the captious Jews in the case of tribute,
@@ -164,15 +176,22 @@ met at London about our church affairs,
 has appointed us to wait upon the king with our humble thanks, and me to deliver them;
 which I do by this address, with all the affection and respect of a dutiful subject.
 
+--
+
+[.embedded-content-document.address]
+--
+
+[.old-style]
 === The Address.
 
+[.letter-heading]
 To King James the Second, over England, etc.
 
-The humble and grateful acknowledgment of his peaceable subjects called Quakers,
-in this kingdom.
+[.blurb]
+=== The humble and grateful acknowledgment of his peaceable subjects called Quakers, in this kingdom.
 
-From their usual yearly meeting in London, the 19th day of the 3rd month,
-vulgarly called May, 1687.
+[.blurb]
+=== From their usual yearly meeting in London, the 19th day of the 3rd month, vulgarly called May, 1687.
 
 We cannot but bless and praise the name of Almighty God,
 who hath the hearts of princes in his hand,
@@ -203,8 +222,15 @@ as may secure it to our posterity in after-times: And while we live,
 it shall be our endeavour (through God`'s grace) to demean ourselves, as,
 in conscience to God, and duty to the king, we are obliged,
 
+[.signed-section-signature]
 His peaceable, loving and faithful subjects.
 
+--
+
+[.embedded-content-document]
+--
+
+[.old-style]
 === The Kings`'s Answer.
 
 Gentlemen, I thank you heartily for your address: Some of you know (I am sure you do,
@@ -213,6 +239,8 @@ and that all men ought to have the liberty of their conscience;
 And what I have promised in my declaration, I will continue to perform as long as I live:
 and I hope, before I die, to settle it so,
 that after-ages shall have no reason to alter it.
+
+--
 
 Some have objected against our friends and other dissenters, for addressing king James,
 upon the aforesaid declaration of indulgence,
@@ -358,10 +386,14 @@ yearly meeting in London this summer to draw up another address to the king,
 upon a subject which still rendered them exposed to trouble and considerable detriment.
 This address they presented to him, which was as followeth:
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To King James the Second, over England, etc.
 
-The humble address of the people called Quakers, from their yearly meeting in London,
-the 6th day of the month called June, 1688:
+[.blurb]
+=== The humble address of the people called Quakers, from their yearly meeting in London, the 6th day of the month called June, 1688:
 
 We, the king`'s loving and peaceable subjects, from divers parts of his dominions,
 being met together in this city, after our usual manner,
@@ -407,6 +439,8 @@ so we hope by God`'s grace to let the world see we
 can honestly and heartily appear for liberty of conscience,
 and be inviolably true to our own religion,
 whatever the folly or malice of some men on that account may suggest to the contrary.
+
+--
 
 This address being presented to the king was well received;
 but before the time proposed for holding a parliament arrived
