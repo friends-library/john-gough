@@ -1,15 +1,21 @@
 == BOOK VI. From the Revolution to the Accession of George I. Chapter I.
 
-The Prince and Princess of Orange elected King and Queen of England.--Convention changed
-into a Parliament.--An Attempt to abolish the Test.--Rejected by the Lords.--Act of
-Toleration brought in and passed.--Some Members reluctant to the Ease intended the Dissenters,
-and proposed a Confession of Faith as a Test.--Friends
-propose a Confession of their own drawing up,
-which is accepted.--Declaration of Fidelity allowed to the Quakers,
-instead of the Oath prescribed by the Act.--Clause
-for Payment of Tithes.--Account of Alexander Parker.
---Further Troubles of William Penn.--Account of Robert Lodge.--Robert
-Barclay.--George Fox.--Thomas Salthouse.
+[.chapter-synopsis]
+* The Prince and Princess of Orange elected King and Queen of England
+* Convention changed into a Parliament
+* An Attempt to abolish the Test
+* Rejected by the Lords
+* Act of Toleration brought in and passed
+* Some Members reluctant to the Ease intended the Dissenters, and proposed a Confession of Faith as a Test
+* Friends propose a Confession of their own drawing up, which is accepted
+* Declaration of Fidelity allowed to the Quakers, instead of the Oath prescribed by the Act
+* Clause for Payment of Tithes
+* Account of Alexander Parker
+* Further Troubles of William Penn
+* Account of Robert Lodge
+* Robert Barclay
+* George Fox
+* Thomas Salthouse
 
 William and Mary, prince and princess of Orange, being elected king and queen of England,
 by a convention of the two estates of lords and commons,
@@ -163,7 +169,10 @@ a conscientious scruple against taking any oath,
 they were entitled, upon their subscribing the following declaration,
 to the benefit of the act, viz.
 
-"` I, A.B. do sincerely promise and solemnly declare, before God and the world,
+[.embedded-content-document.legal]
+--
+
+I, A.B. do sincerely promise and solemnly declare, before God and the world,
 that I will be true and faithful to king William and queen Mary.
 And I solemnly profess and declare, that I do from my heart abhor, detest and renounce,
 as impious and heretical, that damnable doctrine and position,
@@ -172,10 +181,13 @@ or any authority of the Fee of Rome,
 may be deposed or murdered by their subjects or any other whatsoever.
 And I do declare that no foreign prince, person, prelate, state or potentate hath,
 or ought to have, any power, jurisdiction, superiority, preeminence or authority,
-ecclesiastical or spiritual, within this realm.`"
+ecclesiastical or spiritual, within this realm.
+
+--
 
 And provided they shall subscribe a profession of their christian belief in these words:
 
+[.offset]
 +++[+++The same which the friends drew up.]
 
 As a profession of faith is required of this society only,
@@ -200,11 +212,16 @@ But they were and are still subjected to the power of those
 called spiritual courts in prosecutions for tithes,
 the 5th clause of the act being,
 
+[.embedded-content-document.legal]
+--
+
 Provided always,
 that nothing herein contained should be construed to exempt
 any of the persons aforesaid from paying of tithes,
 and other parochial duties to the church or minister,
 nor from any prosecution in any ecclesiastical court or elsewhere for the same.
+
+--
 
 So that they were not exempted from sufferings for their
 religious dissent to the legality of tithes under the gospel.
@@ -242,7 +259,7 @@ After some time Alexander Parker stood up to speak, beginning with these words,
 "`In the name of the Lord, upon which one of the justices rushed into the meeting,
 profanely crying out,
 "`In the name of the devil pluck that fellow down,`" which was presently done.^
-footnote:[Besse, vol. 1. p. 393.]
+footnote:[[.book-title]#Besse, vol. 1.# p. 393.]
 Then the justices took the names of all the men, being thirty-two,
 and sent them to Newgate for three months for the first offence upon the act for banishment.
 Alexander Parker was imprisoned a second time in the tenth month the same year.
@@ -316,7 +333,7 @@ And for publishing certain libels, one entitled, Original letters of the late ki
 Another, Twenty-six depositions of persons of quality and worth,
 was sentenced to stand three times in the pillory, to be sent to the house of correction,
 and to pay a fine of one thousand marks.
---Salmon`'s Geography, p. 241.]
+--[.book-title]#Salmon`'s Geography,# p. 241.]
 a warrant was thereupon granted for the apprehension of William Penn,
 which he narrowly escaped at his return from George Fox`'s burial,
 the 16th 11mo O. S. called January 1690-1.
@@ -337,11 +354,16 @@ lest his friends might be induced by public report to entertain
 any suspicious sentiments concerning him,
 he sent the following epistle to their yearly meeting in London, viz.
 
+[.embedded-content-document.epistle]
+--
+
+[.signed-section-context-open]
 The 30th of the third month, 1691.
 
+[.salutation]
 My beloved, dear, and honoured brethren,
 
-"`My unchangeable love salutes you; and though I am absent from you,
+My unchangeable love salutes you; and though I am absent from you,
 yet I feel the sweet and lowly life of your heavenly fellowship, by which I am with you,
 and a partaker amongst you, whom I have loved above my chiefest joy:
 receive no evil surmisings, neither suffer hard thoughts,
@@ -370,23 +392,29 @@ to his glorious high praise, who is worthy forever!
 To whom I commit you, desiring to be remembered of you before him,
 in the nearest and freshest accesses, who cannot forget you in the nearest relation,
 
+[.signed-section-closing]
 Your faithful friend and brother,
 
+[.signed-section-signature]
 W.P.
+
+--
 
 His excellent preface to Robert Barclay`'s works, and another to those of John Burnyeat,
 both printed this year, were farther fruits of his retirement; as were also,
 
-1+++.+++ A small treatise, entitled, "`Just Measures, in an epistle of peace and love,
+[.numbered]
+1+++.+++ A small treatise, entitled, Just Measures, in an epistle of peace and love,
 to such professors as are under any dissatisfaction about
-the present order practised in the church of Christ.`"
+the present order practised in the church of Christ.
 
-2+++.+++ "`A key opening the way to every common understanding,
+[.numbered]
+2+++.+++ A key opening the way to every common understanding,
 how to discern the difference between the religion professed by the people called Quakers,
 and the perversions, misrepresentations, and calumnies of their adversaries,
 both upon their principles and practices;
 wherein several doctrines of that people are set
-in a clear light:`" a book so generally accepted,
+in a clear light: a book so generally accepted,
 that it has been re-printed even to the fifteenth edition.
 
 Having thus improved the time of his retirement,
@@ -402,9 +430,11 @@ some of whose labours have appeared considerable enough to be particularly
 noticed in course in various parts of this history,
 viz. John Burnyeat, Robert Lodge, Robert Barclay, George Fox and Thomas Salthouse.
 
+[.numbered]
 1+++.+++ John Burnyeat married, and spent his latter years in Ireland,
 where will be the proper place to give account of him.
 
+[.numbered]
 2+++.+++ Robert Lodge,
 his early and frequent companion and fellow traveller in
 his religious visits to his friends in various parts,
@@ -521,6 +551,9 @@ three of his intimate friends, who were well acquainted with his merit, William 
 Patrick Livingstone and Andrew Jaffray,
 have in substance described his character as followeth:
 
+[.embedded-content-document.testimony]
+--
+
 He loved the truth and way of God, as revealed among us, above all the world,
 and was not ashamed of it before men; but bold and able in maintaining it.
 Sound in judgment; strong in argument; cheerful in sufferings; of a pleasant disposition;
@@ -531,14 +564,29 @@ and a good kind neighbour and friend.
 These eminent qualities in one, who employed them so serviceably,
 and who had not lived much above half the life of a man, aggravated the loss of him,
 especially in that nation where he lived.
+
+[.signed-section-signature]
 William Penn
+
+--
+
+[.embedded-content-document.testimony]
+--
 
 He was a lover of peace, and on all occasions exerted his endeavours to promote it.
 The quickness of his penetration and discernment furnished him with ability;
 his love of peace, with a disposition to promote reconciliation;
 and his uncorrupted integrity,
 with understanding to give sound judgment in matters of difference,
-and compose and determine them with impartiality, Patrick Livingstone.
+and compose and determine them with impartiality.
+
+[.signed-section-signature]
+Patrick Livingstone.
+
+--
+
+[.embedded-content-document.testimony]
+--
 
 He ruled his own house well; so that beauty, good-order, holiness,
 gravity and humility were conspicuous therein.
@@ -548,7 +596,11 @@ natural or spiritual:
 But through the assistance of divine grace was so
 preserved in dominion over pride and passion,
 that he was rarely ever seen in a peevish, angry, fretful, or disordered temper.
+
+[.signed-section-signature]
 Andrew Jaffray.
+
+--
 
 His writings were mostly of the polemical kind.
 As he lived at a time when great pains were taken to vilify
@@ -557,42 +609,54 @@ he found it his concern to vindicate his profession
 from the misrepresentations of its antagonists,
 which he is generally allowed to have done in a masterly manner in the following tracts.
 
+[.numbered]
 1+++.+++ Truth cleared of Calumnies, published in 1670, about the 23rd year of his age,
 occasioned by a book, entitled A Dialogue between a Quaker and a stable Christian,
 the invention supposed of one W. Mitchell, a preacher near Aberdeen.
 
-2+++.+++ Queries proposed to the serious consideration of the inhabitants of Aberdeen,
+[.numbered]
+2+++.+++ [.book-title]#Queries Proposed to the Serious Consideration of the Inhabitants of Aberdeen,#
 by way of appendix to Truth cleared of Calumnies, 1670.
 
-3+++.+++ William Mitchell unmasked;
+[.numbered]
+3+++.+++ [.book-title]#William Mitchell Unmasked;#
 being an answer to his Animadversions upon Truth cleared of Calumnies 1671.
 
-4+++.+++ A seasonable warning,
-and exhortation to and expostulation with the inhabitants of Aberdeen,
-concerning this present dispensation, and day of God`'s merciful visitation towards them,
+[.numbered]
+4+++.+++ [.book-title]#A Seasonable Warning,
+and Exhortation to and Expostulation with the Inhabitants of Aberdeen,
+Concerning This Present Dispensation, and Day of God`'s Merciful Visitation Towards Them,#
 1672.
 
-5+++.+++ A catechism and confession of faith, etc. l673.
+[.numbered]
+5+++.+++ [.book-title]#A Catechism and Confession of Faith, Etc. l673.#
 
+[.numbered]
 6+++.+++ The Anarchy of the Ranters, and other libertines; the Hierarchy of the Romanists,
 and other pretended churches, equally refused and refuted, 1674
 
+[.numbered]
 7+++.+++ A Vindication of the preceding tract, serving as an explanatory postscript, 1679.
 
+[.numbered]
 8+++.+++ An Apology for the true Christian Divinity,
 as it is held forth and preached by the people called in scorn Quakers.
 Dedicated to king Charles II, 1675, the 28th year of his age.
 
+[.numbered]
 9+++.+++ A dispute between John Lestey, Alexander Sheriff P. Gelly,
 called students of divinity, at Aberdeen, and Robert Barclay and George Keith, 1679,
 
+[.numbered]
 10+++.+++ Quakerism confirmed.
 A vindication of the chief doctrines and principles of the Quakers,
 from the objections of the students of divinity 1690.
 (so called) of Aberdeen, in their book, entitled Quakerism canvassed, 1676.
 
+[.numbered]
 11+++.+++ Universal Love, 1677.
 
+[.numbered]
 12+++.+++ An Epistle of Love and friendly Advice,
 to the Ambassadors of the several Princes of Europe met
 at Nimeguen to consult of the Peace of Christendom,
@@ -600,10 +664,12 @@ showing the true cause of War, and proposing the best means of Peace.
 To each of whom, with the epistle, were delivered one of his Apologies,
 which were received with respect, 1677.
 
+[.numbered]
 13+++.+++ A Vindication of his Apology;
 in reply to the objections made against it by one John Brown, in his book,
-entitled Quakerism the path-way to paganism, 1679.
+entitled [.book-title]#Quakerism the Pathway to Paganism,# 1679.
 
+[.numbered]
 14+++.+++ The Possibility and Necessity of the inward and immediate Revelation
 of the Spirit of God towards the Foundation and Ground of true Faith,
 proved: In a letter written in Latin to a person of quality in Holland;
@@ -641,7 +707,7 @@ And after the meeting he went to Henry Goldney`'s in White-hart-court,
 adjoining to the meeting house, and some friends accompanying him,
 he told them he thought he felt the cold strike to his heart as he came out of the meeting,
 adding, "`I am glad I was there; now I am clear,
-"`I am fully clear.`" As soon as the company retired,
+I am fully clear.`" As soon as the company retired,
 he lay down upon a bed (as he sometime used to do,
 through weariness after a meeting) but soon rose again; and feeling his strength decay,
 he was obliged to take his bed, where he lay in much contentment and peace.
