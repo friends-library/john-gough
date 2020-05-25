@@ -218,10 +218,7 @@ you to gratify your friends and relations,
 and to serve your king, your country, and your religion,
 by such a public vindication of your honour, as your own prudence,
 upon these suggestions, will now show you to be most necessary, and most expedient.
-I am, with unfeigned and most respectful affection,
-
-[.signed-section-closing]
-Honoured Sir,
+I am, with unfeigned and most respectful affection, Honoured Sir,
 
 [.signed-section-signature]
 Your most humble and most obedient servant.
@@ -233,6 +230,9 @@ London, October the 20th, 1688.
 
 [.offset]
 W+++.+++ Penn`'s Answer to the foregoing Letter.
+
+[.embedded-content-document.letter]
+--
 
 [.salutation]
 Worthy Friend,
