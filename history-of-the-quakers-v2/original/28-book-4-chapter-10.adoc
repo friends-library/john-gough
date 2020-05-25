@@ -1,14 +1,15 @@
 == Chapter X. Holland and Germany.
 
-Sundry Friends pass over to Holland.--Meetings of Discipline established
-there.--Robert Barclay and William Penn visit Elizabeth,
-Princess Palatine, and the Countess of Hornes--William Penn travels further into Germany.
-Writes to the Prince Palatine in favour of his
-Friends.--The Vaught having heard William Penn preach,
-refuseth the Priest to suppress the Quakers.--Epistle from the Princess
-to William Penn.--William Penn visits Labadie`'s Disciples Goes to Embden,
-and solicits the Burgomaster in favour of his Friends.--Returns to Herford.
-These Friends return to England.
+[.chapter-synopsis]
+* Sundry Friends pass over to Holland
+* Meetings of Discipline established there
+* Robert Barclay and William Penn visit Elizabeth, Princess Palatine, and the Countess of Hornes
+* William Penn travels further into Germany
+* Writes to the Prince Palatine in favour of his Friends
+* The Vaught having heard William Penn preach, refuseth the Priest to suppress the Quakers
+* Epistle from the Princess to William Penn
+* William Penn visits Labadie`'s Disciples Goes to Embden, and solicits the Burgomaster in favour of his Friends Returns to Herford
+* These Friends return to England.
 
 Soon after the conclusion of the yearly meeting at London in the year 1677, George Fox,
 William Penn, Robert Barclay, George Keith, and some others,
@@ -112,17 +113,28 @@ George Fox also wrote her an encouraging epistle by his step-daughter, Isabella 
 who in company with George Keith`'s wife paid her a visit about this time,
 to which she returned the following answer:
 
-"`Dear Friend, I cannot but have a tender love to those who love the Lord Jesus Christ,
+[.embedded-content-document.letter]
+--
+
+[.salutation]
+Dear Friend,
+
+I cannot but have a tender love to those who love the Lord Jesus Christ,
 and to whom it is given not only to believe in him, but also to surfer for him;
 therefore your letter and your friends visit have been both very welcome to me.
 I shall follow their and your counsel, as far as God shall give light and unction,
 remaining still,
 
-"`Your loving friend,
+[.signed-section-closing]
+Your loving friend,
 
-ELIZABETH.`"
+[.signed-section-signature]
+Elizabeth.
 
-"`Herford, the 30th of August, 1677,
+[.signed-section-context-close]
+Herford, the 30th of August, 1677.
+
+--
 
 William Penn and Robert Barclay proceeded to Herford, the residence of the Princess,
 by whom they were kindly received.
@@ -206,11 +218,16 @@ etc. to Amsterdam.
 At Cologn he received the following letter from the Princese Elizabeth,
 in answer to one he had written to her from the Palatinate:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 The 4th of September, 1677.
 
-"`Dear Friend,
+[.salutation]
+Dear Friend,
 
-"`I have received your greetings, good wishes and exhortations, with much joy,
+I have received your greetings, good wishes and exhortations, with much joy,
 and shall follow the latter as far as it will please
 our great God to give me light and strength.
 I can say little for myself, and can do nothing of myself;
@@ -233,9 +250,13 @@ as also the Countess there.
 It would be of much use for my family to have them disabused;
 yet God`'s will be done in that, and all things else concerning
 
-"`Your loving friend in the Lord Jesus,
+[.signed-section-closing]
+Your loving friend in the Lord Jesus,
 
-"`ELIZABETH.`"
+[.signed-section-signature]
+Elizabeth.
+
+--
 
 From Amsterdam William Penn went into Friesland,
 and met George Fox at Leewarden in his return to Holland.
@@ -337,12 +358,17 @@ and going from thence to London,
 William Penn received there the following letter from the Princess Elizabeth,
 in answer to one of his.
 
-"`Herford, Oct.
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
+Herford, Oct.
 29, 1677.
 
-"`Dear Friend,
+[.salutation]
+Dear Friend,
 
-"`Your tender care of my eternal well-being doth oblige me much,
+Your tender care of my eternal well-being doth oblige me much,
 and I will weigh every article of your counsel to follow it as much as lies in me,
 but God`'s grace must be assistant, as you say yourself,
 '`he accepts nothing that does not come from him.`'
@@ -351,7 +377,7 @@ I mean, to do all in and by his son,
 I shall be in no better condition than at this present.
 Let me feel him first governing in my heart, then do what he requires of me;
 but I am not able to teach others, being not taught of God myself.
-Remember my love to G. F. B. F. G. K. and dear Gertrude.^
+Remember my love to G. F., B. F., G. K., and dear Gertrude.^
 footnote:[This was Gertrude Dericks, who had visited the Princess,
 and afterwards came to live in England, and was married to Stephen Crisp.]
 If you write no worse than your postscript, I can make a shift to read it.
@@ -359,13 +385,18 @@ Do not think I go from what I spoke to you the last evening;
 I only stay to do it in a way that is answerable before God and man:
 I can say no more now, but recommend to your prayers,
 
-"`Your true friend,
+[.signed-section-closing]
+Your true friend,
 
-"`ELIZABETH.`"
+[.signed-section-signature]
+Elizabeth.
 
-"`P. S. I almost forgot to tell you,
+[.postscript]
+P+++.+++ S. I almost forgot to tell you,
 that my sister writes me word she had been glad you had
 taken your journey by Osenburgh to return to Amsterdam.
 There is also a Drossard of Limburg near this place,
-(to whom 1 gave an exemplar of R. B`'s Apology) very
-desirous to speak with some of the Friends.`"
+(to whom I gave an exemplar of R. B`'s [.book-title]#Apology#) very
+desirous to speak with some of the Friends.
+
+--
