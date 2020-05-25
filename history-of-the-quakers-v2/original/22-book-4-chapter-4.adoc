@@ -35,9 +35,10 @@ introduced a bill for granting an indulgence to protestant dissenters,
 with a speech in favour thereof, wherein with strength of reasoning and sound argument,
 he evinces the reasonableness of this proposed indulgence,
 
-[quote]
-____
-My lords, says he, there is a thing called liberty,
+[.embedded-content-document.speech]
+--
+
+My lords, [says he,] there is a thing called liberty,
 which (whatsoever some men may think) is that the people of England are fondest of;
 it is that they will never part with,
 and it is that his majesty in his speech hath promised to take particular care of.
@@ -70,7 +71,8 @@ and therefore in us it is somewhat an inexcusable conception,
 that men ought to be deprived of their inheritance,
 and all certain conveniences and advantages of life,
 because they will not agree with us in our uncertain opinions of religion.
-____
+
+--
 
 Moving then for leave to bring in the bill, it was granted;
 but a quarrel reviving between the two houses, occasioned an hasty prorogation,

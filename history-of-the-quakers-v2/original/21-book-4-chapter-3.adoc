@@ -107,7 +107,7 @@ Praying the Almighty to preserve and direct you.
 
 But little redress could be obtained from the judges at this time,
 nor it is surprising it could not, if the assertion of one of our historians be true,^
-footnote:[.book-title]#[Neale, v. 2,# p. 697.]
+footnote:[[.book-title]#Neale, v. 2,# p. 697.]
 that the papists being excluded from places of trust,
 the court had no tenderness for non-conformists;
 the judges therefore had orders to quicken the execution of the laws against them.
@@ -374,8 +374,8 @@ and it is well known that even the doctrine of Spinosa was, with a like artifice
 dressed out and disguised by some of his disciples.`"
 
 Here again we have a specimen of Mosheim`'s dogmatical talent,
-wherein the want of can dour, of charity or decency, is too apparent.
-What could more plainly discover the aerugo mera, the malice and prejudice,
+wherein the want of candour, of charity or decency, is too apparent.
+What could more plainly discover the _aerugo mera,_ the malice and prejudice,
 he had imbibed against a people concerning whom he was ignorant,
 or knew only by the pictures or caricatures drawn by their adversaries,
 than to indulge his spleen so far,
