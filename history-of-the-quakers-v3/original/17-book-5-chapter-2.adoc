@@ -24,6 +24,7 @@ against the informers and their iniquitous practices.
 [.letter-heading]
 To King James the Second.
 
+[.signed-section-context-open]
 The Complaint and Petition of his peaceable and suffering
 Subjects called Quakers in and about the City of London,
 
@@ -165,33 +166,24 @@ that they should put a stop to the predations of these men.^
 footnote:[The following letter from the Earl of Sunderland to the Earl of Huntington,
 I suppose, must have been written upon this occasion.
 {footnote-paragraph-split}
-Whitehall, Dec.
-7,
-1686
+Whitehall, Dec. 7, 1686.
 {footnote-paragraph-split}
-My Lord,
-{footnote-paragraph-split}
-The
-king being informed that one John Smith,
+My Lord, The king being informed that one John Smith,
 a common informer,
 doth very vexatiously prosecute the Quakers in the county of Leicester,
 and in the town and county of Nottingham;
-and his majesty being pleased to extend his favour
-to
-{footnote-paragraph-split}
+and his majesty being pleased to extend his favour to
 those of that persuasion,
 his majesty would have your grace direct the justices of
 peace to give no sort of countenance to the said John Smith,
 and his prosecution against the Quakers.
+Your grace`'s most faithful and humble servant,
 {footnote-paragraph-split}
-"`Your grace`'s most faithful and humble servant,
-{footnote-paragraph-split}
-Sunderland
-P.
+Sunderland P.
 {footnote-paragraph-split}
 To the Right Hon.
 the Earl of Huntington, one of his majesty`'s most honourable privy council,
-chief recorder of Leicester, custos rotulorum of the county of Leicester:]
+chief recorder of Leicester, _custos rotulorum_ of the county of Leicester:]
 Instead therefore of being encouraged and protected in their oppressive persecutions,
 they were now discountenanced by the justices,
 and by the quarter sessions of London and Middlesex.
