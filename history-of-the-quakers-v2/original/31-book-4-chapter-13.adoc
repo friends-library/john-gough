@@ -1,19 +1,26 @@
 == Chapter XIII.
 
-Parliament convened at Oxford.--Which is soon dissolved,
-and succeeded by a severe Persecution.--Change of the Magistrates of London.--Informers
-encouraged.--George Whitehead informed against and fined.--Cruel Persecution
-in the City of Bristol.--Chiefly carried on by Sheriff Knight,
-Helliar an Attorney, and their Assistants.--Meeting-house greatly damaged,
-and many Persons grossly abused.--Meeting-house at Temple-street damaged
-in like Manner.--Rude Boys incited to assault the Women--Helliar`'s vile
-Conduct.--The Prisons filled.--The Magistrates and Citizens disapprove
-these Proceedings.--The Mayor protests against the State of the Jail.--Certificates
-of the dangerous Condition thereof.--Solicitation to the King for Redress,
-Order issued for their better Accommodation But disregarded by the Persecutors,
-who continue their Exertions in various Modes of
-Oppression.--Sufferings at Flamstead-End.--At Broughton,
-Leicestershire.
+[.chapter-synopsis]
+* Parliament convened at Oxford
+* Which is soon dissolved, and succeeded by a severe Persecution
+* Change of the Magistrates of London
+* Informers encouraged
+* George Whitehead informed against and fined
+* Cruel Persecution in the City of Bristol
+* Chiefly carried on by Sheriff Knight, Helliar an Attorney, and their Assistants
+* Meeting-house greatly damaged, and many Persons grossly abused
+* Meeting-house at Temple-street damaged in like Manner
+* Rude Boys incited to assault the Women
+* Helliar`'s vile Conduct
+* The Prisons filled
+* The Magistrates and Citizens disapprove these Proceedings
+* The Mayor protests against the State of the Jail
+* Certificates of the dangerous Condition thereof
+* Solicitation to the King for Redress
+* Order issued for their better Accommodation
+* Disregarded by the Persecutors, who continue their Exertions in various Modes of Oppression
+* Sufferings at Flamstead-End
+* At Broughton, Leicestershire
 
 The king soon after the prorogation of the last parliament dissolved it by proclamation,
 and soon after convoked another to meet at Oxford,
@@ -347,9 +354,12 @@ From ten of this people fined 79£. 3s. 4d. they took goods to the value of 155�
 Of their conduct in this respect we have the following
 account in a letter from some of the sufferers.
 
-"`They got into Richard Marsh`'s house and made sad havoc.^
+[.embedded-content-document.letter]
+--
+
+They got into Richard Marsh`'s house and made sad havoc.^
 footnote:[In a paper published under the title The
-Devouring Vol.£. II.£. Informers of Bristol,
+Devouring Vol. II. Informers of Bristol,
 dated 22nd of April, 1682,
 is the following relation of the havoc made at Richard Marsh s house.
 {footnote-paragraph-split}
@@ -376,9 +386,9 @@ During this stay in the house their behaviour was so insolent that
 they greatly affrighted not only his servants but all the spectators,
 whom business or respect called to his house.
 This gentleman, Mr. Marsh,
-had formerly taken from him a ton of wine worth 20£.£. which was fold for 4£.£. and,
+had formerly taken from him a ton of wine worth 20£. which was fold for 4£. and,
 to make up the distress 10£. they forced into his man`'s counter and took from
-him upwards of 6£.£. Their manner of levying the distress is as follows.
+him upwards of 6£. Their manner of levying the distress is as follows.
 When they enter a shop, although there be abundance of goods in view,
 yet they break open chests, counters, etc. and thence take away the money;
 if no money to be found, then they take either shop or household goods,
@@ -396,7 +406,9 @@ illegal proceedings and to disregard the dissatisfaction of the other magistrate
 But our hope is in the Lord, and we commend our cause to him alone.
 These distresses are taken for a meeting whereat
 was no preaching or praying that they pretend to,
-or we can call to mind.`"
+or we can call to mind.
+
+--
 
 The quarter sessions being held in course, several of them were indicted,
 found guilty and fined; but the justices, who were not insensible of their wrongs,
@@ -480,7 +492,7 @@ who encouraged certain rude young fellows to insult and abuse the persons assemb
 Of these, two women, Elizabeth Hill and Elizabeth Hilton, were so grossly abused,
 that the former was left for dead,
 and the latter so hurt and bruised that she lay there near
-three weeks before she recover ed strength to go home,
+three weeks before she recovered strength to go home,
 about two miles.
 When they were abusing Elizabeth Hill, and dragging her through the dirt,
 some of the neighbours asking them, if they meant to kill the woman, they answered,
@@ -492,7 +504,7 @@ One of these youths, gathering up dirt, threw it in the face of Elizabeth Hilton
 then took a handful of dirt, and following her, caught her by the hood,
 holding her behind the head with one hand,
 cramming the dirt into her mouth with the other.
-Being with some diffi culty got into a neighbour`'s house,
+Being with some difficulty got into a neighbour`'s house,
 and apprehended to be near expiring, the constable was sent for to keep the peace,
 but he came not; but one of the youths coming in, upon seeing her, said,
 I think she is dying indeed, but if she do, she is fitter for the devil.
