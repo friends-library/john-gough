@@ -1,13 +1,18 @@
 == Chapter XVI. Ireland.
 
-Account of William Morris.--Benjamin Bangs visits Ireland.--At Antrim rudely treated,
-but has afterwards a solid Meeting.--His Prediction.- He meets with a Company of Men,
-whose Teacher is fled.
---Which affords him Occasion to recommend them a Teacher in their own
-Hearts.-- William Edmundson and Robert Jackson prosecuted for Tithe.--William
-Edmundson`'s Conference with the Bishop.--Procures their Liberty.
---Dissenters ordered to discontinue their Meetings.--Friends continue
-to meet as usual.--John Burnyeat committed to Prison.
+[.chapter-synopsis]
+* Account of William Morris
+* Benjamin Bangs visits Ireland
+* At Antrim rudely treated, but has afterwards a solid Meeting
+* His Prediction
+* He meets with a Company of Men, whose Teacher is fled
+* Which affords him Occasion to recommend them a Teacher in their own Hearts
+* William Edmundson and Robert Jackson prosecuted for Tithe
+* William Edmundson`'s Conference with the Bishop
+* Procures their Liberty
+* Dissenters ordered to discontinue their Meetings
+* Friends continue to meet as usual
+* John Burnyeat committed to Prison
 
 This year died William Morris, of Castle-Salem in the county of Cork,
 who at the time William Edmundfon was put in the stocks
@@ -169,15 +174,21 @@ why they acted contrary to the orders of government?
 To which John replied, we do nothing in contempt of government.
 But, said the mayor, why do you not obey then?
 
-John.
+[.discourse-part]
+_John._
 Because it is matter of conscience to us,
 and that which we believe to be our indispensable duty, to meet together to worship God.
 
-Mayor.
+[.discourse-part]
+_Mayor._
 You may be misled.
 
-John.
+[.discourse-part]
+_John._
 If we be misled we are willing to be informed.
+
+[.small-break]
+'''
 
 Then it being urged that other dissenters had submitted and why would not they?
 To which John Burnyeat returned answer,
