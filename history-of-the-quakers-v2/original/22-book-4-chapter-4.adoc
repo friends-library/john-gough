@@ -1,9 +1,12 @@
 == Chapter IV.
 
-Public Affairs.--Duke of Buckingham`'s Speech in favour of
-Dissenters.--Prosecutions on the Conventicle Act subside;
-but not for ecclesiastical Demands.--Cafe of Robert Cooper.--Informers
-generally poor.--Violent proceedings in Herefordshire.
+[.chapter-synopsis]
+* Public Affairs
+* Duke of Buckingham`'s Speech in favour of Dissenters
+* Prosecutions on the Conventicle Act subside; but not for ecclesiastical Demands
+* Case of Robert Cooper
+* Informers generally poor
+* Violent proceedings in Herefordshire
 
 The Parliament, upon their being convened this year,
 continued to discover that their jealousy of the king, his counsellors and partisans,
@@ -32,7 +35,10 @@ introduced a bill for granting an indulgence to protestant dissenters,
 with a speech in favour thereof, wherein with strength of reasoning and sound argument,
 he evinces the reasonableness of this proposed indulgence,
 
-"`My lords, says he, there is a thing called liberty,
+[.embedded-content-document.speech]
+--
+
+My lords, [says he,] there is a thing called liberty,
 which (whatsoever some men may think) is that the people of England are fondest of;
 it is that they will never part with,
 and it is that his majesty in his speech hath promised to take particular care of.
@@ -47,7 +53,7 @@ which their consciences will not give them leave to consent to, and which,
 even by the confession of those who would impose them,
 are no ways necessary to salvation.
 
-"`But besides this, and all that may be said upon it,
+But besides this, and all that may be said upon it,
 in order to the improvement of our trade, and the wealth and greatness of the nation,
 there is methinks in the notion of persecution a very gross mistake,
 both as to point of government, and the point of religion;
@@ -64,7 +70,9 @@ about which christians differ are infallible,
 and therefore in us it is somewhat an inexcusable conception,
 that men ought to be deprived of their inheritance,
 and all certain conveniences and advantages of life,
-because they will not agree with us in our uncertain opinions of religion.`"
+because they will not agree with us in our uncertain opinions of religion.
+
+--
 
 Moving then for leave to bring in the bill, it was granted;
 but a quarrel reviving between the two houses, occasioned an hasty prorogation,
@@ -174,7 +182,7 @@ to prosecute their infamous occupation to the utmost prejudice of the non-confor
 were so elevated with insolence, in their own imagined importance,
 that one of them vauntingly said, I`'ll make the mayor wait upon me as often as I will,
 at my pleasure.^
-footnote:[Sewel]
+footnote:[[.book-title]#Sewel#]
 For both the magistrates and peace officers,
 well knowing the penalties they were subjected to,
 and the advantage given to these informers by the last act against conventicles,
@@ -187,7 +195,7 @@ Of this we meet with an instance at this time and place.
 William Poole, a constable of Norwich, coming unwillingly with an informer,
 who compelled him to accompany him to the Quakers meeting,
 and being affected with the doctrine he heard preached there,
-cried with tears in his eyes, What sball I do?
+cried with tears in his eyes, What shall I do?
 I know the power of God is among you.
 And turning to the informer said,
 "`if there was a curse hanging over any people upon earth it was upon the informers.`"

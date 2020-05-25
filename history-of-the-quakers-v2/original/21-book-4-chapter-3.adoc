@@ -1,10 +1,16 @@
 == Chapter III.
 
-Persecution renewed.--Ineffectual application to the Judges for relief.--The
-Parliament jealous of the Court.--Bishops promote persecution.--William Penn
-publishes England`'s present Interest.--Robert Barclay`'s Apology published.--Animadversions
-on Mosheim`'s Reflections upon it.--Sufferings of William Hall.--Of Friends of
-Namptwich.--Sufferings and Death of William Bailey.
+[.chapter-synopsis]
+* Persecution renewed
+* Ineffectual application to the Judges for relief
+* The Parliament jealous of the Court
+* Bishops promote persecution
+* William Penn publishes England`'s present Interest
+* Robert Barclay`'s Apology published
+* Animadversions on Mosheim`'s Reflections upon it
+* Sufferings of William Hall
+* Of Friends of Namptwich
+* Sufferings and Death of William Bailey
 
 The revocation of the indulgence and the displeasure of the court against the dissenters,
 let loose the whole tribe of informers,
@@ -16,7 +22,7 @@ they continued to be prosecuted upon the statute
 of premunire of Jac I. for refusing to swear;^
 footnote:[On the 21st of the month called July, 1675, John Anderdon, of Somersetshire,
 for refusing to take the oath of allegiance had sentence
-of premunire passed upon him by judge Rainsford,
+of premunire passed upon him by Judge Rainsford,
 etc. etc.]
 upon the obsolete statute of 20£. a month for absence
 from the parish church (so called) and the said penalty,
@@ -34,11 +40,11 @@ suffered much by distresses made for pretended forfeitures,
 of the two-thirds of the yearly value of their estates.
 {footnote-paragraph-split}
 Edmund Peckover of Fakenham, Norfolk,
-was prosecuted on the statute for 20£.£. a month,
+was prosecuted on the statute for 20£. a month,
 of which his son gave the following account.
 "`Our adversaries are wholly bent to ruin us;
 they have distrained for 120£.£. for the king`'s use, as they say,
-upon the statute of 20£.£. a month,
+upon the statute of 20£. a month,
 and have taken above forty pieces of serges and stuff, some whole and some cut;
 also seventeen pieces of linen, callicoes and Scotch cloth;
 but would not let us measure any, so that we know not what they amount to:
@@ -76,12 +82,16 @@ which their honest industry had earned.
 
 Under the heavy presser of their grievous sufferings,
 application was made to the judges (before they went their several circuits)
-for their compassionate attention to the hard cases of several of the sufferes,
+for their compassionate attention to the hard cases of several of the sufferers,
 and to interpose their authority for their relief, in the following address.
 
-"`To the King`'s justices appointed for the several circuits throughout England.
+[.embedded-content-document.address]
+--
 
-"`Many of our friends called Quakers being continued prisoners,
+[.letter-heading]
+To the King`'s justices appointed for the several circuits throughout England.
+
+Many of our friends called Quakers being continued prisoners,
 many prosecuted to great spoil by informers, and on qui-tam writs,
 and by presentments and indictments for 20£. per mensem,
 in divers counties through England,
@@ -91,11 +101,13 @@ as we have done from time to time;
 humbly entreating you in the circuits to inquire into the several causes of their commitments,
 and other sufferings, which they lie under,
 and to extend what favour you can for their ease and relief.
-Praying the Almighty to preserve and direct you.`"
+Praying the Almighty to preserve and direct you.
+
+--
 
 But little redress could be obtained from the judges at this time,
 nor it is surprising it could not, if the assertion of one of our historians be true,^
-footnote:[Neale, v. 2, p. 697.]
+footnote:[[.book-title]#Neale, v. 2,# p. 697.]
 that the papists being excluded from places of trust,
 the court had no tenderness for non-conformists;
 the judges therefore had orders to quicken the execution of the laws against them.
@@ -104,7 +116,7 @@ their mouths as loudly as possible against them.
 One in his sermon before the house of commons told them,
 that the non-conformists ought not to be tolerated, but to be cured by vengeance;
 the king issued out a proclamation for putting the penal laws in full execution,
-which had its effect.`"
+which had its effect.
 
 The parliament, from the Restoration to their last sessions,
 had manifested the warmest zeal for the king and church of England,
@@ -172,7 +184,10 @@ candid spirit of genuine patriotism are eminently conspicuous.
 The introduction to which treatise is addressed to the consideration of our superiors,
 and proceeds,
 
-"`There is no law of nature or of grace that forbids men to deal honestly and plainly
+[.embedded-content-document.treatise]
+--
+
+There is no law of nature or of grace that forbids men to deal honestly and plainly
 with the greatest in matters of importance to their present and future good;
 nor do worthy minds think less favourably of honest and humble monitors.
 Oftentimes princes are deceived, and kingdoms prejudiced for want of them.
@@ -181,7 +196,7 @@ and whose religious interests lie more seemingly cross to accommodation,
 than that we live in; which renders the magistrate`'s taste hard,
 and occasions him a difficulty almost invincible.
 
-"`Your endeavours for an uniformity have been numerous;
+Your endeavours for an uniformity have been numerous;
 your acts to enforce it multiplied; but the consequence, whether you intended it or no,
 hath been the spoiling of several thousands of the freeborn
 people of this kingdom of their unforfeited rights.
@@ -191,7 +206,7 @@ whole barns of corn seized, thrashed and carried away ;
 parents left without their children; children without their parents,
 and both without subsistence.
 
-"`But that which aggravates the cruelty, is,
+But that which aggravates the cruelty, is,
 the widow`'s mite hath not escaped their hands;
 they have made her cow the forfeiture of her conscience;
 not leaving her a bed to lie on nor a blanket to cover her.
@@ -201,14 +216,14 @@ and the skillet made part of the prize:
 So that had not nature in neighbours been stronger than cruelty in such informers,
 to open her bowels for their relief and subsistence, they must have utterly perished.
 
-"`Nor can these inhuman instruments plead conscience, or duty to those laws,
+Nor can these inhuman instruments plead conscience, or duty to those laws,
 who have abundantly transcended the severest clause in them;
 for to see the imprisoned hath been crime enough for a jail; and to visit the sick,
 to make a conventicle; fining and distraining for preaching and being at a meeting,
 where there hath been neither,
 and 40£. for 20£. hath been a moderate advance with some of them.
 
-"`Others thinking this way too tedious and inadequate to
+Others thinking this way too tedious and inadequate to
 the purpose of a speedy stripping them of their substance,
 alter the question from, have you met?
 to will you swear?
@@ -229,21 +244,28 @@ I hope to be excused in offering my mite for the increase of your true honour,
 and the felicity of my dear country, by proposing the following question,
 and the solution thereof.
 
-`QUESTION.
+[.old-style]
+=== Question.
 
-"`What is most fit, easy and safe, in this present juncture of affairs, for composing,
+What is most fit, easy and safe, in this present juncture of affairs, for composing,
 at least quieting, differences; for allaying the heat of contrary interests,
 and making them subservient to the interests of government,
 and consistent with the prosperity of the kingdom?
 
-"`The ANSWER.
+[.old-style]
+=== The Answer.
 
-"`1st, An inviolable and impartial maintenance of English rights.`"
+[.numbered]
+_1st,_ An inviolable and impartial maintenance of English rights.
 
-"`2nd, Our superiors governing themselves upon a balance, as near as may be,
-towards the several religious interests.`"
+[.numbered]
+_2nd,_ Our superiors governing themselves upon a balance, as near as may be,
+towards the several religious interests.
 
-"`3rd, A sincere promotion of general and practical religion.`"
+[.numbered]
+_3rd,_ A sincere promotion of general and practical religion.
+
+--
 
 These propositions are the groundwork of this treatise,
 which the author proceeds to establish by sound reasoning,
@@ -352,8 +374,8 @@ and it is well known that even the doctrine of Spinosa was, with a like artifice
 dressed out and disguised by some of his disciples.`"
 
 Here again we have a specimen of Mosheim`'s dogmatical talent,
-wherein the want of can dour, of charity or decency, is too apparent.
-What could more plainly discover the aerugo mera, the malice and prejudice,
+wherein the want of candour, of charity or decency, is too apparent.
+What could more plainly discover the _aerugo mera,_ the malice and prejudice,
 he had imbibed against a people concerning whom he was ignorant,
 or knew only by the pictures or caricatures drawn by their adversaries,
 than to indulge his spleen so far,
@@ -371,7 +393,9 @@ we can produce the opinions of other writers,
 not a whit inferior in soundness of judgment, in mental abilities, or in literary fame;
 and much superior, in my opinion, in justice and liberality of sentiment.
 
-"`I cannot think Quakerism inconsiderable,
+[quote, Norris, Treatise of Divine Light Tract 2, p. 32]
+____
+I cannot think Quakerism inconsiderable,
 as the principles of it are laid down and managed by Mr. Barclay.
 That great and general contempt they lie under does not hinder me from thinking the
 sect of Quakers to be far the most considerable of any that divide from the church,
@@ -379,20 +403,23 @@ in case the Quakerism that is generally held be the same with that
 which Mr. Barclay has delivered to the world as such;
 whom I take to be so great a man,
 that I profess freely I had rather engage against an hundred Bellarmins,
-Hardings and Stapletons, than with one Barclay.`"
-Norris`'s Treatise of divine Light.
-Tract 2, page 32.
+Hardings and Stapletons, than with one Barclay.
+____
 
-"`Je n`'ai point de honte d`'avouer que j`'ai lu avec un plaisir singulier,
+[quote, French Encyclopedie, word Quaker]
+____
+_Je n`'ai point de honte d`'avouer que j`'ai lu avec un plaisir singulier,
 L`'Apologie du Quakerisme par Robert Barclay: il m`'a convincu que c`'est tout calcule,
-le system le plus raisonable, et le plus parfait qu`'on ait encore imagine.
+le system le plus raisonable, et le plus parfait qu`'on ait encore imagine._
 
-"`I am not ashamed to own that I have read Robert Barclay`'s Apology
+I am not ashamed to own that I have read Robert Barclay`'s Apology
 for Quakerism over and over again with singular satisfaction:
 And I am convinced that, taken altogether,
-it is the most reasonable and most perfect system, which hath ever been conceived.`"
-French Encyclopedie, word Quaker.
+it is the most reasonable and most perfect system, which hath ever been conceived.
+____
 
+[quote, Cato's Letters Vol. 4. p.226]
+____
 I am not ashamed to own that I have with great pleasure
 read over Mr. Barclay`'s Apology for Quakerism,
 and do really think it the most masterly,
@@ -400,7 +427,7 @@ charitable and reasonable system that I have ever seen:
 It solves the numerous difficulties raised by other sects,
 and by turns thrown at one another,
 and shows all parts of scripture to be uniform and consistent.`"
-Cato`'s Letters, vol. 4. p. 226.
+____
 
 In the course of this year William Hall, of Congleton in Cheshire,
 being fined 20£. for a meeting at his house,
