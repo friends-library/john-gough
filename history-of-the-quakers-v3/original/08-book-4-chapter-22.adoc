@@ -1,18 +1,22 @@
 == Chapter XXII.
 
-George Fox, etc. go to the Eastern Shore.
---Thence by Land through the Wilderness to New England.
---Lodged in the House of an Indian King.-- Half Year`'s Meeting in Long Island.--Opposition
-being expected from a dissatisfied Party a Day is set apart for hearing them.--Yearly
-Meeting in Rhode Island held for six Days.
---Discipline established.--J. Burnyeat and others
-go to New England.--Meeting disturbed at Scituate.
-Thatcher, Priest at Boston,
-endeavours to stir up Persecution.--James Lancaster and
-John Stubbs imprisoned at Boston and banished.--Bellingham,
-Governor of Massachusetts, dies.
-Meet with little Success among some who are drawn aside by J. Perrot.--Dispute
-with Roger Williams.-- William Edmundson embarks for Ireland.
+[.chapter-synopsis]
+* George Fox, etc. go to the Eastern Shore
+* Thence by Land through the Wilderness to New England.
+* Lodged in the House of an Indian King
+* Half Year`'s Meeting in Long Island
+* Opposition being expected from a dissatisfied Party
+* A Day is set apart for hearing them
+* Yearly Meeting in Rhode Island held for six Days
+* Discipline established
+* J. Burnyeat and others go to New England
+* Meeting disturbed at Scituate
+* Thatcher, Priest at Boston, endeavours to stir up Persecution
+* James Lancaster and John Stubbs imprisoned at Boston and banished
+* Bellingham, Governor of Massachusetts, dies
+* Meet with little Success among some who are drawn aside by J. Perrot
+* Dispute with Roger Williams
+* William Edmundson embarks for Ireland
 
 After their separating in Maryland to their respective services,
 the last-mentioned friends, viz. George Fox and his companions,
@@ -208,7 +212,7 @@ From hence they journeyed on to Providence and Rhode Island;
 at the former place they met with a company of Ranters,
 who went generally under the name of Gortonians,^
 footnote:[This name was given them from their leader, Samuel Gorton,
-who is represented by Neale, in his History of New England,
+who is represented by Neale, in his [.book-title]#History of New England,#
 as a most impudent enthusiast, who had no settled notions of religion,
 having disowned the principles of the Puritans,
 and embraced no other that he knew off that he was not only unprincipled in religion,
