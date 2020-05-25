@@ -1,19 +1,19 @@
 == Chapter XXIV.
 
-In the Time of the Indian War in New England-- William Edmundson
-under impulse of Duty travels a dangerous Journey to the Eastward.--
-Had Meetings where none of this People had been held before,
-at which several were convinced.--He visits a religious People at Reading,
-at the House of one Gould--Where William Edmundson`'s Preaching had a
-good Effect.--After the Indian War an epidemic Sickness ensues,
-which proves very mortal.
---William Edmundson seized with it,
-but recovers.--He embarketh for New York.--At New London endeavours to get a Meeting,
-but is prevented.--William Edmundson and James Fletcher pay a Visit to a Meeting
-of Baptists.--William Edmundson questions them concerning the Sabbath,
-as introductory to the Exercise of his Ministry amongst
-them.--Some Professors of this Age fond of the Old Testament.
---Meeting near New London broken up by Officers and armed Men.
+[.chapter-synopsis]
+* In the Time of the Indian War in New England
+* William Edmundson under impulse of Duty travels a dangerous Journey to the Eastward
+* Had Meetings where none of this People had been held before, at which several were convinced
+* He visits a religious People at Reading, at the House of one Gould
+* Where William Edmundson`'s Preaching had a good Effect
+* After the Indian War an epidemic Sickness ensues, which proves very mortal
+* William Edmundson seized with it, but recovers
+* He embarketh for New York
+* At New London endeavours to get a Meeting, but is prevented
+* William Edmundson and James Fletcher pay a Visit to a Meeting of Baptists
+* William Edmundson questions them concerning the Sabbath, as introductory to the Exercise of his Ministry amongst them
+* Some Professors of this Age fond of the Old Testament
+* Meeting near New London broken up by Officers and armed Men
 
 It hath already been observed that William Edmundson
 after visiting Barbados a second time in 1675,
@@ -206,7 +206,7 @@ and when he had done, concluded in fervent prayer;
 and then took leave of them under the mutual impressions of good will and affection.
 
 There seems to have been amongst many of the professors of this age too
-fond an attachment to the Testament and the ceremonial law,
+fond an attachment to the Old Testament and the ceremonial law,
 not only in the preachers,
 who are said to be fond of taking texts and examples from thence,
 but also in many well disposed people, like those above-mentioned,
