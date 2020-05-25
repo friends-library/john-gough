@@ -172,11 +172,21 @@ The preamble recites,
 [.embedded-content-document.legal]
 --
 
-that many negroes have been suffered to remain in the meetings of the Quakers,
+&hellip;that many negroes have been suffered to remain in the meetings of the Quakers,
 as hearers of their doctrine, and taught in their principles,
-whereby the safety of this island may be much hazarded.`" They therefore enact,
-that if after the publication of the act any negro or negroes shall
-be found with the said Quakers at any of their said meetings,
+whereby the safety of this island may be much hazarded.
+
+--
+
+[.offset]
+They therefore enact,
+that if after the publication of the act
+
+[.embedded-content-document.legal]
+--
+
+&hellip;any negro or negroes shall be found with
+the said Quakers at any of their said meetings,
 and as hearers of their preaching, such negro or negroes shall be forfeited,
 one half to the party who shall seize and sue for them,
 and the other moiety to the public use of the island.
