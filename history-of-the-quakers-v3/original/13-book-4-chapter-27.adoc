@@ -1,11 +1,14 @@
 == Chapter XXVII.
 
-Settlement in West Jersey.
---Friends hold their Meetings at first in a Tent.--Afterwards at the House of
-John Woolston.--They establish a Monthly Meeting at Burlington.--Commence a Correspondence
-with the yearly Meeting of London.--Several Friends from Dublin and its Neighbourhood
-remove thither.--George Fox writes an Epistle of Advice to the new Settlers.--Yearly
-Meeting established at Burlington.
+[.chapter-synopsis]
+* Settlement in West Jersey
+* Friends hold their Meetings at first in a Tent
+* Afterwards at the House of John Woolston
+* They establish a Monthly Meeting at Burlington
+* Commence a Correspondence with the yearly Meeting of London
+* Several Friends from Dublin and its Neighbourhood remove thither
+* George Fox writes an Epistle of Advice to the new Settlers
+* Yearly Meeting established at Burlington
 
 Before and about this time several friends had arrived in West Jersey,
 and the Indians were very kind and hospitable,
@@ -42,7 +45,7 @@ A considerable number of friends of Dublin and its vicinity being inclined
 in 1681 to remove from thence into the province of West Jersey,
 wherein several of them had before purchased an interest,
 sent to London and chartered a vessel, whereof Thomas Lurting,
-noted for his deliverance from the Turks^
+noted for his deliverance from the Turks,^
 footnote:[This man being brought up to the sea,
 was convinced of the principles of the people called
 Quakers by means of one of the said people,
@@ -74,14 +77,15 @@ Afterwards they sailed to the coast of Barbary,
 where the mate undertook to put them ashore in their own country;
 and after some time of consideration how it might be done in safety, he took them,
 with the help of some of the men, in the boat,
-so near the more that they might wade to it, which at hs desire they readily did;
+so near the more that they might wade to it, which at his desire they readily did;
 and because they said they were four miles from any town,
 he gave them some bread and other necessaries.
 Then putting the boat closer in, they threw them their arms on shore,
 and put off to return to their ship.
 Thus manifesting in deeds their obedience to the
 precepts of our Saviour--Love your enemies,
-and do good to them that hate you.], was master,
+and do good to them that hate you.]
+was master,
 who accordingly sailed to Dublin to take them in, but being taken sick there,
 he could not proceed: His mate therefore taking his place,
 in about eight weeks after their departure from Dublin
