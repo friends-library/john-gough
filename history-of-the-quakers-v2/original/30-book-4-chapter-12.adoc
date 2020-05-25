@@ -1,11 +1,15 @@
 == Chapter XII.
 
-Bill for exempting Dissenters from Penal Laws--Friends attend the Committee
-of Parliament to solicit on behalf of their Society.--terms offered which
-would not relieve the people called Quakers.--The Bill confined to exempting
-Dissenters from 35 Eliz.--It passes both Houses,
-but is clandestinely suppressed.--Resolves in favour of Dissenters.--Persecution continued.--George
-Fox prosecuted for Tithes.--William Penn obtains a grant of hand in America.
+[.chapter-synopsis]
+* Bill for exempting Dissenters from Penal Laws
+* Friends attend the Committee of Parliament to solicit on behalf of their Society
+* Terms offered which would not relieve the people called Quakers
+* The Bill confined to exempting Dissenters from 35 Eliz
+* It passes both Houses, but is clandestinely suppressed
+* Resolves in favour of Dissenters
+* Persecution continued
+* George Fox prosecuted for Tithes
+* William Penn obtains a grant of hand in America
 
 In consequence of these inquiries and the report of the committee thereupon,
 a bill was brought in for exempting the protestant subjects dissenting
@@ -118,11 +122,13 @@ among which the following, however represented by some writers as the result of 
 factious spirit, must meet the approbation of all dispassionate men,
 as being in themselves reasonable and just, viz.
 
+[.numbered]
 1+++.+++ "`Resolved, that it is the opinion of this house,
 that the acts of parliament made in reigns of queen
 Elizabeth and king James against popish recusants,
 ought not to be extended against protestant dissenters.`"
 
+[.numbered]
 2+++.+++ "`Resolved, that it is the opinion of this house,
 that the prosecution of protestant dissenters upon
 the penal laws is at this time grievous to the subject,
