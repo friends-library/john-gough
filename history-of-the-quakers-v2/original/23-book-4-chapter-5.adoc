@@ -1,13 +1,18 @@
 == Chapter V.
 
-George Fox leaves Swarthmore,
-and travels by easy Journeys to London.--Goes over to Holland.--Instances
-of abuse of the Conventicle Act.--In Cheshire,
-by Peter Leicester.--In Gloucestershire, by John Meredith.--At Plymouth,
-by Anthony Horseman and William Tomes,
-Mayors.--. Death of William Dobson.--Of Richard Ashfield.--Marriage of
-the Princess Mary to the Prince of Orange.--Violent Party Dissensions.--Persecution
-continued.--Fresh Solicitation for Relief.
+[.chapter-synopsis]
+* George Fox leaves Swarthmore
+* Travels by easy Journeys to London
+* Goes over to Holland
+* Instances of abuse of the Conventicle Act
+* In Cheshire, by Peter Leicester
+* In Gloucestershire, by John Meredith
+* At Plymouth, by Anthony Horseman and William Tomes, Mayors
+* Death of William Dobson.--Of Richard Ashfield
+* Marriage of the Princess Mary to the Prince of Orange
+* Violent Party Dissensions
+* Persecution continued
+* Fresh Solicitation for Relief
 
 In the beginning of the year 1677, while the roads were yet covered with snow,
 George Fox left Swarthmore,
@@ -17,7 +22,7 @@ to take their leave of him before he left the country,
 where the next day he had a very large meeting,
 and was largely opened in doctrine therein.
 
-From thence he proceeded on his journey, vi siting the meetings of his friends,
+From thence he proceeded on his journey, visiting the meetings of his friends,
 and edifying them with his ministry, through the counties of York, Derby, Nottingham,
 etc. passing through the counties to London; he had not yet recovered his strength,
 since his indisposition at Worcester, so far as to bear continual travelling,
@@ -139,7 +144,10 @@ This year died also in Newgate, Richard Ashfield of Stanes in Middlesex,
 of whom his widow gave the following account:^
 footnote:[[.book-title]#Besse#]
 
-"`After my dear husband Richard Ashfield was convinced of the blessed truth,
+[.embedded-content-document.testimony]
+--
+
+After my dear husband Richard Ashfield was convinced of the blessed truth,
 as it is in Jesus, he was often prosecuted, by excommunications and sessions process,
 for non-conformity; and in obedience to the command of Christ,
 refusing to take the oaths, was several times imprisoned,
@@ -147,14 +155,16 @@ on which account he also suffered a year`'s imprisonment in 1665.
 In the year 1676 he was again excommunicated for non-conformity,
 and refusing to pay church rates (so called.) By
 the vehement instigation of Edward Kempshall,
-a writ of capias was served on him, and he carried to Newgate in the 11th month, 1676,
+a _writ of capias_ was served on him, and he carried to Newgate in the 11th month, 1676,
 to the great grief of many honest people, who wept when they took their leaves of him,
 it being then a very cold season, and he aged about sixty-five years,
 and much troubled with a cough and phthisic; this, to use his own words on his dying bed,
-was the occasion of shortening bis days.
+was the occasion of shortening his days.
 On the 11th of the 10th month, 1677, he laid down his head,
 and resigned his soul and spirit in perfect peace and joy of the Lord,
-into the hands of his faithful Creator.`"
+into the hands of his faithful Creator.
+
+--
 
 The nation in general appeared entirely dissatisfied with the government.
 The parliament was divided into two parties, the court and the country;
