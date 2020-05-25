@@ -1,21 +1,25 @@
 == Chapter VI.
 
-George Keith removes to Pennsylvania.--Is appointed
-Master of a free School established there,
-which he soon quits.--Account of George Keith before his Removal
-to America.--Further Remarks concerning him.--He lets in an aspiring
-Mind.--Friends concerned to caution him.
---He discovers an open Dissent.
---Begins to quarrel,
-first with Thomas Fitzwalter and William Stockdale.--Complains
-against them to the Monthly Meeting.--Friends in England,
-hearing of the Difference,
-write a Letter of Advice.--Their Counsel slighted by George Keith.--He treats
-Thomas Lloyd and other Magistrates with illiberal Language.--He reflects upon
-the Meeting of Ministers.--Testimony of the Monthly Meeting against him.--Presented
-by the Grand jury and fined.--Magistrates`' Vindication.--Thomas Wilson and James
-Dickenson arrive in Pennsylvania.--Extract from Thomas Wilson`'s journal.
---George Keith`'s Departure for England.
+[.chapter-synopsis]
+* George Keith removes to Pennsylvania
+* Is appointed Master of a free School established there, which he soon quits
+* Account of George Keith before his Removal to America
+* Further Remarks concerning him
+* He lets in an aspiring Mind
+* Friends concerned to caution him
+* He discovers an open Dissent
+* Begins to quarrel, first with Thomas Fitzwalter and William Stockdale
+* Complains against them to the Monthly Meeting
+* Friends in England, hearing of the Difference, write a Letter of Advice
+* Their Counsel slighted by George Keith
+* He treats Thomas Lloyd and other Magistrates with illiberal Language
+* He reflects upon the Meeting of Ministers
+* Testimony of the Monthly Meeting against him
+* Presented by the Grand jury and fined
+* Magistrates`' Vindication
+* Thomas Wilson and James Dickenson arrive in Pennsylvania
+* Extract from Thomas Wilson`'s journal
+* George Keith`'s Departure for England
 
 George Keith, to whom Christopher Taylor aforesaid had resigned his school at Edmonton,
 did not keep it up long, but had also in the intermediate time removed to Pennsylvania.
@@ -306,6 +310,9 @@ than to be over curious in questions of words, ministering to strife and content
 reminding them of the ancient and constant principle and experience of friends,
 that the dispensation of the gospel committed to them, was a
 
+[.embedded-content-document.epistle]
+--
+
 spiritual dispensation; in nowise to oppose,
 reject or invalidate Jesus Christ`'s outward coming, suffering, death, resurrection,
 ascension and glorified estate in the heavens;
@@ -335,7 +342,12 @@ divinity and doctrine; and sincerely believe,
 own and confess our blessed Lord and Saviour Jesus Christ, the Son of the living God,
 in all his comings, appearances, properties, offices and works, both for us and in us.
 
+--
+
 This epistle, which is very long, concludes with the excellent counsel of the apostle,
+
+[.embedded-content-document.epistle]
+--
 
 If there be therefore any consolation in Christ; if any comfort of love;
 if any fellowship of the spirit; if any bowels and mercies, fulfill ye my joy,
@@ -343,8 +355,11 @@ that ye be like-minded, having the same love, being of one accord and one mind;
 let nothing be done through strife or vain glory, but in lowliness of mind,
 let every man esteem others better than himself.
 
-Signed by "`George Whitehead, Samuel Waldenfield, John Field, Benjamin Antrobus,
+[.signed-section-signature]
+Signed by George Whitehead, Samuel Waldenfield, John Field, Benjamin Antrobus,
 William Bingley, John Vaughton, Alexander Seaton, Daniel Monro, Patrick Livingston.
+
+--
 
 The brotherly counsel and concern of friends in England,
 although marked throughout with of clear reasoning,
@@ -420,7 +435,11 @@ we can perhaps bring no authority more opposite to the point than his own,
 in his serious appeal printed in Philadelphia in this very same year 1692,
 wherein he fully condemned in others those measures, he was now so fondly pursuing.
 
+[.offset]
 Serious appeal, page 6.--
+
+[.embedded-content-document]
+--
 
 Notwithstanding Cotton Mather`'s strong asseverations against us,
 as if we denied all or most of the fundamental articles
@@ -438,6 +457,8 @@ men known well enough to be possessed with prejudice against us;
 such as Thomas Hicks and John Faldo and others, whom our friends in Old England,
 and particularly George Whitehead and William Penn, have largely answered.
 
+--
+
 Hitherto friends had treated with him in a private way in much meekness and patience;
 but it was properly judged that this public insult demanded public reparation,
 which he contemptuously refusing to make,
@@ -446,9 +467,13 @@ and as the testimony they published on this occasion exhibits a
 plain narration of the case and the reasons of their procedure,
 and his offensive conduct, it justly claims a place in this work,
 
-To the several monthly and quarterly meetings in Pennsylvania, East and West Jersey,
-and elsewhere, as there may be occasion.
+[.embedded-content-document.testimony]
+--
 
+[.blurb]
+=== To the several monthly and quarterly meetings in Pennsylvania, East and West Jersey, and elsewhere, as there may be occasion.
+
+[.salutation]
 Beloved Friends,
 
 In tender love, and with spirits bowed down before the Lord,
@@ -593,11 +618,14 @@ Amen!
 Given forth by the meeting of public friends in Philadelphia the 20th of the 4th month,
 1692.
 
+[.signed-section-signature]
 Thomas Lloyd, John Willsford, Nicholas Wain, William Watson, George Maris,
 Thomas Duckett, Joshua Fearne, Even Morris, Richard Walter, John Symcock, Griffith Owen,
 John Bown, Henry Willis, Paul Sanders, John Blunston, William Cooper, Thomas Thackory,
 William Byles, Samuel Jennings, John Delaval, William Yeardly, Joseph Kirkbride,
 Walter Fawcit, Hugh Roberts, Robert Owen, William Walker, John Lynam, George Gray.
+
+--
 
 George Keith having drawn a considerable party to join him in his opposition,
 now set up a separate meeting.
@@ -675,7 +703,7 @@ examined and committed to prison, but discharged without being brought to trial;
 and the latter was afterwards so just as to give a true state of the case.
 George Keith and Thomas Budd were also presented by the grand jury of Philadelphia,
 as authors of another tract of like tendency; this presentment, being prosecuted,
-the matter was brought to trial, and the parties fined 5l each;
+the matter was brought to trial, and the parties fined 5£. each;
 hut the fines were not levied.
 
 These proceedings without doubt added fuel to the flame, and exasperated these men,
@@ -686,9 +714,11 @@ to introduce disorder and faction into this state in its infancy,
 thought it necessary to prevent the fatal consequence of such licentious measures
 by publishing the following vindication of their aforesaid proceedings.
 
-At a private sessions, held for the county of Philadelphia the 25th of the 6th month,
-1692, before Arthur Cooke, Samuel Jennings, Samuel Richardson, Humphrey Murray,
-Anthony Morris, Robert Ewer, Justices of the county
+[.embedded-content-document]
+--
+
+[.blurb]
+=== At a private sessions, held for the county of Philadelphia the 25th of the 6th month, 1692, before Arthur Cooke, Samuel Jennings, Samuel Richardson, Humphrey Murray, Anthony Morris, Robert Ewer, Justices of the county
 
 Whereas the government of this province being by the late king of England`'s
 peculiar favour vested and since continued in governor Penn,
@@ -754,6 +784,8 @@ as they will answer the contrary at their peril.
 
 Given under our hands and seal of the county, the day, year and place aforesaid.
 
+--
+
 As George Keith persevered after all in the same line of conduct,
 the general meetings thought it their duty to confirm the
 judgment and testimony of the monthly meeting of Philadelphia,
@@ -803,6 +835,8 @@ but afterwards James Dickenson, to whom he professed a great amity and regard,
 became equally obnoxious thereto,
 the occasion whereof will appear by the following extract from Thomas Wilson`'s journal.
 
+[quote]
+____
 We went to Philadelphia,
 where we found the difference between George Keith
 and friends broke out to an open separation,
@@ -866,7 +900,8 @@ being many, cried aloud, Give way and let the devil come out,
 for the little black man from England has got the day;
 after which George called his party together to their meeting-house,
 and told them that James Dickenson had never appeared against him till that day,
-but had then made himself equal with Thomas Wilson (meaning in opposition to him, etc.`")
+but had then made himself equal with Thomas Wilson (meaning in opposition to him, etc.)
+____
 
 In short George Keith had suffered his passion and
 prejudice to embitter his mind to such a degree,

@@ -1,11 +1,14 @@
 == Chapter V. America.
 
-Meeting-house built in Philadelphia.--Death and Character of Robert and Jane
-Owen.--Ditto of John Skein.--Yearly Meeting to be held alternately at Burlington
-and Philadelphia.--Care to prevent strong Liquors being sold to the Indians,
-and Means used for their Instruction.-- Emigration from Holland
-and Germany.--Life and Character of Christopher Taylor.
---Two Letters from William Penn to the Colony.
+[.chapter-synopsis]
+* Meeting-house built in Philadelphia
+* Death and Character of Robert and Jane Owen
+* Ditto of John Skein
+* Yearly Meeting to be held alternately at Burlington and Philadelphia
+* Care to prevent strong Liquors being sold to the Indians, and Means used for their Instruction
+* Emigration from Holland and Germany
+* Life and Character of Christopher Taylor
+* Two Letters from William Penn to the Colony
 
 In this year friends of the quarterly meeting of Philadelphia put in execution the design,
 which they had a considerable time in contemplation,
@@ -15,7 +18,7 @@ was concluded to have one built in the center,
 between the two rivers bounding the city, of brick,
 fifty feet by thirty-six in dimension, which being in due time completed,
 the meetings were held there, till the bank meeting-house was built:
-The next year friends of Burlington also built a large commodious meeting-house
+The next year friends of Burlington also built a large commodious meeting-house.
 
 The quarterly meeting of Philadelphia was now composed of
 the following particular meetings and bodies of friends,
@@ -212,9 +215,6 @@ to impose upon them, and tempt them to evil, are not principally accountable,
 for the crimes they commit, and their consequences,
 is a query worthy of their most serious consideration.
 {footnote-paragraph-split}
-From Maija:
-Here`'s the footnote within a footnote
-{footnote-paragraph-split}
 *At the treaty at Carlisle,
 in 1753 the Indians say, "`The Rum ruins us.
 We beg you would prevent its coming in such quantities.
@@ -374,6 +374,10 @@ seems to have been regarded by them as one of the best men of the age in which h
 William Penn, at different times in the year 1689,
 sent the following letters to his friends in Pennsylvania;
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 My dear Friends and Brethren,
 
 If it be with you, as I can say it is with me in the presence of God,
@@ -413,15 +417,25 @@ as you are not and cannot be forgotten in my addresses and approaches to him,
 who rest in his unchangeable love, Dear friends and brethren,
 your`'s unalterably in the communion of the precious truth,
 
-2nd 1st mo 1689
-
+[.signed-section-signature]
 William Penn
 
+[.signed-section-context-close]
+2nd 1st mo 1689
+
+[.signed-section-context-close]
 My love to friends in Jersey, etc.
 Let this be read among friends,
 
+--
+
+[.embedded-content-document.epistle]
+--
+
+[.signed-section-context-open]
 Hammersmith, 30th 10th mo, 1689,
 
+[.salutation]
 Dear Friends,
 
 I cannot slip this opportunity, but send you the endeared salutations of my love,
@@ -471,6 +485,10 @@ and walk worthily of his daily mercy, and attendance upon you, and care over you
 and the Lord keep you to the end.
 I am, in the truth that makes us near to God, and one to another,
 
+[.signed-section-closing]
 Your faithful friend and brother,
 
+[.signed-section-signature]
 W+++.+++ Penn.
+
+--
