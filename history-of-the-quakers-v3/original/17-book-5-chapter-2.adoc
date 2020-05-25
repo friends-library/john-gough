@@ -1,10 +1,14 @@
 == Chapter II.
 
-The Complaint of Friends against the Informers.--- They move for Commissioners
-to be appointed to examine the Truth of their Allegations,--Which is granted.
---The Informers endeavour to get George Whitehead and others imprisoned.--The
-Commissioners draw up their Report.--To which George Whitehead
-objects,--And gets it amended.--Informers discouraged.
+[.chapter-synopsis]
+* The Complaint of Friends against the Informers
+* They move for Commissioners to be appointed to examine the Truth of their Allegations
+* Which is granted
+* The Informers endeavour to get George Whitehead and others imprisoned
+* The Commissioners draw up their Report
+* To which George Whitehead objects
+* And gets it amended
+* Informers discouraged
 
 After the people called Quakers were released from imprisonment,
 they were still exposed to the ravages of the unprincipled informers.
@@ -14,11 +18,17 @@ and having complied with their petition to release their imprisoned friends,
 they were encouraged to present the following complaint and petition
 against the informers and their iniquitous practices.
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To King James the Second.
 
+[.signed-section-context-open]
 The Complaint and Petition of his peaceable and suffering
 Subjects called Quakers in and about the City of London,
 
+[.salutation]
 Humbly presenting,
 
 That only for religious concerns,
@@ -51,10 +61,14 @@ Wherefore the said subjects humbly entreat the King,
 in his princely compassion and wisdom,
 to put a speedy stop to these destructive proceedings.
 
+[.signed-section-closing]
 Signed in behalf of the rest of the said sufferers,
 
+[.signed-section-signature]
 William Crouch, Samuel Boston, James Goodwin, Timothy Emerson, Thomas Lacy,
-John Skelton.`"
+John Skelton.
+
+--
 
 This petition was followed up by a request to the king to appoint
 commissioners to examine into the truth of the allegations,
@@ -152,33 +166,24 @@ that they should put a stop to the predations of these men.^
 footnote:[The following letter from the Earl of Sunderland to the Earl of Huntington,
 I suppose, must have been written upon this occasion.
 {footnote-paragraph-split}
-"` Whitehall, Dec.
-7,
-1686
+Whitehall, Dec. 7, 1686.
 {footnote-paragraph-split}
-"`My Lord,
-{footnote-paragraph-split}
-"`The
-king being informed that one John Smith,
+My Lord, The king being informed that one John Smith,
 a common informer,
 doth very vexatiously prosecute the Quakers in the county of Leicester,
 and in the town and county of Nottingham;
-and his majesty being pleased to extend his favour
-to
-{footnote-paragraph-split}
+and his majesty being pleased to extend his favour to
 those of that persuasion,
 his majesty would have your grace direct the justices of
 peace to give no sort of countenance to the said John Smith,
 and his prosecution against the Quakers.
+Your grace`'s most faithful and humble servant,
 {footnote-paragraph-split}
-"`Your grace`'s most faithful and humble servant,
+Sunderland P.
 {footnote-paragraph-split}
-"`Sunderland.
-P.`"
-{footnote-paragraph-split}
-"`To the Right Hon.
+To the Right Hon.
 the Earl of Huntington, one of his majesty`'s most honourable privy council,
-chief recorder of Leicester, custos rotulorum of the county of Leicester:`''`]
+chief recorder of Leicester, _custos rotulorum_ of the county of Leicester:]
 Instead therefore of being encouraged and protected in their oppressive persecutions,
 they were now discountenanced by the justices,
 and by the quarter sessions of London and Middlesex.
