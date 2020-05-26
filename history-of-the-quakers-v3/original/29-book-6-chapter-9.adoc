@@ -291,11 +291,19 @@ which is for leave to bring in a bill for our relief,
 and so to consider our suffering case as if it were your own, and you in our stead;
 that we and our posterity may have cause to bless the Lord on your behalf?
 
+--
+
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To the commons of England in parliament assembled.
 Petition.
 
-The humble petition of the People called Quakers.
+[.blurb]
+=== The humble petition of the People called Quakers.
 
+[.salutation]
 Showeth,
 
 Our many long and renewed sufferings for not swearing
