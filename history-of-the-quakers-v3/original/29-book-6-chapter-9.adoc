@@ -1,15 +1,17 @@
 == Chapter IX.
 
-Friends still liable to exorbitant Sufferings for Tithes.--Present
-a Petition to the King.--Conference with the King.--William Penn
-visits the Western Counties.--He appoints a Meeting at Wells,
-which is broken up by the Mayor`'s Order.
---Application for an Affirmation Act.
---A Committee appointed to solicit Members,
-and promote passing the Act.--In the House of Lords
-the Bishops endeavour to frustrate the Application.
---Form of the first Affirmation.--Bill for recovering small
-Tithes and Church Rates.--Exceptions against it.
+[.chapter-synopsis]
+* Friends still liable to exorbitant Sufferings for Tithes
+* Present a Petition to the King
+* Conference with the King
+* William Penn visits the Western Counties
+* He appoints a Meeting at Wells, which is broken up by the Mayor`'s Order
+* Application for an Affirmation Act
+* A Committee appointed to solicit Members, and promote passing the Act
+* In the House of Lords the Bishops endeavour to frustrate the Application
+* Form of the first Affirmation
+* Bill for recovering small Tithes and Church Rates
+* Exceptions against it
 
 Notwithstanding the people called Quakers were now exempted from
 suffering for attending their religious meetings by the toleration-act;
@@ -29,12 +31,16 @@ Friends of the meeting for sufferings in London taking this matter into consider
 thought it expedient to draw up a state of the case, and present it to the king,
 which was drawn up accordingly in the following terms:
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To the King.
 
-The case and request of the peaceable people commonly called Quakers,
-in behalf of many of them, who are present sufferers for conscience-sake,
-humbly presented,
+[.blurb]
+=== The case and request of the peaceable people commonly called Quakers, in behalf of many of them, who are present sufferers for conscience-sake, humbly presented,
 
+[.salutation]
 Showing,
 
 That as the God of all our mercies hath preserved
@@ -64,27 +70,33 @@ formerly inflicted on us were sometimes abated and respited,
 when it pleased God to move the hearts of kings and governments
 to show some compassion and favour to us,
 
-1st, By king Charles the second`'s proclamation of grace in 1661,
+[.numbered]
+_1st,_ By king Charles the second`'s proclamation of grace in 1661,
 whereby many of our friends were released and freed out of prison.
 
-2nd, By his letters patent (or pardon) in 1672,
+[.numbered]
+_2nd,_ By his letters patent (or pardon) in 1672,
 pursuant to his declaration of indulgence to tender consciences in the same year.
 
-3rd, By an act of parliament 25 Car. 2, ch. 5. entitled,
+[.numbered]
+_3rd,_ By an act of parliament 25 Car. 2, ch. 5. entitled,
 An act for the king`'s majest`'s most gracious and general pardon,
 pardoning contempts against the king,
 whereby many also of the said people were discharged, and released out of prisons.
 
-4th, Also by king James the second many were released out of prisons,
+[.numbered]
+__4th,__ Also by king James the second many were released out of prisons,
 and relieved by divers commissions; and two general proclamation pardons,
 the one in 1685 and the other in 1688.
 
-5th,
+[.numbered]
+_5th,_
 And also by an act of gracious general and free pardon
 in the second year of king William and queen Mary,
 several were discharged for contempt and imprisonments.
 
-6th,
+[.numbered]
+_6th,_
 And by thy late consort the queen (on application
 made to her in thy absence) a poor innocent woman,
 who had been long prisoner at Lancaster upon a fine, was released;
@@ -102,6 +114,8 @@ to extend his favour and compassion towards the said sufferers
 for their lawful ease and relief from their present confinements,
 prisons and hardships, either by proclamation or otherwise,
 as in his wisdom and clemency shall seem most meet and convenient.
+
+--
 
 This case and petition was presented to the king by George Whitehead, Gilbert Latey,
 Thomas Lower, John Taylor and Daniel Quare;
@@ -157,8 +171,13 @@ William Penn placed himself in the balcony, and thence preached to the people;
 but in the midst of his declaration he was interrupted
 by officers from the mayor with the following warrant:
 
+[.embedded-content-document.legal]
+--
+
+[.signed-section-context-open]
 Wells City and Borough.
 
+[.letter-heading]
 To all constables, verderors, sergeants at mace of the said city.
 
 Whereas William Penn and several others called Quakers,
@@ -167,11 +186,15 @@ and the said William Penn is now preaching or teaching in
 a house not licensed according to the late act of parliament;
 these are therefore to require you to take the said William Penn,
 and him immediately to bring before us to answer the premises;
-Given under our hands and seals this 15th day of November 1695
+Given under our hands and seals this 15th day of November 1695.
 
+[.signed-section-signature]
 Matthew Baron, Mayor.
 
+[.signed-section-signature]
 William Salmon.
+
+--
 
 The officers, rudely officious, could not be prevailed upon to wait till he had done,
 although desired, but forced him away instantly before the magistrates,
@@ -200,8 +223,11 @@ London renewed their application to parliament,
 for accepting the solemn affirmation of the members of their society instead of an oath,
 by the following case and petition.
 
-The suffering case of the People commonly called Quakers, relating to oaths and swearing,
-humbly offered.
+[.embedded-content-document.address]
+--
+
+[.blurb]
+=== The suffering case of the People commonly called Quakers, relating to oaths and swearing, humbly offered.
 
 It is not unknown to this nation, that ever since we were a people,
 it hath been our principle not to swear, make, or take oaths, which he,
@@ -292,6 +318,8 @@ freely submitting, that whoever in this case shall falsify the truth,
 and be thereof duly convicted,
 shall undergo like pains and penalties as in law and justice are due unto perjured persons.
 
+--
+
 A committee of the aforesaid meeting was moreover appointed
 to solicit the members in favour of the petition,
 and to procure the passing of a bill for the relief of friends.
@@ -343,7 +371,7 @@ Instead of the affirmation, as it came from the commons,
 they wanted to introduce more solemn asseverations, such as,
 I call God to witness and judge, etc.
 I call God to record upon my soul,
-and appeal to God as a judge of solemn oath the truth of what i say,
+and appeal to God as a judge of solemn oath the truth of what I say,
 etc. which the committee of the meeting for sufferings
 being in formed of by some of the temporal peers,
 who were friendly, and wished to redress the grievances of the society in this respect,
@@ -361,10 +389,13 @@ these words +++[+++the witness of the truth of what I say]
 and earnestly persuaded them to agree to the addition of these words,
 rather than lose the bill, whereupon the said friends, finding they could do no better,
 consented to leave the matter to their discretion; so the bill was finally passed,
-with an affirmation in this form, "`I, A. B. do declare in the presence of Almighty God,
-the witness of the truth of what I say.`"
+with an affirmation in this form, _"`I, A. B. do declare in the presence of Almighty God,
+the witness of the truth of what I say.`"_
 
-The act; as passed, besides the foregoing, contained the following article.
+The act as passed, besides the foregoing, contained the following article.
+
+[.embedded-content-document.legal]
+--
 
 Fourthly, And whereas, by reason of a pretended scruple of conscience,
 Quakers do refuse to pay tithes and church-rates, be it enacted,
@@ -410,6 +441,8 @@ and no proceedings or judgment had or to be had by virtue of this
 act shall be removed or superseded by any writ of certiorari or
 other writ out of his majesty`'s courts at Westminster,
 or any other court whatsoever, unless the title of such tithes shall be in question.
+
+--
 
 This act for seven years, was at the expiration continued for eleven years longer,
 and afterwards in the year 1715 made perpetual;
@@ -461,9 +494,13 @@ The temporal lords were very civil and kind during the conference,
 and after much discourse the bishop asking if they had any exceptions to offer in writing,
 was answered in the affirmative, and the following exceptions produced;
 
-Exceptions against the bill, entitled an act for the better payment of church-rates,
-small tithes, and other church dues; and for better passing church-wardens accounts.
+[.embedded-content-document.legal]
+--
 
+[.blurb]
+=== Exceptions against the bill, entitled An Act for the Better Payment of Church-rates, Small Tithes, and Other Church Dues; and for Better Passing Church-wardens Accounts.
+
+[.salutation]
 Humbly offered,
 
 It is observed, That in the said bill no appeal to any other or higher court is granted,
@@ -538,4 +575,7 @@ thousands of the king`'s conscientious protestant subjects,
 and increase the number of prisoners,
 of which there are many on the account of conscience already.
 
+--
+
+[.offset]
 The bill was laid aside.

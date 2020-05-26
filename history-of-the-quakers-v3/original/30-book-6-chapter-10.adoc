@@ -1,11 +1,18 @@
 == Chapter X.
 
-Treaty of Ryswick.--Address of the People called Quakers thereupon.--A Spirit of Persecution
-revived.--Some Priests of Norfolk challenge to a Dispute.--They publish two abusive
-Tracts.-- Answered by George Whitehead.--Remonstrance by William Penn.
---They procure a Petition against she Quakers to Parliament.--The Petition suppressed.
---Second Petition from the Magistrates of Edmundsbury, Suffolk, also suppressed.
---Account of Charles Marshall.--Account of John Crook.
+[.chapter-synopsis]
+* Treaty of Ryswick
+* Address of the People called Quakers thereupon
+* A Spirit of Persecution revived
+* Some Priests of Norfolk challenge to a Dispute
+* They publish two abusive Tracts
+* Answered by George Whitehead
+* Remonstrance by William Penn
+* They procure a Petition against she Quakers to Parliament
+* The Petition suppressed
+* Second Petition from the Magistrates of Edmundsbury, Suffolk, also suppressed
+* Account of Charles Marshall
+* Account of John Crook
 
 A treaty of peace was concluded at Ryswick this year between England, France and Holland,
 whereby the nation was relieved from a long and expensive war,
@@ -19,10 +26,16 @@ this society also in point of gratitude for the religious liberty they now enjoy
 and to testify their satisfaction in the restoration of peace,
 presented the following address:
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To king William the third, over England, etc.
 
-To grateful acknowledgment of the People commonly called Quakers, humbly presented.
+[.blurb]
+=== To grateful acknowledgment of the People commonly called Quakers, humbly presented.
 
+[.salutation]
 May it please the king,
 
 Seeing the most high God, who ruleth in the kingdoms of men,
@@ -49,7 +62,10 @@ to prosecute all these his just and good inclinations,
 that his days here may be happy and peaceable,
 and hereafter he may partake of a lasting crown that will never fade away.
 
+[.signed-section-context-close]
 London, 7th of 11mo called January, 1697.
+
+--
 
 The society of people, called Quakers,
 although they now enjoyed the exemptions of the act of toleration,
@@ -94,6 +110,9 @@ as the exigency required the following brief remonstrance,
 drawn up by William Penn, was in the mean time printed,
 and handed to the members of parliament.
 
+[.embedded-content-document.address]
+--
+
 It does not surprise us to be evilly entreated,
 and especially by those that have an interest in doing it.
 But if conscience prevailed more than contention, and charity over prejudice,
@@ -118,6 +137,8 @@ and think it our duty, as well as wisdom,
 to use the liberty the government has favoured us with,
 in as peaceable and inoffensive a manner as may be.
 
+--
+
 Notwithstanding which, these priests and their assistant Francis Bugg,
 and other abettors,
 not contented with vilifying the people called Quakers
@@ -129,6 +150,10 @@ accusations without grounds, and calumnies which they could not prove;
 a copy whereof will evince the extent of their evil disposition,
 and their reluctance to the toleration granted by the late act.
 
+[.embedded-content-document.legal]
+--
+
+[.letter-heading]
 To the House of Commons.
 
 Norfolk petition of justices and grand jurors.
@@ -151,7 +176,7 @@ and the indulgence of the government for their indemnity.
 How apparently their blasphemous books and pernicious principles tend to subvert the
 fundamentals of christianity and undermine the government is sufficiently demonstrable;
 the publishing whereof, by pretended permission of the government,
-is of a most dangerous consequence.`"
+is of a most dangerous consequence.
 
 The prayer is to take these things into consideration,
 that (with whatsoever tenderness to the persons and estates of these people)
@@ -159,14 +184,16 @@ their said principles and practices may be strictly examined,
 and censured or suppressed as they shall appear to deserve,
 and as in your great wisdom shall seem expedient;
 and that the true christian religion may be preserved from popish
-superstition and unpolluted with enthusiastic innovations.`"
+superstition and unpolluted with enthusiastic innovations.
+
+--
 
 It is unnecessary to make any comment on this extraordinary petition,
 it speaks for itself,
 that the spirit of persecution survived the act of
 toleration in the breasts of all concerned in it.
 Two priests,
-John Meriton and L---- Topcliff attended the parliament
+John Meriton and L+++_______+++ Topcliff attended the parliament
 to solicit the introducing of their petition into the house;
 but the times were now changed,
 and more liberal sentiments in respect to religious liberty
@@ -194,13 +221,16 @@ of domineering and harassing their inoffensive fellow subjects,
 and their eagerness to regain it.
 Their petition was drawn up in the following terms:
 
+[.embedded-content-document.legal]
+--
+
+[.letter-heading]
 To the honourable the commons of England, in parliament assembled.
 
-The humble petition of the aldermen, assistant justice,
-and chief burgess and burgesses of the common-council,
-in behalf of themselves and the other inhabitants
-of the borough of Bury St. Edmund`'s in Suffolk.
+[.blurb]
+=== The humble petition of the aldermen, assistant justice, and chief burgess and burgesses of the common-council, in behalf of themselves and the other inhabitants of the borough of Bury St. Edmund`'s in Suffolk.
 
+[.salutation]
 Humbly showeth,
 
 That we considering all ancient heresies which have vexed both church and state,
@@ -222,6 +252,8 @@ if not by totally suppressing,
 yet at least by preventing their after-growth and increase amongst us;
 that our posterity may untroubled live by this early care of our laws and liberties,
 and we enjoy the wished-for happiness of a peaceful life.
+
+--
 
 The tendency of this petition was so plain and evident,
 that after the care of friends respecting the Norfolk
@@ -429,6 +461,9 @@ he addressed himself to the following purport,
 as related by one then present,
 who committed the substance of his expressions to writing presently after;
 
+[quote]
+____
+
 I have loved the brethren,
 I have sought the unity and peace of the church for these forty years,
 and to my great comfort never did anything tending to the breach thereof.
@@ -454,7 +489,8 @@ a comfort would it be for such to see the fruits of their charity in their lifet
 Some of his last words were these,
 That he had not handled the word of the Lord deceitfully, nor done the work negligently;
 earnestly desiring friends might live in love, and keep in the unity of the spirit,
-which is the bond of peace.`"
+which is the bond of peace.
+____
 
 As his last moments approached he closed his eyes with his own hand,
 with composure of mind, as one from whom the sting of death was taken away,
@@ -623,6 +659,10 @@ He left behind in writing,
 an epistle of weighty counsel to his children and grandchildren,
 written scarce two months before his death, as followeth:
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Dear Children,
 
 I must leave you in a wicked age,
@@ -724,8 +764,13 @@ knowing how the vain mind of man little regards such advice as this I leave behi
 but by this advice I show my true love to you all, desiring God`'s blessing upon it,
 to whom I commit you all, my dear children, and end my days,
 
-Your loving father and grandfather.
+[.signed-section-closing]
+Your loving father and grandfather,
 
-JOHN CROOK.
+[.signed-section-signature]
+John Crook.
 
+[.signed-section-context-close]
 Hertford, the first of the 1st month, 1698-99.
+
+--
