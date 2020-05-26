@@ -1,16 +1,26 @@
 == Chapter XIII. America.
 
-Account of John Delaval.--Ditto of Thomas Lloyd.--Robert Wardel and Robert Barrow visit
-America.--Robert Wardel dies in Jamaica.--Account of Robert Barrow.--His Imprisonments
-and Sufferings in England.--His Visits to Ireland.--His Shipwreck in the Gulf of Florida.
-The Succession of grievous Calamities which he and the Company endured among the Indians,
-and on the Way to Augustine.--He arrives at Philadelphia in a very weak State,
-and three Days after dies there.--Some of the Partisans of George Keith
-continue to be troublesome.--Several others of them return to the Society.--Caleb
-Wheatley`'s Acknowledgment.-- Epistle to the yearly Meeting.--Account
-of Welsh Settlers.--Visit of Thomas Story and Roger Gill.
---Epidemical Distemper in Philadelphia.-- Roger Gill dies
-of it.--William Penn`'s second Voyage to Pennsylvania.
+[.chapter-synopsis]
+* Account of John Delaval
+* Ditto of Thomas Lloyd
+* Robert Wardel and Robert Barrow visit America
+* Robert Wardel dies in Jamaica
+* Account of Robert Barrow
+* His Imprisonments and Sufferings in England
+* His Visits to Ireland
+* His Shipwreck in the Gulf of Florida
+* The Succession of grievous Calamities which he and the Company endured among the Indians, and on the Way to Augustine
+* He arrives at Philadelphia in a very weak State,
+* Three Days after dies there
+* Some of the Partisans of George Keith continue to be troublesome
+* Several others of them return to the Society
+* Caleb Wheatley`'s Acknowledgment
+* Epistle to the yearly Meeting
+* Account of Welsh Settlers
+* Visit of Thomas Story and Roger Gill
+* Epidemical Distemper in Philadelphia
+* Roger Gill dies of it
+* William Penn`'s second Voyage to Pennsylvania
 
 In the latter end of 1693, died John Delaval, who,
 in the early settlement of these provinces, was a captain of militia at New-York,
@@ -166,7 +176,7 @@ it makes me think of my dear wife; I know not whether I may ever see her more;
 but however the will of God be done; I am,
 and was willing to be contented with the will of God, whether life or death,
 before I came hither; and I bless God,
-I am not afraid to die.`"--And continuing to the end in a resigned frame of mind,
+I am not afraid to die.`" And continuing to the end in a resigned frame of mind,
 gave pertinent exhortations to several of those who came to visit him,
 concerning the education of their children, their care of discipline in the church,
 and that things might be kept in good order,
@@ -587,7 +597,8 @@ and also take away strength and cause weakness to succeed whenever he pleases.
 Here was an old man,^
 footnote:[Robert Barrow.]
 a woman with a sucking child,^
-footnote:[Jonathan Dickenson`'s wife.]and a woman with child,
+footnote:[Jonathan Dickenson`'s wife.]
+and a woman with child,
 persons very unlikely to encounter such hardships, all persevered through,
 and yet divers negroes inure to more hardships perished.`"
 The next day they reached a Spanish settlement,
@@ -734,6 +745,9 @@ and feeling want of peace in themselves therein, had returned back to the societ
 and acknowledged their errors to the monthly meetings to which they had belonged,
 by a writing under their hands, of which the following is a specimen:
 
+[.embedded-content-document.letter]
+--
+
 Long before George Keith set up his separate meeting,
 my mind was at times gone out of the pure fear of God,
 into my own reason and conceivings,
@@ -787,11 +801,15 @@ if I diligently wait upon him; but if for want of watchfulness the enemy should 
 as I hope he never will, I have full satisfaction in what I have have here written,
 and in joining with my real friends again, amongst whom I feel life,
 and more quiet and steadiness of mind than I have done for a long time before.
-Praise to the Lord forevermore.`" Amen.
+Praise to the Lord forevermore. Amen.
 
-CALEB WHEATLEY.
+[.signed-section-signature]
+Caleb Wheatley.
 
+[.signed-section-context-close]
 Written the 31st of the 11th month, 1692.
+
+--
 
 Those of the Separatists who did not return to their
 brethren were now under various fluctuations,
@@ -805,6 +823,10 @@ gives some account of the present state of things,
 as well among them as otherwise in these provinces;
 some paragraphs of it are therefore here inserted:
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Dear Friends,
 
 In that which abides forever we salute and tenderly embrace you,
@@ -857,7 +879,10 @@ health generally here and in the blessed fellowship of the gospel of peace,
 rest your friends and brethren.
 Signed in behalf and by appointment of the meeting by
 
+[.signed-section-signature]
 Phineas Pemberton.
+
+--
 
 Thomas Janney, from Bucks county, Pennsylvania,
 in the year 1698 visited friends in New England in the work of the ministry,
@@ -939,6 +964,8 @@ footnote:[Thomas Story, a lawyer,
 and afterwards some time one of the provincial council and recorder of the city of Philadelphia.
 Vid. Journal of his life, page 224.]
 
+[quote]
+____
 Great was the majesty and hand of the Lord, great was the fear that fell upon all flesh;
 I saw no lofty airy countenance, nor heard any vain jesting to move men to laughter,
 nor witty repartee to raise mirth,
@@ -954,6 +981,7 @@ being resigned unto his holy will in all things; saying, Let it be as thou wilt,
 and in eternity, new and forever more: nor love of the world, nor fear of death,
 could hinder their resignation, abridge their confidence,
 or cloud their enjoyments in the Lord.
+____
 
 The said friends being arrived at Philadelphia from their journey to the Eastward,
 found things in this languishing situation,
@@ -967,14 +995,14 @@ deeply affected with the present heavy calamity,
 in one of his public addresses to the Almighty,
 with great zeal and earnestness solemnly prayed,
 that the Lord would be pleased to accept of his life as a sacrifice for his people,
-that a stop might be put to the contagion.`" When he first heard of this mortality,
+that a stop might be put to the contagion. When he first heard of this mortality,
 he said he felt "`a great weight and exercise to come upon him`"
 so that he had no ease in his spirit until he came in amongst them,
 and when he came, he not only visited the sick,
 but such was the part he took in their affliction,
-that he declared in his public preaching that "`when he was one hundred miles off,
+that he declared in his public preaching that when he was one hundred miles off,
 his love in the Lord was such to them,
-that had he had wings he would have flown to them.`" After the yearly
+that had he had wings he would have flown to them. After the yearly
 meeting was over he often expressed the state of his mind,
 and that he had not much to do but visit friends of Burlington,
 and having accomplished that journey,
@@ -1001,8 +1029,11 @@ made it an occurrence much taken notice of; and was the more extraordinary,
 that he does not appear to have been a man apt to be carried away by undue transports,
 but on the contrary was much favoured in his public services.
 
-At the ferry,`" says Thomas Story,
-"`I had the afflicting news of the death of my companion Roger Gill at Philadelphia,
+[.embedded-content-document.testimony]
+--
+
+At the ferry, says Thomas Story,
+I had the afflicting news of the death of my companion Roger Gill at Philadelphia,
 at which my soul was greatly bowed, and my heart tendered,
 and the ground whereon I sat was watered with my tears,
 in the conclusion whereof I was fully satisfied he had obtained
@@ -1015,11 +1046,18 @@ and all through that divine power by which he is now raised to glory,
 to sing praises to him who sitteth on the throne, and ruleth and reigneth,
 and is alone worthy, forever and ever, Amen.
 
+--
+
 James Dickenson, whose first and second visits have been mentioned already,
 did this year send the following epistle to friends in these provinces.
 
+[.embedded-content-document.epistle]
+--
+
+[.signed-section-context-open]
 Rogerskail, 27th of 1st month, 1699.
 
+[.salutation]
 Dear Friends,
 
 In the love of God, my soul dearly salutes you all in the seed of life,
@@ -1084,10 +1122,13 @@ and stir up one another to visit remote parts that want help, as Virginia, Carol
 New England, Barbados, Jamaica, Antigua, Nevis, and let all be done in the love of God,
 so will he bless you with spiritual blessings in his son Christ Jesus,
 in whom I dearly salute you all, letting you know I am well every way,
-and to God`'s eternal arm of power I commit "` you all,
+and to God`'s eternal arm of power I commit you all,
 and remain your friend and brother in the holy truth,
 
+[.signed-section-signature]
 James Dickenson
+
+--
 
 The second of the 8th month died Arthur Cooke of Philadelphia.
 He came over amongst some of the first settlers,
@@ -1121,6 +1162,10 @@ they pressed his coming over forthwith; with which he seeing it necessary to com
 summoned an assembly to meet at Philadelphia, to whom, on the 15th of September, 1701,
 he made the following speech, viz.
 
+[.embedded-content-document]
+--
+
+[.salutation]
 Friends,
 
 You cannot be more concerned than I am at the frequency of your service in assembly,
@@ -1172,15 +1217,21 @@ but (as I had by some letters before desired him) for those of all other
 governments under the crown of England on the continent of America,
 as also the nations of Indians within those respective colonies:
 which certainly merits our acknowledgments.
-"`
 
 I have done, when I have told you, that unanimity and dispatch are the life of business,
 and that I desire and expect from you, for your own sakes,
 since it may so much contribute to the disappointment of those
-that too long have fought the ruin of our young country.`"
+that too long have fought the ruin of our young country.
 
-=== The Assembly`'s Address.
+--
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
+The Assembly`'s Address.
+
+[.salutation]
 May it please the Proprietary and Governor,
 
 We have this day in our assembly read thy speech, delivered yesterday in council;
@@ -1196,9 +1247,13 @@ not doubting the performance of what thou hast been so lovingly pleased to promi
 we do in much humility, and as a token of our gratitude,
 return unto thee the unfeigned thanks of this house.
 
+[.signed-section-closing]
 Subscribed by order of the house,
 
+[.signed-section-signature]
 Joseph Crowdon, speaker.
+
+--
 
 The next month he took shipping for England,
 and safely at Portsmouth about the middle of December;
@@ -1207,4 +1262,5 @@ through his friends solicitations, had been postponed the last session of parlia
 was wholly dropped, and no farther progress made in that affair.
 It doth not appear that after this he returned any more to Pennsylvania.
 
+[.the-end]
 End of the Third Volume
