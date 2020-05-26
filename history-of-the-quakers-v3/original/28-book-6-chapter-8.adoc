@@ -377,4 +377,4 @@ This book, entitled the [.book-title]#Snake in the Grass,# did not pass unnotice
 The author`'s misrepresentations were laid open, his fabulous tales disproved,
 and his crafty imposture clearly manifested in suitable
 replies by whitehead George Whitehead,
-and by Joseph Wyeth, in a book under the title of A Switch for the Snake.
+and by Joseph Wyeth, in a book under the title of [.book-title]#A Switch for the Snake.#
