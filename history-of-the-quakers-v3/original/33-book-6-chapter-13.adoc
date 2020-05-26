@@ -1032,7 +1032,7 @@ but on the contrary was much favoured in his public services.
 [.embedded-content-document.testimony]
 --
 
-At the ferry, says Thomas Story,
+At the ferry, +++[+++says Thomas Story,+++]+++
 I had the afflicting news of the death of my companion Roger Gill at Philadelphia,
 at which my soul was greatly bowed, and my heart tendered,
 and the ground whereon I sat was watered with my tears,
