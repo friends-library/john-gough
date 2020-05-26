@@ -215,7 +215,7 @@ to impose upon them, and tempt them to evil, are not principally accountable,
 for the crimes they commit, and their consequences,
 is a query worthy of their most serious consideration.
 {footnote-paragraph-split}
-*At the treaty at Carlisle,
++++*+++ At the treaty at Carlisle,
 in 1753 the Indians say, "`The Rum ruins us.
 We beg you would prevent its coming in such quantities.
 We desire it may he forbidden, and none sold in the Indian country;
@@ -423,9 +423,9 @@ William Penn
 [.signed-section-context-close]
 2nd 1st mo 1689
 
-[.signed-section-context-close]
+[.postscript]
 My love to friends in Jersey, etc.
-Let this be read among friends,
+Let this be read among friends.
 
 --
 
