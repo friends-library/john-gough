@@ -1,14 +1,19 @@
 == Chapter VIII.
 
-The Case of George Keith brought before the Yearly Meeting.--The
-judgment and Advice of the Yearly Meeting thereupon.
-George Keith`'s Endeavours to make a Party in England frustrated.--Thomas
-Elwood writes an Epistle of Caution to Friends,
-against which George Keith complains.--The Yearly Meeting of London disowns him.--He
-sets up a separate Meeting at Turner`'s-hall.--Summons Friends to a Meeting there--Which
-they think Improper to comply with.--Their Reasons.--He publisheth his Account
-of the Meeting.--Which is answered by Thomas Elwood.--An anonymous Publication,
-entitled "`The Snake in the Grass.`"---Answered by George Whitehead and Joseph Wyeth.
+[.chapter-synopsis]
+* The Case of George Keith brought before the Yearly Meeting
+* The judgment and Advice of the Yearly Meeting thereupon
+* George Keith`'s Endeavours to make a Party in England frustrated
+* Thomas Elwood writes an Epistle of Caution to Friends, against which George Keith complains
+* The Yearly Meeting of London disowns him
+* He sets up a separate Meeting at Turner`'s-hall
+* Summons Friends to a Meeting there
+* Which they think Improper to comply with
+* Their Reasons
+* He publisheth his Account of the Meeting
+* Which is answered by Thomas Elwood
+* An anonymous Publication, entitled "`The Snake in the Grass.`"
+* Answered by George Whitehead and Joseph Wyeth.
 
 George Keith having arrived in England in the spring of 1694, attended the ensuing 1694.
 yearly meeting of London;
@@ -112,6 +117,9 @@ the yearly meeting at large,
 to take away all grounds of again representing it as the work of a party,
 drew up the following testimony:
 
+[.embedded-content-document.testimony]
+--
+
 That the said George Keith hath of late been, and yet is,
 actuated by an unchristian spirit,
 which hath moved and led him to stir up contention and strife in the church of Christ,
@@ -132,6 +140,8 @@ he gives proof of his unfeigned repentance,
 and does his endeavour to remove and take off the reproach,
 he hath brought upon truth and friends,
 which in the love of God we heartily desire for his soul`'s sake.
+
+--
 
 He now set up a separate meeting at a place called Turner`'s-hall.
 The novelty excited the curiosity of the people,
@@ -154,13 +164,17 @@ as proceeding from consciousness of inability to make a proper defence,
 they drew up the following reasons for absenting themselves,
 and sent them to be read there.
 
+[.embedded-content-document]
+--
+
 Whereas George Keith hath, after his wonted irregular and unruly manner,
 challenged diverse of us to defend ourselves against such
 charges as he has to exhibit against us at Turner`'s-hall:
 These are to certify to all whom it may concern,
 that the reasons why we decline any such meeting are as follow:
 
-First.
+[.numbered]
+_First._
 Because the said George Keith has given us such frequent
 proofs of his very passionate and abusive behaviour,
 at the many more select meetings we have had with him, in all manner of sweetness,
@@ -168,30 +182,33 @@ long-suffering and patience on our side, to satisfy and preserve him from these 
 That we cannot assure ourselves now of any better entertainment,
 or that the meeting can have any desirable success; for a thorough information.
 
-Secondly.
+[.numbered]
+_Secondly._
 We decline to meet because it is not an agreed meeting on both sides,
 which it ought to have been, and where that is not, or cannot be adjusted,
 the press is the next fair way and expedient,
 which he has begun with and now seems to decline;
 nor hath he sent us a copy of his charge of indictment against us,
 which also he ought to have done.
-"`
 
-Thirdly.
+[.numbered]
+_Thirdly._
 That he has two of bur books which lie hard at his door,
 in vindication of us and doctrines from his exceptions,
 and which he has not yet answered; so that he is not on equal terms with us;
 and therefore we think his challenge, appointment and summons unfair;
 and that all that are not partial will be of the same mind with us.
 
-Fourthly.
+[.numbered]
+_Fourthly._
 Such public and unlimited meetings, are too often attended with heats,
 levity and confusion, and answer not the end desired by sober and inquiring men.
 Besides, that it sets up a practice,
 that authority may judge to be an abuse of our liberty,
 and so draw that under reflection, as no friend to the civil peace.
 
-Fifthly.
+[.numbered]
+_Fifthly._
 We know not what religion or persuasion this wavering man is of,
 or what church or people he adheres to, or will receive him, with his vain speculations,
 that have led him to desert us; nor who are accountable to us for him,
@@ -206,7 +223,8 @@ if this should be imitated by all the several sorts
 of different persuasions in this city,
 what heats and confusions must necessarily ensue!
 
-Sixthly and lastly.
+[.numbered]
+_Sixthly and lastly._
 Wherefore be it known unto all, that for the sake of religion, the liberty granted us,
 and the civil peace, we decline to meet him;
 and not from any apprehensions we haye of his abilities,
@@ -221,6 +239,8 @@ the remission of his great sin of envy, and evilly entreating the Lord`'s people
 which we profess,
 and which he the said George Keith hath long and lately
 both professed and zealously vindicated as such.
+
+--
 
 George Keith soon afterwards published his narrative of
 the proceedings at this meeting of his own appointment,
@@ -297,15 +317,21 @@ in which he found himself entangled.
 
 As to this envenomed performance it was remarked,
 
+[.embedded-content-document]
+--
+
+[.numbered]
 1+++.+++ That the matters therein charged upon us,
 are generally the same that have been charged on us heretofore, by Faldo, Hicks,
 and other adversaries; and always refuted over and over, both formerly and of late.
 
+[.numbered]
 2+++.+++ That the things they charge on us as errors and heresy,
 are not pretended to be proved by any plain express positions or assertions of ours;
 but from our adversaries own perverse meanings, and wrested constructions of our words,
 always denied and rejected by us.
 
+[.numbered]
 3+++.+++ That the words and passages brought by our adversaries
 for proof of their charges against us,
 are not taken out of our doctrinal treatises, or declarations of faith and principles;
@@ -316,11 +342,14 @@ as to impugn and expose his adversaries, by showing the contradictions, absurdit
 and ill consequences of his adversaries opinions; from whence,
 positively to conclude the author`'s own judgment, is neither safe nor fair.
 
+[.numbered]
 4+++.+++ That however any of our former adversaries might
 have been misled in their judgments concerning us,
 George Keith, who hath now moved this controversy against us, knows full well,
 that we do not hold those things either generally as a people, or as particular persons,
 which he has charged on us as errors.
+
+--
 
 Besides this,
 as George Keith had done before in his quotations and references to their writings,
@@ -344,8 +373,8 @@ and another signed by several neighbours, persons of character and consideration
 who testified that the bible was daily read in this school (which
 was a very large boarding school kept by Richard Scoryer,
 a friend) in a regular course of succession from the beginning to the end.
-This book, entitled the Snake in the Grass, did not pass unnoticed.
+This book, entitled the [.book-title]#Snake in the Grass,# did not pass unnoticed.
 The author`'s misrepresentations were laid open, his fabulous tales disproved,
 and his crafty imposture clearly manifested in suitable
 replies by whitehead George Whitehead,
-and by Joseph Wyeth, in a book under the title of A Switch for the Snake.
+and by Joseph Wyeth, in a book under the title of [.book-title]#A Switch for the Snake.#
