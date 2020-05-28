@@ -340,8 +340,8 @@ but in the more valuable qualification of the truly religious and faithful man.
 The conjoined labours of these worthy men had a remarkable effect
 on the minds and manners of the children under their tuition,
 of which they published an account this year,
-under the title of A Testimony to the Lord`'s Power
-and blessed Appearance in and among the Children.
+under the title of [.book-title]#A Testimony to the Lord`'s Power
+and Blessed Appearance in and among the Children.#
 John Matern did not long continue,
 but finished his course in this life at Edmonton the 1st of the 7th mo, 1680,
 under the consolation of a good conscience,
@@ -350,7 +350,7 @@ His concern for the lasting good of the children
 under his care only left him with his parting breath;
 for about four hours before his departure he desired them to be called up into his bed-chamber,
 and there he prayed for them, and gave them his final exhortation,
-to be faithful to the little they knew of the fear and will of their maker,
+_to be faithful to the little they knew of the fear and will of their maker,_
 and that greater degrees would be added.
 After his death Christopher Taylor continued his
 school at Edmonton between two and three years,

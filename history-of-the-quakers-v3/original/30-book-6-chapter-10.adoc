@@ -76,8 +76,8 @@ which they could not make good,
 nor gain the advantage they expected and aimed at in this dispute.
 
 Being disappointed in their hopes in this verbal controversy, they then took up the pen,
-and published two tracts, entitled, 1st A Brief Discovery, Etc.
-2nd, Some of the Quakers many horrid Blasphemies;
+and published two tracts, entitled, 1st [.book-title]#A Brief Discovery, Etc.#
+2nd, [.book-title]#Some of the Quakers Many Horrid Blasphemies;#
 and now discovering their real intention,
 they presented these calumniating tracts to the parliament or members thereof,
 to prepare the way for their further attempts.
@@ -307,7 +307,7 @@ where they were informed by two persons who lived on the other side,
 that they might get over in safety; but he found a stop in his own mind,
 and standing still he received this intelligence,
 which he understood to be a divine warning,
-that if any attempted to go at that time they would perish;
+_that if any attempted to go at that time they would perish;_
 and in about an hour the sea overflowed the sands, which were several miles over,
 whence they concluded, if they had gone at that time they had lost their lives.
 
@@ -590,10 +590,10 @@ so that he might say with Israel, Psalm 129, I have been afflicted from my youth
 yet his patience through divine support was remarkable
 under all his afflictions to the last;
 under the feeling sense whereof he frequently acknowledged,
-that if he did not feel and witness an inward power from the Lord,
+_that if he did not feel and witness an inward power from the Lord,
 he could not subsist under his violent pain.
 And, that the furnace of affliction was of goad use,
-to purge away the dross and earthly part in us.
+to purge away the dross and earthly part in us._
 In all the severity of his pain he was never known to utter
 an unsavoury expression or impatiently to cry out.
 And when the extremity of his fits was over,
