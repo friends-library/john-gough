@@ -1,10 +1,15 @@
 == Chapter XVII.
 
-Bill against occasional Conformity.--friends at Frederickstadt under Sufferings
-by War.--Address upon the Conclusion of Peace.--The Magistrates of Aberdeen make
-a By-law to disfranchise Quakers.--Order of Privy Council thereupon.-- Act against
-the Growth of Schism.--Representation of the People called Quakers against it.
--- The Bill passed.--Rendered ineffectual by the Queen`'s Death.
+[.chapter-synopsis]
+* Bill against occasional Conformity
+* Friends at Frederickstadt under Sufferings by War
+* Address upon the Conclusion of Peace
+* The Magistrates of Aberdeen make a By-law to disfranchise Quakers
+* Order of Privy Council thereupon
+* Act against the Growth of Schism
+* Representation of the People called Quakers against it
+* The Bill passed
+* Rendered ineffectual by the Queen`'s Death
 
 The temper of the people and of the new parliament seemed to present a favourable
 opportunity again to introduce the bill against occasional conformity,
@@ -58,6 +63,10 @@ and received a narrative of their sufferings in two letters from Jacob Hagen of 
 and also another from friends of Frederickstadt, copies of which are here inserted,
 as follow:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Hamburgh, 24th of 12th month, 1712.
 
 Here follows a short relation of my journey to Frederickstadt.
@@ -83,13 +92,19 @@ and sat with us still, and it seemed with much patience; Philip De Neer had a fe
 and he stayed with us about an hour, to the admiration of many.
 So this is a short relation concerning Frederickstadt.
 
-"`The country people are mostly ruined and destitute, houses and land destroyed,
+The country people are mostly ruined and destitute, houses and land destroyed,
 horses and cattle taken away;
 the miserable state is hardly to be written as it is in reality.
 The war is likely to be continued longer than was expected
 now the Swedes have entered the city of Toningen,
 but the King of Denmark hath seized the whole dukedom besides.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Hamburgh, 7th of 1st month, 1712.
 
 The war in Holstein is yet continued,
@@ -132,14 +147,24 @@ and shall desire my brother to inform me, wherein I can be most serviceable to t
 and advise you what passeth,
 so conclude with my dear love and salutation to you and friends in general.
 
+[.signed-section-closing]
 I remain,
 
+[.signed-section-signature]
 Jacob Hagen.
 
-A Letter from Friends at Frederickstadt.
+--
 
+[.embedded-content-document.letter]
+--
+
+[.blurb]
+=== A Letter from Friends at Frederickstadt.
+
+[.letter-heading]
 To the Friends, Fathers and Elders at London.
 
+[.salutation]
 Dear Friends,
 
 We received your letter dated 26th of 12th month, English style,
@@ -176,17 +201,25 @@ according to our measures; remember us in your prayers to God,
 and it will be very acceptable to receive another letter from you.
 We remain your tender friends and brethren,
 
+[.signed-section-signature]
 Philip Deneer.
 
+[.signed-section-signature]
 Jeronimus Hagen.
 
+[.signed-section-signature]
 Razant Cloisum.
 
+[.signed-section-signature]
 Jan Van Kemp.
 
+[.signed-section-signature]
 Michael Wittenberg, etc.
 
+[.signed-section-context-close]
 Frederickstadt, 11th of 4th month, 1713, new style.
+
+--
 
 The war which had been carried on by England,
 in conjunction with the Emperor and the Dutch against France,
@@ -204,11 +237,16 @@ whose principles led them on all occasions to rejoice
 and approve the establishment of peace,
 on the present occasion presented the following address to the Queen:
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To Anne, Queen of Great Britain, etc.
 
-The humble address of her Protestant Dissenting subjects, called Quakers,
-met at our annual meeting in London, the 3rd day of the 4th month, called June, 1713.
+[.blurb]
+=== The humble address of her Protestant Dissenting subjects, called Quakers, met at our annual meeting in London, the 3rd day of the 4th month, called June, 1713.
 
+[.salutation]
 May it please the Queen,
 
 We having been sorrowfully affected at the calamity which war brought on Europe,
@@ -231,6 +269,8 @@ That it may please Almighty God in his mercy and goodness
 to assist with his wisdom the Queen in all her councils,
 and give her long to enjoy the quiet fruit of lasting peace in this life,
 and in that which is to come joy and peace everlasting, is our hearty and fervent prayer.
+
+--
 
 Thomas Ellwood of Hungerhill, near Mondesham in Buckinghamshire,
 in the course of this year closed a life,
@@ -629,7 +669,7 @@ in the capacity of clerk of the monthly, quarterly or yearly meeting;
 or with respect to his intellectual faculties, as a man, by precision of judgment,
 depth of penetration, and clearness of comprehension,
 qualified to speak pertinently to subjects under deliberation,
-and with discern ment to see the point at which they should be rightly issued;
+and with discernment to see the point at which they should be rightly issued;
 yet with becoming modesty he did not tenaciously insist on his sentiments being adopted,
 but submitted them to consideration,
 and left them to make their way by the conviction of their propriety.
@@ -668,7 +708,7 @@ or opponents within the society, whose endeavours were exerted to lay it waste.
 William Rogers and other separatists of that time, and afterwards George Keith,
 gave him much employment, to expose their deceit,
 and detect the fallacy of their pretensions,
-for the preservation of others from being entangled in the like snares ;
+for the preservation of others from being entangled in the like snares;
 and his labours were greatly conducive to the good end designed by them.
 But some of his writings, being of a more universal nature, are preserved,
 as The Foundation of Tithes shaken; The sacred History of the Old and New Testament,
@@ -747,45 +787,58 @@ in the care and direction of the education of their own children.
 The bill met with great opposition in both houses as a species of persecution,
 and the people called Quakers presented to the legislature the following remonstrance.
 
-1st, The church of England hath frequently declared, by several of her members,
+[.embedded-content-document.address]
+--
+
+[.numbered]
+_1st,_ The church of England hath frequently declared, by several of her members,
 in a civil as well as clerical capacity,
 by those who framed and espoused one or more of the bills against occasional conformity,
 that she is in principle against persecution, and for preserving the toleration.
 
-2ndly.
+[.numbered]
+_2ndly._
 The promoters of this bill may please to remember,
 that the Queen hath declared from the throne,
 that she will maintain the toleration inviolable.
 
-3rdly.
+[.numbered]
+_3rdly._
 The protestant subjects of this kingdom, who are parents of children,
 are supposed to have preserved to them, by the fundamental laws of this kingdom,
 the natural right of the care and direction of the education of their own children,
 which natural right this bill seems calculated to take away and destroy.
 
-4thly.
+[.numbered]
+_4thly._
 If the governments which are now Heathen or Mahometan, should take into the same policy,
 the society which the Queen hath incorporated for
 the propagation of the gospel in foreign parts,
 can have very little, if any good effect or success.
 
-5thly.
+[.numbered]
+_5thly._
 May it not seem an objection and contradiction to the many princely and christian
 solicitations which the Queen by her ministers hath made at foreign courts,
 on the behalf of protestants,
 against the violent intrusions of papists into their rights and just privileges.
 
-6thly.
+[.numbered]
+_6thly._
 It may be a means to oblige the carrying out of large
 sums of money for foreign education.
 
-7thly.
+[.numbered]
+_7thly._
 It may probably do much hurt to charitable foundations.
 
-8thly.
+[.numbered]
+_8thly._
 It seems not to be agreeable to the great law of Christ, Matt. 7:12.
 "`Therefore all things whatsoever ye would that men should do to you,
 do ye even so unto them; for this is the law and the prophets.
+
+--
 
 But opposition or remonstrances avail little against determinations supported by power;
 the ministry had managed so as to procure a majority in both houses of parliament;

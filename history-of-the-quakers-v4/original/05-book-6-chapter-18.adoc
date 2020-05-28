@@ -1,16 +1,21 @@
 == Chapter XVIII. America.
 
-George Keith`'s Party fall into Dissensions and dwindle away.--George Keith is sent in
-quality of a Missionary to America.--His Endeavours more directed to depreciate the
-Quakers than to recommend Episcopacy.--His Interview with John Richardson.
---Thomas Story meets with him at Shrewsbury.--He- challenges a Dispute with Samuel Bownas;
---Which being rejected--George Keith and his confederate Bradford afterwards
-combine together to try if any Advantage can be taken from Samuel`'s Doctrine,
--- Bradford lodges an Information against Samuel.--Who is imprisoned,--Brought to Trial,
-but the Indictment rejected by the Grand Jury.--Confined
-more closely.--At length cleared by Proclamation.
---George Keith returns to England and obtains a Living in Sussex.--Becomes
-uneasy to his Parishioners about their Tithes.
+[.chapter-synopsis]
+* George Keith`'s Party fall into Dissensions and dwindle away
+* George Keith is sent in quality of a Missionary to America
+* His Endeavours more directed to depreciate the Quakers than to recommend Episcopacy
+* His Interview with John Richardson
+* Thomas Story meets with him at Shrewsbury
+* He challenges a Dispute with Samuel Bownas
+* Which being rejected
+* George Keith and his confederate Bradford afterwards combine together to try if any Advantage can be taken from Samuel`'s Doctrine
+* Bradford lodges an Information against Samuel
+* Who is imprisoned
+* Brought to Trial, but the Indictment rejected by the Grand Jury
+* Confined more closely
+* At length cleared by Proclamation
+* George Keith returns to England and obtains a Living in Sussex
+* Becomes uneasy to his Parishioners about their Tithes
 
 The party who had been drawn aside by George Keith,
 were by this time greatly reduced in numbers, during his presence amongst them,
@@ -177,15 +182,25 @@ as least liable to misunderstanding and misrepresentations.`"
 Soon after this Samuel Bownas from Westmoreland landed in Maryland,
 and almost immediately after received the following note:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Sir,
+
 I intend to give notice after sermon, that you and myself are to dispute tomorrow,
 and would have you give notice thereof accordingly.
 
+[.signed-section-closing]
 Sir, I am your humble servant,
 
+[.signed-section-signature]
 George Keith.
 
+[.signed-section-context-close]
 Dated the 1st Sunday in August, 1702.
+
+--
 
 Samuel being previously engaged to go forward to an appointed meeting,
 in company with a considerable number of friends,
@@ -194,6 +209,10 @@ but being told Keith would call the country together and make much noise about i
 as if they were afraid of meeting him, and urging Samuel to write him an answer,
 he accordingly wrote to the following effect;
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 George Keith,
 
 I have received thine,
@@ -204,7 +223,10 @@ after due admonition given thee by our yearly meeting
 for thy quarrelsome and irregular practices,
 thou art not worthy of my notice, being no more to me than an Heathenman and publican.
 
+[.signed-section-signature]
 Samuel Bownas.
+
+--
 
 George Keith and Samuel met sundry times in their travels in those parts,
 but had little discourse or debate with each other: But when he came into Long-Island,
@@ -286,11 +308,16 @@ offered himself for bail, and took him to his house that night,
 where he was very kindly entertained.
 The next day he was sent to jail with the following mittimus:
 
-Queen`'s County S.S.
+[.embedded-content-document.legal]
+--
 
-Joseph Smith, Esq; Edward Burrows, Esq; John Smith, Esq; and Jonathan Whitehead, Esq;
-justices of the peace, for the Queen`'s County.
+[.blurb]
+=== Queen`'s County S.S.
 
+[.blurb]
+=== Joseph Smith, Esq; Edward Burrows, Esq; John Smith, Esq; and Jonathan Whitehead, Esq; justices of the peace, for the Queen`'s County.
+
+[.letter-heading]
 To the high sheriff of the Queen`'s County, greeting.
 
 We send you herewithal the body of Samuel Bownas, a Quaker, brought before us this day,
@@ -308,7 +335,10 @@ in the second year of the reign of our sovereign lady Anne, etc.
 Annoq.
 Dom. 1702.
 
+[.signed-section-signature]
 Joseph Smith, Edward Burrows, John Smith, Jonathan Whitehead.
+
+--
 
 This proceeding may appear strange at this time, as being supported by no existing law,
 and a violation of the act of toleration; but it is to be observed,
@@ -356,24 +386,34 @@ at which disappointment the judge was greatly incensed,
 and treated the grand jury with indecent asperity,
 addressing them in this passionate language:
 
-Gentlemen, surely you have forgot your oaths,
-and for so doing I could give you some hard names, but at present shall forbear.
-Is this your verdict against the Quaker?
+[.small-break]
+'''
 
-Foreman.
+"`Gentlemen, surely you have forgot your oaths,
+and for so doing I could give you some hard names, but at present shall forbear.
+Is this your verdict against the Quaker?`"
+
+[.discourse-part]
+_Foreman._
 It is, Sir.
 
-Judge.
+[.discourse-part]
+_Judge._
 I demand your reasons.
 
-James Clement, a juryman.
+[.discourse-part]
+_James Clement, a juryman._
 We are sworn to keep the Queen`'s secrets, our fellows and our own,
 and therefore we declare no reasons.
 
-Judge.
+[.discourse-part]
+_Judge._
 Now Mr. Wiseman speaks, but I can tell you, you are not so sworn;
 and I could find in my heart to lay you by the heels,
 and a fine on the rest of your brethren.
+
+[.small-break]
+'''
 
 The judge finding his threats ineffectual with men
 who knew they stood on constitutional ground,
