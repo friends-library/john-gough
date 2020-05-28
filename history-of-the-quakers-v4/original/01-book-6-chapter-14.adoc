@@ -1,8 +1,14 @@
 == Chapter XIV.
 
-Queen Anne ascends the Throne.--Addresses to her.--She declares her Resolution to maintain
-the Toleration.--Second Address.--Account of Margaret Fox.--G. Keith sent a Missionary
-to America.--Account of Ambrose Rigge.--His Epistle of Advice.
+[.chapter-synopsis]
+* Queen Anne ascends the Throne
+* Addresses to her
+* She declares her Resolution to maintain the Toleration
+* Second Address
+* Account of Margaret Fox
+* G. Keith sent a Missionary to America
+* Account of Ambrose Rigge
+* His Epistle of Advice.
 
 Anne, the second daughter of King James, who was married to Prince George of Denmark,
 succeeded to the throne by virtue of the act of settlement.
@@ -15,8 +21,13 @@ and deputed George Whitehead and some other friends to present it,
 who being introduced by the Duke of Ormond and the Earl of Marlborough,
 read her the following:
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To Queen Anne, over England, etc.
 
+[.salutation]
 May it please the Queen,
 
 We thy peaceable subjects cannot but be sorrowfully affected with a deep sense
@@ -48,13 +59,19 @@ to the glory of God, and the benefit of these nations.
 May the King of Kings make thy reign long and glorious,
 to which temporal blessing we shall pray for thy eternal happiness.
 
+[.signed-section-context-close]
 Signed on behalf and by the appointment of the aforesaid people
-at a meeting in London the 10th of 2nd month 1702.`"
+at a meeting in London the 10th of 2nd month 1702.
+
+--
 
 This address was very favourably received by the Queen, who, upon its being read to her,
 answered:
 
+[quote]
+____
 I thank you for your address, and I assure you of my protection.
+____
 
 The Queen having afterwards publicly declared her resolution
 to maintain the act of toleration in favour of dissenters,
@@ -63,11 +80,16 @@ to wait upon her with an address of thanks for her said declaration,
 and the following address was drawn up by said meeting,
 and presented to her by a deputation of suitable friends:
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To Queen Anne, over England, etc.
 
-The humble and thankful acknowledgment of the people commonly called Quakers,
-from their yearly meeting in London, the 30th day of the third month called May, 1702.
+[.blurb]
+=== The humble and thankful acknowledgment of the people commonly called Quakers, from their yearly meeting in London, the 30th day of the third month called May, 1702.
 
+[.salutation]
 May it please the Queen,
 
 We thy peaceable and dutiful subjects, met from most parts of thy dominions,
@@ -86,7 +108,10 @@ so to direct all thy counsels and undertakings, that righteousness which exalts 
 and mercy and justice that establish a throne, may be the character of thy reign,
 and the blessings of these kingdoms under it.
 
+[.signed-section-context-close]
 Signed by appointment and on behalf of the said meeting.
+
+--
 
 Of those who presented this address, William Penn was the deliverer,
 and the Queen was pleased to speak to him in a very kind manner,
@@ -157,6 +182,9 @@ of the Quakers and others to the church (so called);
 his success will appear when we come in course to
 treat of the state of this society in America,
 for there we shall meet with him again.
+
+[.small-break]
+'''
 
 In the year 1704, Ambrose Rigge of Ryegate in Surrey, departed this life.
 He was born at Banton in Westmoreland,
@@ -242,6 +270,9 @@ had deviated from that scrupulous regard to moral justice,
 which in the beginning had remarkably distinguished the members of this society;
 the deep and affecting concern of his mind drew from
 him the following epistle of advice to his friends:
+
+[.embedded-content-document.epistle]
+--
 
 Many days and months, yea, some years, hath my life been oppressed,
 and my spirit grieved, to see and hear of the uneven walking of many,
@@ -432,6 +463,10 @@ and in them that are lost.
 
 Written by one who longs to see righteousness exalted, and all deceit confounded.
 
+[.signed-section-context-close]
 Gatten-place in Surrey, the 16th of the 11th month, 1678.
 
-AMBROSE RIGGE
+[.signed-section-signature]
+Ambrose Rigge.
+
+--
