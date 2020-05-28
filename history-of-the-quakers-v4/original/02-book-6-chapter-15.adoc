@@ -963,11 +963,41 @@ nature similar to their former persecuting acts.
 [.signed-section-context-open]
 At the Court of Kensington, the 11th day of October, 1705,
 
-[.old-style]
-=== Present
+[.no-indent.emphasized]
+Present
 
-[.blurb]
-=== His Royal Highness Prince George of Denmark, Lord Archbishop of Canterbury, Lord Keeper, Lord Treasurer, Lord President, Duke of Somerset, Duke of Ormond, Earl of Ranelagh, Mr. Boyle, Mr. Secretary Hedges, Mr. Secretary Harley, Lord Chief Justice Holt, Lord Chief Justice Trevor, Mr. Vernon, Mr. Earle.
+His Royal Highness Prince George of Denmark
+
+Lord Archbishop of Canterbury
+
+Lord Keeper
+
+Lord Treasurer
+
+Lord President
+
+Duke of Somerset
+
+Duke of Ormond
+
+Earl of Ranelagh
+
+Mr. Boyle
+
+Mr. Secretary Hedges
+
+Mr. Secretary Harley
+
+Lord Chief Justice Holt
+
+Lord Chief Justice Trevor
+
+Mr. Vernon
+
+Mr. Earle.
+
+[.small-break]
+'''
 
 A representation from the lords commissioners of trade and plantations,
 being this day read at the board,
