@@ -329,7 +329,7 @@ and this accusation being backed by the oath of one William Fuller,
 who was afterward branded by the parliament with infamy as an impostor,^
 footnote:[In the year 1702 this Fuller was prosecuted
 in the king`'s bench and convicted as an impostor:
-And for publishing certain libels, one entitled, [.book-title]#Original Letters of the Late King James, Etc.#
+And for publishing certain libels, one entitled, [.book-title]#Original Letters of the Late King James, etc.#
 Another, Twenty-six depositions of persons of quality and worth,
 was sentenced to stand three times in the pillory, to be sent to the house of correction,
 and to pay a fine of one thousand marks.
@@ -414,8 +414,8 @@ How to Discern the Difference Between the Religion Professed by the People Calle
 and the Perversions, Misrepresentations, and Calumnies of their Adversaries,
 Both upon Their Principles and Practices;
 Wherein Several Doctrines of that People Are Set
-in a Clear Light:# a book so generally accepted,
-that it has been re-printed even to the fifteenth edition.
+in a Clear Light#--a book so generally accepted,
+that it has been reprinted even to the fifteenth edition.
 
 Having thus improved the time of his retirement,
 it pleased divine providence in the year 1693,
@@ -629,7 +629,7 @@ Concerning This Present Dispensation, and Day of God`'s Merciful Visitation Towa
 1672.
 
 [.numbered]
-5+++.+++ [.book-title]#A Catechism and Confession of Faith, Etc.# l673.
+5+++.+++ [.book-title]#A Catechism and Confession of Faith, etc.# 1673.
 
 [.numbered]
 6+++.+++ [.book-title]#The Anarchy of the Ranters, and Other Libertines; The Hierarchy of the Romanists,
@@ -640,7 +640,7 @@ and Other Pretended Churches, Equally Refused and Refuted,# 1674
 
 [.numbered]
 8+++.+++ [.book-title]#An Apology for the True Christian Divinity,
-As It Is Held Forth and Preached by the People Called In Scorn Quakers.#
+As It Is Held Forth and Preached by the People Called in Scorn Quakers.#
 Dedicated to King Charles II, 1675, the 28th year of his age.
 
 [.numbered]
@@ -658,7 +658,7 @@ from the objections of the students of divinity 1690
 
 [.numbered]
 12+++.+++ [.book-title]#An Epistle of Love and Friendly Advice,#
-to the ambassadors of the aeveral princes of Europe met
+to the ambassadors of the several princes of Europe met
 at Nimeguen to consult of the peace of Christendom,
 showing the true cause of War, and proposing the best means of peace.
 To each of whom, with the epistle, were delivered one of his Apologies,
