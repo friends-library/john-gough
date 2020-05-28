@@ -1,10 +1,14 @@
-== Chapter XL
+== Chapter XI
 
-Further Account of George Keith.--Bishop Burnet`'s Account
-of him.--Remarks thereupon.-- King James dies,
-and his Son acknowledged King of England by the French King.--Address of the
-People called Quakers to King William.--A forged Address published.--Detected
-by the Publication of the real one--King William`'s Death.
+[.chapter-synopsis]
+* Further Account of George Keith
+* Bishop Burnet`'s Account of him
+* Remarks thereupon.
+* King James dies, and his Son acknowledged King of England by the French King
+* Address of the People called Quakers to King William
+* A forged Address published
+* Detected by the Publication of the real one
+* King William`'s Death
 
 George Keith,
 who for some time past had been endeavouring to ingratiate
@@ -27,9 +31,11 @@ concluding with these words of the apostle,
 That the episcopalians, even those called dignitaries of the church,
 entertained great hopes at this time of the service that this new
 convert might be of in bringing many others to their community,
-appears from the following extract from bishop Burnet`'s
-history of his own times, vol. 2. p. 144, 1700.
+appears from the following extract from Bishop Burnet`'s
+[.book-title]#History of My Own Time, Vol. 2.# p. 144, 1700.
 
+[quote]
+____
 The Quakers have had a great breach made among them by one George Keith a scotch-man,
 with whom I had my education at Aberdeen, he had been thirty-six years among them;
 he was esteemed the most learned man that ever was in that sect;
@@ -61,7 +67,8 @@ he continued these meetings, being still in outward appearance a Quaker for some
 till having prevailed far as he saw any probability of success,
 he laid aside their exterior, and was reconciled to the church,
 and is now in holy orders among us,
-and likely to do good service in undeceiving and reclaiming some of those misled enthusiasts.`"
+and likely to do good service in undeceiving and reclaiming some of those misled enthusiasts.
+____
 
 I think this not the only instance,
 wherein this prelate hath given occasion to the observation,
@@ -83,6 +90,8 @@ in an appendix to his [.book-title]#Serious Considerations,
 etc.# remarks thereupon anticipate the necessity of my making many others,
 being as follow:
 
+[quote]
+____
 The only foundation of this story, so far as concerns the Quakers,
 was George Keith`'s bare relation of it; for it is introduced with these words,
 viz. In those parts, he said, he first discovered, etc.
@@ -128,7 +137,7 @@ bishop of Litchfield and Coventry erroneously asserts, p. 98.)
 "`excommunicated by the Quakers,
 for maintaining the necessity of believing in an outward Christ in order
 to salvation.`" Nor does there appear in the whole censure against,
-or proceedlngs relating to him, the least footstep of any charge of that nature.
+or proceedings relating to him, the least footstep of any charge of that nature.
 He was disowned for his unchristian and uncharitable actions,
 and for the reproach he had brought upon truth and friends,
 by his slanders and lying accusations, and particularly,
@@ -271,12 +280,13 @@ and some other facts in his history, wherein the characters of all ranks of peop
 living and dead, are treated with an uncommon freedom.
 I hope, therefore, I may be excused in this one instance,
 at a time when George Keith`'s performances against the Quakers
-are so much magnified by the bishop of L----'`s defender,
+are so much magnified by the bishop of L+++_______+++`'s defender,
 as well as Dr. Burnet, in letting the world know, that there is reason to believe,
 that this conduct of George Keith, at last became his burden,
 and that he himself did not approve of it: the consideration of it, I confess,
 gives me some secret pleasure, in hopes, that he that gave him this sight,
 might give him also the grace of repentance.
+____
 
 To which I may add,
 that it appears to me an instance of great weakness or great prejudice
@@ -365,13 +375,19 @@ who had heretofore chiefly complaints of grievances to lay before their rulers,
 from most of which they were effectually delivered by the present sovereign,
 thought themselves called upon in point of duty and gratitude to wait
 upon him soon after his return from Holland with the following address,
-which was presented by George Whitehead, '`William Mead and Francis Camfield, viz.
+which was presented by George Whitehead, William Mead and Francis Camfield, viz.
 
-To King WILLIAM III.
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
+To King William III.
 over England, etc.
 
-An Address from the People commonly called Quakers, humbly presented.
+[.blurb]
+=== An Address from the People commonly called Quakers, humbly presented.
 
+[.salutation]
 May it please the King,
 
 We thy dutiful subjects sincerely express our joy for thy safe return to thy people,
@@ -401,8 +417,11 @@ establish thy throne in mercy and truth,
 give to thee a long and prosperous reign over us, and hereafter a glorious immortality,
 is, and shall be the fervent prayer of us, thy true and faithful subjects.
 
+[.signed-section-context-close]
 Signed in behalf and by appointment of the aforesaid People, at a meeting in London,
-the 8th month, 1701.`"
+the 8th month, 1701.
+
+--
 
 This address was favourably received by the king, who, in answer, replied,
 "`I have protected you, and shall protect you.`"

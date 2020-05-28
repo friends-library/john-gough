@@ -1,15 +1,18 @@
 == Chapter VII
 
-Account of Thomas Story`'s Convincement.--His Birth and Education.
---Brought up to the Study of the Law.--He conceives Offence at some Ceremonies
-in the public Worship.--And declines attending it.
---He goes to a Meeting of the People called Quakers.--In
-which feeling a divine Power attending his Mind,
-he soon after enters into their Society.--Receives a Gift in the Ministry,
-and travels much in the Exercise thereof.
---Life and Character of Stephen Crisp.
---Applications for an Affirmation Act.
---Death of Queen Mary.--Declaration of the People called Quakers, etc.
+[.chapter-synopsis]
+* Account of Thomas Story`'s Convincement
+* His Birth and Education
+* Brought up to the Study of the Law
+* He conceives Offence at some Ceremonies in the public Worship
+* And declines attending it
+* He goes to a Meeting of the People called Quakers
+* In which feeling a divine Power attending his Mind, he soon after enters into their Society
+* Receives a Gift in the Ministry, and travels much in the Exercise thereof
+* Life and Character of Stephen Crisp
+* Applications for an Affirmation Act
+* Death of Queen Mary
+* Declaration of the People called Quakers, etc.
 
 In this year Thomas Story joined himself in society with the people called Quakers,
 whose convincement was not owing to the ministry of any instrument;
@@ -534,8 +537,11 @@ and having drawn up a state of their case in respect to oaths,
 signed in their behalf by Theodore Ecclestone,
 they presented it to the members of parliaments being as followeth:
 
-A brief representation of the Quakers case of not swearing; and why they might have been,
-and yet may be relieved therein, by parliament.
+[.embedded-content-document.address]
+--
+
+[.blurb]
+=== A brief representation of the Quakers case of not swearing; and why they might have been, and yet may be relieved therein, by parliament.
 
 `'Tis a certain truth, that among Christians, and Protestants especially,
 there are divers particular things about religion,
@@ -620,14 +626,18 @@ Seeing their relief is to them so needful, so harmless to all,
 and so useful to the government, and their neighbours;
 let us a little consider the common objections, which may be summed up in short thus:
 
-First objection, How shall we then be at a certainty?
+[.numbered]
+_First objection,_ How shall we then be at a certainty?
 
-Secondly, Why should the laws be altered for them?
+[.numbered]
+_Secondly,_ Why should the laws be altered for them?
 For,
 
-Thirdly, It would be to rase old foundations:
+[.numbered]
+_Thirdly,_ It would be to rase old foundations:
 
-Fourthly, And let them into the government,
+[.numbered]
+_Fourthly,_ And let them into the government,
 
 Which it is hoped will not be difficult to answer one by one,
 and that to reasonable satisfaction.
@@ -751,12 +761,17 @@ for which ease they are sincerely thankful;
 so be pleased to add to that kindness their relief in the matter of oaths,
 between them and other subjects, as well as between the government and them.
 
+[.signed-section-closing]
 Signed in behalf of the said people,
 
+[.signed-section-signature]
 Theodore Ecclestone.
 
+[.signed-section-context-close]
 London, Dec.
 22, 1694.
+
+--
 
 After the perusal of this case,
 several of the members of parliament discovered a
@@ -793,8 +808,11 @@ whose conscientious principle against taking up arms prevented their subscribing
 thought it expedient to manifest their loyalty and fidelity to the King,
 by drawing up and publishing the following declaration:
 
-The ancient testimony and principle of the people called Quakers,
-renewed with respect to the King and government, and touching the present association.`"
+[.embedded-content-document.address]
+--
+
+[.blurb]
+=== The ancient testimony and principle of the people called Quakers, renewed with respect to the King and government, and touching the present association.
 
 We the said people do solemnly and sincerely declare,
 that it hath been our judgment and principle from the first
@@ -831,5 +849,8 @@ and the sad effects it might have had, is an eminent mercy from Almighty God,
 for which we and the whole nation have great cause to be humbly thankful to him,
 and to pray for the continuance of his mercies to them and us.
 
+[.signed-section-context-close]
 From a meeting of the said people in London the 23rd of the first month called March,
 1695-6.
+
+--

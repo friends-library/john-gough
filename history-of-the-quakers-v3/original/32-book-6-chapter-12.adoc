@@ -1,14 +1,18 @@
 == Chapter XII. Ireland.
 
-Care of Friends to preserve their Members from too anxious a pursuit of
-Riches.--Sentiments of Friends in Ireland in respect to the Affirmation.
---Their Zeal and Care in supporting Discipline.
---William Penn,
-Thomas Story and John Everot visit Ireland.--Meetings largely attended.--John Plympton
-publishes an abusive Paper.--Complaint against
-him.--Meeting at Cashell ordered to disperse.--William
-Penn`'s Conference with the Bishop thereupon.--The Bishop writes to the Lords Justices.
---A Province Visit performed.-- Epistle from the Province-meeting at Castledermot.
+[.chapter-synopsis]
+* Care of Friends to preserve their Members from too anxious a pursuit of Riches
+* Sentiments of Friends in Ireland in respect to the Affirmation
+* Their Zeal and Care in supporting Discipline
+* William Penn, Thomas Story and John Everot visit Ireland
+* Meetings largely attended
+* John Plympton publishes an abusive Paper
+* Complaint against him
+* Meeting at Cashell ordered to disperse
+* William Penn`'s Conference with the Bishop thereupon
+* The Bishop writes to the Lords Justices
+* A Province Visit performed
+* Epistle from the Province-meeting at Castledermot
 
 Peace being restored to this nation, plenty and prosperity quickly followed.
 This fruitful island, thinned of its inhabitants by the late war,
@@ -124,6 +128,9 @@ or break in other men`'s debts.`"
 And friends of Bristol, in an epistle from their men`'s meeting,
 express their approbation in the following terms:
 
+[.embedded-content-document.epistle]
+--
+
 Your love to the holy cross of our Lord Jesus,
 and your zeal for promoting the way thereof, by a strict and close discipline,
 is that which is much wanted in many places;
@@ -132,6 +139,8 @@ and cry out against it as an imposition on conscience,
 God Almighty hath blocked up their way, and spoiled the spoiler,
 and manifested their folly to all, the necessity of a holy care in the church,
 more and more daily appearing.
+
+--
 
 But the amplest testimony of approbation, is that of William Penn, who,
 in company with John Everot and Thomas Story, set out from Bristol,
@@ -161,7 +170,7 @@ William Penn had experienced before in a dispute at Melksham, in Wiltshire.
 This person had published a very invidious and abusive paper against friends in general,
 and William Penn in particular, in intemperance of language outraging common civility.
 
-Upon this several persons applied to the chiefc elders and the meeting of that people,
+Upon this several persons applied to the chief elders and the meeting of that people,
 to inform themselves whether this work was with their consent or approbation; and they,
 with becoming candour and concern, disclaimed having any hand in it,
 but that it was altogether Plympton`'s own work, and disowned him there in.
@@ -301,8 +310,13 @@ they wrote the following epistle to the yearly meeting in London,
 conveying an account of their service,
 and the state of their religious society in that nation.
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 To the Yearly Meeting at London.
 
+[.salutation]
 Dear Friends and Brethren,
 
 It is not the least of our exercises, that we are thus far outwardly separated from you,
@@ -381,15 +395,22 @@ nor distance wear out of our remembrances,
 and in which we desire to be remembered of you to the Lord of our household,
 we dearly and tenderly salute you, and remain
 
+[.signed-section-closing]
 Your loving and faithful brethren,
 
+[.signed-section-signature]
 William Penn
 
+[.signed-section-signature]
 John Everott
 
+[.signed-section-signature]
 Thomas Story
 
+[.signed-section-context-close]
 Lambstowne, 2nd of the 4th Month, 1698.
+
+--
 
 This epistle confirms the truth of the preceding
 remarks concerning the care of friends in Ireland,
@@ -443,12 +464,17 @@ but the preface, written by Thomas Trafford, and the postscript, by William Edmu
 the former explaining the motives and authority of the friends in their concern,
 and the latter briefly recapitulating the subject,
 I think not unworthy of introducing in this place,
-as a specimen of the sense and judgment of Our friends of this age and place.
+as a specimen of the sense and judgment of our friends of this age and place.
 "`Love not the world, neither the things that are in the world:
 If any man love the world, the love of the Father is not in him.`" 1 John 2:15.
 
-=== PREFACE.
+[.embedded-content-document.epistle]
+--
 
+[.old-style]
+=== Preface.
+
+[.salutation]
 Dear Friends,
 
 The following epistle is recommended to be read in the fear of the Lord, in which,
@@ -492,9 +518,11 @@ of this world within the bounds of moderation,
 which is the earnest desire of one, who desires the good and preservation of all,
 in that, which will tend to the glory of God, and bring everlasting comfort in the end.
 
-THOMAS TRAFFORD.
+[.signed-section-signature]
+Thomas Trafford.
 
-POSTSCRIPT
+[.old-style]
+=== Postscript.
 
 At the first, when the Lord called and gathered us to be a people,
 and opened the eyes of our understandings, then we saw the exceeding sinfulness of sin,
@@ -546,7 +574,7 @@ raised and sent forth into his work and service at the beginning;
 and far short of the example our Lord and master Jesus Christ left us,
 when he was tempted in the wilderness with the offer of all the kingdoms of the world,
 and the glory of them, and despised them: And Moses,
-that refused to be called the son of Pharoah`'s daughter,
+that refused to be called the son of Pharaoh`'s daughter,
 and rather chose affliction with the Lord`'s people,
 having a regard to the recompense of reward.
 And the holy apostle writes to the church of Christ, both fathers,
@@ -568,7 +596,10 @@ which many have had and refused for truth`'s sake,
 and the Lord hath accepted as an offering, and rewarded to their great comfort,
 and to the praise of his great name.
 
-WILLIAM EDMUNDSON.
+[.signed-section-signature]
+William Edmundson.
+
+--
 
 This year died James Greenwood, and Ann his wife, of Grange, in the county of Antrim,
 a faithful couple,
