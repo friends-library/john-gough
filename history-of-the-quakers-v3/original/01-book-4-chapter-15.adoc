@@ -10,7 +10,7 @@
 * Which is confirmed by a general Meeting at Drawell
 * The Subject of this Separation brought before the yearly Meeting
 * William Penn writes upon this Subject
-* Robert Barclay publishes his Anarchy of the Ranters
+* Robert Barclay publishes his "`Anarchy of the Ranters`"
 * Which draws upon him the Calumny of the Party
 * William Rogers an advocate of their Cause
 * Publishes a Book under the Title of "`The Christian Quaker`"
@@ -326,12 +326,12 @@ obstinacy and bitterness of their spirits seemed the more
 confirmed by all the endeavours used to allay them.
 
 This difference about church discipline drew from William Penn a small treatise,
-entitled A brief Examination of Liberty spiritual,
+entitled [.book-title]#A Brief Examination of Liberty Spiritual,#
 designed to inform the judgments of the dissatisfied.
 Robert Barclay also took up his pen upon the same occasion,
 and handled the subject more copiously,
-in a piece under the title of The Anarchy of the Ranters and other Libertines,
-the Hierarchy of the Romanists and other pretended Churches, equally refused and refuted.
+in a piece under the title of [.book-title]#The Anarchy of the Ranters and Other Libertines,
+the Hierarchy of the Romanists and Other Pretended Churches, Equally Refused and Refuted.#
 In which, with his usual clearness and strength of reasoning,
 he vindicated the discipline established amongst this people against those,
 who accuse them of confusion and disorder on one hand,
@@ -380,13 +380,13 @@ sundry other papers against Robert Barclay`'s book and principles,
 not devoid of uncharitable reflections upon the author,
 and spread them abroad unknown to him, while he was confined in prison at Aberdeen.
 This ungenerous treatment occasioned Robert Barclay to write a
-vindication and explanatory postscript to his Anarchy of the Ranters,
+vindication and explanatory postscript to his [.book-title]#Anarchy of the Ranters,#
 in order to give satisfaction to all of the society,
 but those who through prejudice seemed resolved not to be satisfied.
 
 In the year 1682 William Rogers appeared in print in a quarto volume,
-to which he gave the pompous title of The Christian Quaker,
-distinguished from the Apostate and Innovator,
+to which he gave the pompous title of [.book-title]#The Christian Quaker,
+Distinguished from the Apostate and Innovator,#
 under the former description comprehending himself and his own party,
 and representing the main body of the society as apostates and innovators.
 This book, which soon sunk into oblivion,
@@ -442,11 +442,11 @@ that he had before given earnest for his passage in the stage coach home,
 and was not willing to lose it.
 
 This book of his did not pass unanswered, Thomas Elwood published a reply,
-under the title An Antidote against the Infection of William Roger`'s book,
-miscalled the Christian Quaker, answering it paragraphically.
+under the title [.book-title]#An Antidote Against the Infection of William Roger`'s Book,#
+miscalled the [.book-title]#Christian Quaker,# answering it paragraphically.
 To which it doth not appear that any rejoinder was ever given.
 George Whitehead also published remarks upon it, in a piece,
-entitled The Accuser of the Brethren cast down.
+entitled [.book-title]#The Accuser of the Brethren Cast Down.#
 
 It hath been remarked, that the establishing of discipline,
 and instituting of men`'s and women`'s meetings for the supporting thereof,
@@ -720,7 +720,7 @@ The goods were taken to Warner, informer,
 for 2£. 2s. 6d. At last this society was relieved from Smith`'s
 persecution by an order of king James to the justices of Leicestershire
 to give no sort of countenance to him or his prosecutions.
-Besse passim.
+[.book-title]#Besse# _passim._
 {footnote-paragraph-split}
 Henry Gates in Sussex was fined 40£. for preaching,
 for which he had goods seized to the value of 160£. One Calvert Bristow, a neighbour,

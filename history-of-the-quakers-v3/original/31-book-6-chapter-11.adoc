@@ -86,8 +86,8 @@ These mistakes (though of no great consequence) discover the loose and
 negligent manner in which Burnet took up and stated matters of fact.
 The more important objections to the bishop`'s narrative of this difference
 having already engaged the attention of our friend Alexander Arscott,
-in an appendix to his Serious Considerations,
-etc. remarks thereupon anticipate the necessity of my making many others,
+in an appendix to his [.book-title]#Serious Considerations,
+etc.# remarks thereupon anticipate the necessity of my making many others,
 being as follow:
 
 [quote]
@@ -98,7 +98,7 @@ viz. In those parts, he said, he first discovered, etc.
 It does not appear that the bishop either read or heard
 what the people called Quakers had to say for themselves:
 and yet as if he certainly knew that George Keith was perfectly right,
-and these people altogether wrong, he pronounces judgment upon an hearing only ex parte;
+and these people altogether wrong, he pronounces judgment upon an hearing only _ex parte;_
 a method of proceeding utterly inconsistent with the duty of a fair historian;
 and which he himself, no doubt, were he living, would loudly exclaim against,
 if it concerned himself, or any people whom he was disposed to favour,
@@ -223,8 +223,8 @@ Among whom the learned and pious Dr. Henry More was an eminent instance; who,
 though at first he thought the Quakers carried their allegorical way of writing too far,
 yet upon better information from reading and conversation with some of them,
 became very much changed into another mind, as hath been fully shown in a late pamphlet,
-entitled, A vindication of the Quakers,
-or an Answer to the Bishop of L----'`s charge against them,
+entitled, [.book-title]#A vindication of the Quakers,
+or an Answer to the Bishop of L----'`s Charge Against Them,#
 and a late defence of that charge; to which is added,
 a more full and perfect account of the Quakers and their doctrines,
 occasioned by Dr. Henry More`'s opinion of them;
@@ -235,9 +235,9 @@ and other passages, in his life and works.
 There is also good reason to suppose that Dr,
 Burnet had changed his sentiments of the Quakers, when it is well known,
 that he long since published to the world an excellent system of spiritual religion,
-altogether agreeable to their principles, entitled, The Life of God in the Soul of Man,
-or the nature and excellency of the Christian Religion,
-with the method of obtaining the happiness which it proposes:
+altogether agreeable to their principles, entitled, [.book-title]#The Life of God in the Soul of Man,
+or the Nature and Excellency of the Christian Religion,
+with the Method of Obtaining the Happiness Which It Proposes:#
 also an account of the beginning and advances of a spiritual life:
 with a preface by Gilbert Burnet.
 Wherein he very strongly and pathetically recommends that performance,
@@ -329,7 +329,7 @@ man redound unto many who do not expressly know it,
 even as a diseased person may receive benefit of a cure applied to him,
 though he have not an express knowledge of all the means and ways, how,
 from first to last, it hath been prepared.`"^
-footnote:[See his book, entitled The Rector Corrected.]
+footnote:[See his book, entitled [.book-title]#The Rector Corrected.#]
 
 This being the original subject of George Keith`'s open dissent, it is evident,
 it was not in America he first discovered it to be the doctrine of the Quakers,

@@ -106,9 +106,9 @@ in a dispute with the baptists in London the preceding year.
 He also wrote and published several treatises in vindication
 and explanation of the principles of the people called Quakers,
 viz. One upon revelation;
-another under the title of the universal free grace of the gospel asserted.
-The way to the city of God.
-The benefit, glory and advantage of silent meetings, etc.
+another under the title of [.book-title]#The Universal Free Grace of the Gospel Asserted.
+The Way to the City of God.
+The Benefit, Glory and Advantage of Silent Meetings, 3tc.#
 
 In 1682 he was informed against for preaching,
 and teaching school at Edmonton without license, the quarter sessions for Hertfordshire,
@@ -123,8 +123,8 @@ during which time he never pretended to discover
 any errors or false doctrines maintained by them,
 though he had the fullest opportunity; but on the contrary publicly vindicated them.
 Yet not duly attending to the apostle`'s caution to the Colossians,
-beware lest any man spoil you through philosophy and vain deceit,
-after the traditions of men, after the rudiments of the world, and not after Christ,
+"`beware lest any man spoil you through philosophy and vain deceit,
+after the traditions of men, after the rudiments of the world, and not after Christ,`"
 affecting to be wise beyond what is written or revealed, he became wavering in mind,
 and was shaken from his steadfastness in the faith.
 Having indulged him self too much in curious, uncertain and unprofitable speculation,
@@ -200,13 +200,13 @@ venture to entrust therewith as a secret,
 he continued openly to profess and vindicate the doctrines
 of the people called Quakers in sundry notable tracts,
 as,
-the presbyterian and independent visible churches in New England
-and elsewhere brought to doctrines of the test and examined;
-a refutation of three opposers of truth; the pretended antidote proved poison,
-or the true principles of the christian and protestant
-religion defended against Cotton Mather and others;
-and a serious appeal to all the more sober,
-impartial and judicious people in New England, in vindication of friends.
+[.book-title]#The Presbyterian and Independent Visible Churches in New England
+and Elsewhere Brought to Doctrines of the Test and Examined;#
+[.book-title]#A Refutation of Three Opposers of Truth; the Pretended Antidote Proved Poison,
+or The True Principles of the Christian and Protestant
+Religion Defended Against Cotton Mather and Others;#
+and [.book-title]#A Serious Appeal to all the More Sober,
+Impartial and Judicious People in New England, in Vindication of Friends.#
 Yet in the same year that he published this last treatise,
 his secret disgust at his friends broke out into open dissent and contention, chiefly,
 as appears, because he could not obtain that preeminence he aspired after,
@@ -423,9 +423,9 @@ At length, after many vilifying expressions to particular persons,
 as occasion raised his wrath,
 he went so far as to bring a most reproachful charge
 against a reputable part of the body at large,
-charging a meeting of ministers with coming together to cloak heresies and deceit,
+charging a meeting of ministers with coming together _to cloak heresies and deceit,
 and that there were more damnable heresies and doctrines of devils
-among the Quakers than among any profession of protestants.
+among the Quakers than among any profession of protestants._
 
 This reflection, which is mere assertion with out shadow of proof,
 evidences the bitterness of his spirit, urging him to expressions pointed in malice,
@@ -631,12 +631,12 @@ George Keith having drawn a considerable party to join him in his opposition,
 now set up a separate meeting.
 This party adopted the name of Quakers,
 but by way or distinction assumed to themselves the ostentatious
-appellation of Christian Quakers and Friends.
+appellation of _Christian Quakers and Friends._
 This separate meeting soon published a counter testimony signed by twenty-eight of them,
 disowning all those concerned in denying George Keith; and soon after that another paper,
-which they entitled, An expostulation with Samuel Jennings,
-Thomas Lloyd and the rest of the twenty-eight unjust judges and signers
-of the paper of condemnation against George Keith and his friends.^
+which they entitled, __An Expostulation with Samuel Jennings,
+Thomas Lloyd and the Rest of the Twenty-eight Unjust Judges and Signers
+of the Paper of Condemnation Against George Keith and His Friends.__^
 footnote:[Vide, Appeal from the twenty-eight Judges, etc. after the postscript,
 pages 6-9.]
 Both these papers were drawn up with artfulness,
@@ -741,8 +741,8 @@ he hoped in God he should shortly see their power taken from them:
 all which he acted in an indecent manner.
 
 And further, the said George Keith with several of his adherents,
-having some few days since, with unusual insolence, by a printed sheet called An Appeal,
-etc. traduced, and vilely misrepresented the industry, care,
+having some few days since, with unusual insolence, by a printed sheet called _An Appeal,
+etc._ traduced, and vilely misrepresented the industry, care,
 readiness and vigilance of some magistrates, and others here, in their late proceedings,
 against the privateers Babbit and his crew in order to bring them to consign punishment,
 whereby to discourage such attempts for the future;
@@ -820,7 +820,7 @@ calling out several times as they were proceeding in their testimonies,
 hypocrites! hypocrites!
 And Thomas Everdon, with whom he had so lately professed his unity,
 he called in the face of the assembly, consisting of several hundreds,
-the greatest hypocrite that ever stood upon two legs.
+_the greatest hypocrite that ever stood upon two legs._
 
 Thomas Wilson also and James Dickenson from Cumberland, Great Britain,
 arrived about this time on a christian visit to their friends in North America;

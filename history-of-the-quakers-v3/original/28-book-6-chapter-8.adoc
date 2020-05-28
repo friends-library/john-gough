@@ -246,7 +246,7 @@ George Keith soon afterwards published his narrative of
 the proceedings at this meeting of his own appointment,
 with the usual prejudice of party animosity,
 which was answered by Thomas Ellwood in a piece,
-entitled An Answer to George Keith`'s Narrative of his Proceedings at Turner`'s-hall,
+entitled [.book-title]#An Answer to George Keith`'s Narrative of His Proceedings at Turner`'s-hall,#
 wherein his Charges against divers of the People called Quakers are fairly considered,
 examined and refuted.
 In which he made his title good in a clear and entire
@@ -275,7 +275,7 @@ But either by his procuration,
 or from the spontaneous effusion of a similar disposition in himself,
 he met with a confederate equal in malice,
 against whom the advantage of quoting his own writings would not lie.
-This author, in an anonymous book, under the title of The Snake in the Grass,
+This author, in an anonymous book, under the title of [.book-title]#The Snake in the Grass,#
 proceeded in the line, George Keith had chalked out,
 but not being under the like titled restraint, outwent him, or most that went before him,
 in virulent reflections,

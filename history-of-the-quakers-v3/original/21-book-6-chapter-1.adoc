@@ -24,10 +24,10 @@ footnote:[The coronation oath according to the new form was this:
 Will you solemnly promise and swear to govern the people of this kingdom of England,
 and the dominions thereunto belonging according to the statute in parliament agreed to,
 and the laws and customs of the same?
-Answer.
+_Answer._
 I solemnly promise so to do.
 Will you to your power cause law and justice in mercy to be executed in all your judgments?
-Answer.
+_Answer._
 I will.
 {footnote-paragraph-split}
 The next question,
@@ -37,7 +37,7 @@ and the protestant reformed religion established by law?
 And will you preserve unto the bishops and clergy of this realm,
 and to the churches committed to their charge, all such rights, and privileges,
 as shall belong to them?
-Answer.
+_Answer._
 All this I promise to do.]
 The ceremony was performed by the bishop of London, as Sancroft,
 archbishop of Canterbury, declined the office.
@@ -83,9 +83,9 @@ This attempt in favour, of the dissenters being supposed to be promoted by the k
 augmented the prejudices of the high-church men against him.
 
 The next measure in favour of dissenters was attended with better success,
-i.e. the bringing in and passing an act, commonly called, The Act of toleration,
-entitled An act for exempting protestant subjects, dissenting from the church of England,
-from the penalties of certain laws, which passed without much opposition.
+i.e. the bringing in and passing an act, commonly called, The Act of Toleration,
+entitled _An Act for Exempting Protestant Subjects, Dissenting from the Church of England,
+from the Penalties of Certain Laws,_ which passed without much opposition.
 For after their late promises to the dissenters, when they wanted their assistance;
 after losing the pretext for opposition,
 on account of the incompetency of the power granting it;
@@ -329,7 +329,7 @@ and this accusation being backed by the oath of one William Fuller,
 who was afterward branded by the parliament with infamy as an impostor,^
 footnote:[In the year 1702 this Fuller was prosecuted
 in the king`'s bench and convicted as an impostor:
-And for publishing certain libels, one entitled, Original letters of the late king James, etc.
+And for publishing certain libels, one entitled, [.book-title]#Original Letters of the Late King James, etc.#
 Another, Twenty-six depositions of persons of quality and worth,
 was sentenced to stand three times in the pillory, to be sent to the house of correction,
 and to pay a fine of one thousand marks.
@@ -404,18 +404,18 @@ His excellent preface to Robert Barclay`'s works, and another to those of John B
 both printed this year, were farther fruits of his retirement; as were also,
 
 [.numbered]
-1+++.+++ A small treatise, entitled, Just Measures, in an epistle of peace and love,
-to such professors as are under any dissatisfaction about
-the present order practised in the church of Christ.
+1+++.+++ A small treatise, entitled, [.book-title]#Just Measures, in an Epistle of Peace and Love,
+to Such Professors As Are under Any Dissatisfaction about
+the Present Order Practised in the Church of Christ.#
 
 [.numbered]
-2+++.+++ A key opening the way to every common understanding,
-how to discern the difference between the religion professed by the people called Quakers,
-and the perversions, misrepresentations, and calumnies of their adversaries,
-both upon their principles and practices;
-wherein several doctrines of that people are set
-in a clear light: a book so generally accepted,
-that it has been re-printed even to the fifteenth edition.
+2+++.+++ [.book-title]#A Key Opening the Way to Every Common Understanding,
+How to Discern the Difference Between the Religion Professed by the People Called Quakers,
+and the Perversions, Misrepresentations, and Calumnies of their Adversaries,
+Both upon Their Principles and Practices;
+Wherein Several Doctrines of that People Are Set
+in a Clear Light#--a book so generally accepted,
+that it has been reprinted even to the fifteenth edition.
 
 Having thus improved the time of his retirement,
 it pleased divine providence in the year 1693,
@@ -610,17 +610,17 @@ from the misrepresentations of its antagonists,
 which he is generally allowed to have done in a masterly manner in the following tracts.
 
 [.numbered]
-1+++.+++ Truth cleared of Calumnies, published in 1670, about the 23rd year of his age,
-occasioned by a book, entitled A Dialogue between a Quaker and a stable Christian,
+1+++.+++ [.book-title]#Truth Cleared of Calumnies,# published in 1670, about the 23rd year of his age,
+occasioned by a book, entitled [.book-title]#A Dialogue between a Quaker and a Stable Christian,#
 the invention supposed of one W. Mitchell, a preacher near Aberdeen.
 
 [.numbered]
 2+++.+++ [.book-title]#Queries Proposed to the Serious Consideration of the Inhabitants of Aberdeen,#
-by way of appendix to Truth cleared of Calumnies, 1670.
+by way of appendix to [.book-title]#Truth Cleared of Calumnies,# 1670.
 
 [.numbered]
 3+++.+++ [.book-title]#William Mitchell Unmasked;#
-being an answer to his Animadversions upon Truth cleared of Calumnies 1671.
+being an answer to his Animadversions upon [.book-title]#Truth Cleared of Calumnies# 1671.
 
 [.numbered]
 4+++.+++ [.book-title]#A Seasonable Warning,
@@ -629,38 +629,38 @@ Concerning This Present Dispensation, and Day of God`'s Merciful Visitation Towa
 1672.
 
 [.numbered]
-5+++.+++ [.book-title]#A Catechism and Confession of Faith, Etc. l673.#
+5+++.+++ [.book-title]#A Catechism and Confession of Faith, etc.# 1673.
 
 [.numbered]
-6+++.+++ The Anarchy of the Ranters, and other libertines; the Hierarchy of the Romanists,
-and other pretended churches, equally refused and refuted, 1674
+6+++.+++ [.book-title]#The Anarchy of the Ranters, and Other Libertines; The Hierarchy of the Romanists,
+and Other Pretended Churches, Equally Refused and Refuted,# 1674
 
 [.numbered]
 7+++.+++ A Vindication of the preceding tract, serving as an explanatory postscript, 1679.
 
 [.numbered]
-8+++.+++ An Apology for the true Christian Divinity,
-as it is held forth and preached by the people called in scorn Quakers.
-Dedicated to king Charles II, 1675, the 28th year of his age.
+8+++.+++ [.book-title]#An Apology for the True Christian Divinity,
+As It Is Held Forth and Preached by the People Called in Scorn Quakers.#
+Dedicated to King Charles II, 1675, the 28th year of his age.
 
 [.numbered]
 9+++.+++ A dispute between John Lestey, Alexander Sheriff P. Gelly,
 called students of divinity, at Aberdeen, and Robert Barclay and George Keith, 1679,
 
 [.numbered]
-10+++.+++ Quakerism confirmed.
+10+++.+++ [.book-title]#Quakerism confirmed.#
 A vindication of the chief doctrines and principles of the Quakers,
-from the objections of the students of divinity 1690.
-(so called) of Aberdeen, in their book, entitled Quakerism canvassed, 1676.
+from the objections of the students of divinity 1690
+(so called) of Aberdeen, in their book, entitled [.book-title]#Quakerism Canvassed,# 1676.
 
 [.numbered]
-11+++.+++ Universal Love, 1677.
+11+++.+++ [.book-title]#Universal Love,# 1677.
 
 [.numbered]
-12+++.+++ An Epistle of Love and friendly Advice,
-to the Ambassadors of the several Princes of Europe met
-at Nimeguen to consult of the Peace of Christendom,
-showing the true cause of War, and proposing the best means of Peace.
+12+++.+++ [.book-title]#An Epistle of Love and Friendly Advice,#
+to the ambassadors of the several princes of Europe met
+at Nimeguen to consult of the peace of Christendom,
+showing the true cause of War, and proposing the best means of peace.
 To each of whom, with the epistle, were delivered one of his Apologies,
 which were received with respect, 1677.
 
@@ -670,9 +670,9 @@ in reply to the objections made against it by one John Brown, in his book,
 entitled [.book-title]#Quakerism the Pathway to Paganism,# 1679.
 
 [.numbered]
-14+++.+++ The Possibility and Necessity of the inward and immediate Revelation
-of the Spirit of God towards the Foundation and Ground of true Faith,
-proved: In a letter written in Latin to a person of quality in Holland;
+14+++.+++ [.book-title]#The Possibility and Necessity of the Inward and Immediate Revelation
+of the Spirit of God Towards the Foundation and Ground of True Faith,
+Proved:# In a letter written in Latin to a person of quality in Holland;
 and now also put into English, 1676.
 
 George Fox grown too infirm to bear travelling,
