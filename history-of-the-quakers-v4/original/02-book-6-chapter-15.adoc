@@ -1,8 +1,11 @@
 == Chapter XV.
 
-Account of John Blakeling.
---Gilbert Latey.--Anne Camm.--Persecuting Act, entitled Heretics,
-passed in the Colony of Connecticut,--Repealed by the Queen and Council.
+[.chapter-synopsis]
+* Account of John Blakeling
+* Gilbert Latey
+* Anne Camm
+* Persecuting Act, entitled "`Heretics,`" passed in the Colony of Connecticut
+* Repealed by the Queen and Council.
 
 John Blakeling of Draw-well in the parish of Sedbergh in Yorkshire,
 on the border of Westmoreland,
@@ -86,6 +89,9 @@ The following extract from the former exhibits a plain narrative
 of the ruinous and unfair modes of plunder adopted by ill-principled
 men against this inoffensive body of subjects for the vilest purposes:
 
+[.embedded-content-document]
+--
+
 Divers persons convicted, fined and distrained upon the statute of 20£. a month,
 were first presented and prosecuted upon the statute of 12d. a Sunday`'s absence,
 and at the beginning of the sessions called upon the said presentment and prosecution;
@@ -107,10 +113,12 @@ and by this method discount and pay their debts,
 or else clap the just creditor in prison, to lie there unless the bond be given up.
 In the year 1671 he was fined 20£. 10s. for a meeting at his house.
 
+--
+
 While of ability of body he was a good example,
 in a diligent attendance of religious meetings; but for some time before his death,
 he was prevented by the infirmities attendant upon advanced age, during which,
-he expressed the comfort`',
+he expressed the comfort,
 which he enjoyed in the Lord`'s peace and presence with him in his old age,
 that his day`'s work was nigh done, and his reward and rest with God was sure.
 He often signified his preparedness to leave the world,
@@ -464,7 +472,7 @@ and that Wheeler-street meeting house was threatened,
 the title of which was vested in him;
 he therefore hastened back to London with what expedition he could,
 with clearness as to his present service,
-and when arrived took the measures already related ,
+and when arrived took the measures already related,
 to secure that meeting-house from similar depredation.^
 footnote:[See vol. 2. p. 353.]
 
@@ -500,7 +508,7 @@ feeling a concern, with many of his Friends of this age,
 to go to several of the places of public worship,
 to bear witness to the truth and against error.
 Amongst other places, he went one day to Dunstan`'s in the West,
-at which ------ Manton preached on this subject, who might of right call God father,
+at which +++_______+++ Manton preached on this subject, who might of right call God father,
 on which he enlarged first, that they who were born of God,
 were his through regeneration, and had a just right to call God father.
 To this doctrine Gilbert attended with patience and assent;
@@ -949,39 +957,17 @@ application being made to the Queen and Counsel, it produced the following order
 by which the purport of this act will appear of a
 nature similar to their former persecuting acts.
 
+[.embedded-content-document.legal]
+--
+
+[.signed-section-context-open]
 At the Court of Kensington, the 11th day of October, 1705,
 
-PRESENT,
+[.old-style]
+=== Present
 
-His Royal Highness Prince George of Denmark,
-
-Lord Archbishop of Canterbury,
-
-Lord Keeper,
-
-Lord Treasurer,
-
-Lord President,
-
-Duke of Somerset,
-
-Duke of Ormond,
-
-Earl of Ranelagh,
-
-Mr. Boyle,
-
-Mr. Secretary Hedges,
-
-Mr. Secretary Harley,
-
-Lord Chief Justice Holt,
-
-Lord Chief Justice Trevor,
-
-Mr. Vernon,
-
-Mr. Earle.
+[.blurb]
+=== His Royal Highness Prince George of Denmark, Lord Archbishop of Canterbury, Lord Keeper, Lord Treasurer, Lord President, Duke of Somerset, Duke of Ormond, Earl of Ranelagh, Mr. Boyle, Mr. Secretary Hedges, Mr. Secretary Harley, Lord Chief Justice Holt, Lord Chief Justice Trevor, Mr. Vernon, Mr. Earle.
 
 A representation from the lords commissioners of trade and plantations,
 being this day read at the board,
@@ -1009,11 +995,17 @@ and pursuant to her majesty`'s royal pleasure thereupon,
 the said act passed in her majesty`'s colony of Connecticut in New-England,
 entitled Heretics, is hereby repealed, and declared null and void, and of none effect.
 
+--
+
 In gratitude for this repeal,
 friends in London thought it their duty to present an address to the Queen,
 which address, with her answer, are as followeth:
 
-May it please the QUEEN,
+[.embedded-content-document.address]
+--
+
+[.salutation]
+May it please the Queen,
 
 We thy protestant dissenting subjects, commonly called Quakers, in London,
 having lately been the Queen`'s humble petitioners on the behalf of our friends in New-England,
@@ -1035,14 +1027,24 @@ that in the delightful fruition thereof, the Queen may enjoy many days,
 and after a life of comfort, be translated to a glorious immortality.
 Signed on behalf of the said people by
 
+[.signed-section-signature]
 John Field,
 
+[.signed-section-signature]
 Joseph Wyeth.
 
+--
+
+[.embedded-content-document]
+--
+
+[.old-style]
 === The Queen`'s Answer.
 
 Let the gentlemen know I thank them heartily for this address,
 and that while they continue so good subjects, they need not doubt of my protection.
+
+--
 
 The repealing of this act put a final period to the persecuting of Quakers in New-England:
 And as the rigorous measures pursued against them

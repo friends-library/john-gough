@@ -1,9 +1,13 @@
 == Chapter XVI.
 
-Address to Queen Anne on the Prevention of a Rebellion.--Account
-of Thomas Camm.--His sufferings.
---His Death and Character.--Second Address to the Queen on declaring her Resolution
-to maintain the Toleration.--Account of John Banks.--Account of William Crouch.
+[.chapter-synopsis]
+* Address to Queen Anne on the Prevention of a Rebellion
+* Account of Thomas Camm
+* His sufferings
+* His Death and Character
+* Second Address to the Queen on declaring her Resolution to maintain the Toleration
+* Account of John Banks
+* Account of William Crouch
 
 The incorporation of England and Scotland into one kingdom,
 which was a favourite measure with James the First;
@@ -26,10 +30,14 @@ up to the Queen from different parts upon this occasion,
 the people called Quakers thought it expedient, from their yearly meeting,
 to present the following address.
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To Anne Queen of Great Britain, etc.
 
-The grateful and humble Address of the people commonly called Quakers,
-from their yearly meeting in London this 28th day of the third month called May, 1708.
+[.blurb]
+=== The grateful and humble Address of the people commonly called Quakers, from their yearly meeting in London this 28th day of the third month called May, 1708.
 
 We having good cause to commemorate the manifold mercies
 of God vouchsafed to this united kingdom of Great Britain,
@@ -50,6 +58,8 @@ and as such conclude with fervent prayer to the Lord of Hosts, that after a pros
 safe and long reign in this life, thou, O Queen,
 mayst be blessed with an everlasting crown of glory.
 
+--
+
 Seven friends were appointed to present this address, amongst whom was George Whitehead,
 who upon presenting it, said, "`We heartily wish the Queen health and happiness:
 We are come to present an address from our yearly meeting,
@@ -61,6 +71,8 @@ the Queen requested him to read it, which he did, and the Queen answered,
 "`I thank you very kindly for your address, and I assure you of my protection;
 you may depend upon it.`" To this George Whitehead replied,
 
+[quote]
+____
 We thankfully acknowledge that God,
 by his power and special providence hath preserved and defended
 the Queen against the evil designs of her enemies,
@@ -81,6 +93,7 @@ the remainder of thy days,
 and support thee under all thy great care and concern for the safety
 and good of this nation and kingdom of Great Britain,
 and that the Lord may bless and preserve thee to the end, is our sincere desire.
+____
 
 To this the Queen returned, "`I thank you for your speech, and for your address;
 and ye may be assured I will take care to protect you.`" George Whitehead replied,
@@ -259,11 +272,14 @@ the indulgence by law allowed to scrupulous consciences,
 whereupon a committee of the People called Quakers
 waited upon her with the following address;
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To Queen Anne of Great Britain, etc.
 
-The humble and thankful Address of the Queen`'s protestant subjects,
-the people called Quakers, in and about the city of London,
-on behalf of themselves and the rest of their persuasion.
+[.blurb]
+=== The humble and thankful Address of the Queen`'s protestant subjects, the people called Quakers, in and about the city of London, on behalf of themselves and the rest of their persuasion.
 
 When we consider the Queen`'s royal regard to protect our religious liberty,
 and the fresh assurance from the throne of her christian resolution
@@ -285,9 +301,14 @@ That it may graciously please almighty God to defend and bless thee,
 O Queen! and guide thee by his counsel in a long and prosperous reign here,
 and afterwards receive thee to glory, is the hearty prayer of thy faithful subjects.
 
+--
+
 To this Address the Queen answered,
 
+[quote]
+____
 I thank ye for your address, and ye may depend upon my protection.
+____
 
 This year died John Banks, who was born of honest parents,
 in the parish of Issel in Cumberland.
@@ -321,7 +342,7 @@ concern of mind into those counties and places,
 where the separation begun by Wilkinson^
 footnote:[It may be proper so observe,
 there were at this time two persons of the name of John Wilkinson in the society,
-or under the name of Quakes, viz. John Wilkinson of Cumberland,
+or under the name of Quakers, viz. John Wilkinson of Cumberland,
 who had been a priest of Brigham, and had two parishes more;
 he was convinced by the ministry of G. Fox in 1657,
 became an approved minister among the people called Quakers,
@@ -682,6 +703,10 @@ which might remain as a testimony of his paternal regard
 and affectionate concern for them when he should be no more,
 viz.
 
+[.embedded-content-document.epistle]
+--
+
+[.signed-section-context-open]
 The 7th 2mo. 1709.
 
 You, my children all, I charge you love God above all; love one another,
@@ -697,9 +722,13 @@ and as much as in you lies live peaceably with all men.
 And the God of peace bless you and prosper you, and make you a comfort to yourselves,
 and one to another, which is the earnest prayer and cry of my soul to God.
 
+[.signed-section-closing]
 Your loving father,
 
-WILLIAM CROUCH.
+[.signed-section-signature]
+William Crouch.
+
+--
 
 He, like most of the rest of his brethren,
 was repeatedly a sufferer both in his person and property.
@@ -744,17 +773,25 @@ arbitrarily demanded of them, as the price of their liberty,
 they were committed by the Duke of Albemarle to the Gate-house, Westminster,
 for three months, by the following warrant:
 
+[.embedded-content-document.legal]
+--
+
 You are on sight hereof to take into your custody Solomon Eccles, Robert Towerland,
-"` Thomas Portland, John Bolsover, Humble Fletcher, William Crouch,
+Thomas Portland, John Bolsover, Humble Fletcher, William Crouch,
 John Pierce and Christopher Cooke, who are guilty of being at an unlawful meeting,
 and refusing to pay their fines.
 Given under my hand this 23rd day of August 1665.
 
+[.signed-section-signature]
 Albemarle.
 
+[.signed-section-context-close]
 To the keeper of the Gate-house or his deputy.
 
+[.postscript]
 The officer of the guards is to send a sergeant and four files with them.
+
+--
 
 Thus were reputable citizens sent to prison by military authority,
 under a military guard, like vile criminals, and confined in an infected prison,
@@ -788,8 +825,11 @@ After the last conventicle-act came in force W. Crouch was exposed
 to the depredations of the informers and convicting justices,
 as appears by the following warrant:
 
-To all constables, headboroughs, church-wardens, tithing-men, overseers of the poor,
-bailiffs, and all other his Majesty`'s officers within the said city whatsoever:
+[.embedded-content-document.legal]
+--
+
+[.blurb]
+=== To all constables, headboroughs, church-wardens, tithing-men, overseers of the poor, bailiffs, and all other his Majesty`'s officers within the said city whatsoever:
 
 Whereas by the oaths of two credible witnesses before me, Sir Jonathan Raymond,
 one of his Majesty`'s justices of the Peace for the city aforesaid,
@@ -826,8 +866,10 @@ during the time you shall be in possession of such
 premises in pursuance of the said statute,
 and that you return the same to me, to be distributed according to the said act;
 and for so doing this shall be your warrant.
-Given under my hand and seal this 23rd day of June, Anno Regni Caroli fecundi 35. Annoq.
-Domini 1683.
+Given under my hand and seal this 23rd day of June, _Anno Regni Caroli fecundi_ 35. _Annoq.
+Domini_ 1683.
+
+--
 
 Another warrant of the like tenour, bearing date the 21st of April 1684,
 was issued against him by Thomas Jenner, Recorder of London,
@@ -931,5 +973,8 @@ and his request was mercifully granted him.
 Thus in a good old age he terminated a well spent life, at the age of eighty-two,
 the 13th of the 11th month, 1710.
 
-"`Mark the perfect man, and behold the upright, for the end of that man is peace.`"
-Ps. 37:37
+[quote.scripture, , Ps. 37:37]
+____
+
+Mark the perfect man, and behold the upright, for the end of that man is peace.
+____
