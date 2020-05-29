@@ -1,11 +1,12 @@
 == Chapter XIX.
 
-John Estaugh and Richard Gove taken by a French Privateer in their Passage to Barbados.
---Taken into Martinico, and Occurrences there.
---Thomas Chalkley visits the Shawanese and Seneca Indians.
-William Penn`'s Epistle to the Settlers in Pennsylvania.
+[.chapter-synopsis]
+* John Estaugh and Richard Gove taken by a French Privateer in their Passage to Barbados
+* Taken into Martinico, and Occurrences there
+* Thomas Chalkley visits the Shawanese and Seneca Indians
+* William Penn`'s Epistle to the Settlers in Pennsylvania
 
-JOHN ESTAUGH from Haddenfield, New Jersey, in company with Richard Gove,
+John Estaugh from Haddenfield, New Jersey, in company with Richard Gove,
 embarked at Philadelphia this year,
 to pay a religious visit to their friends in Barbados, being arrived near that Island,
 the ship was taken and by a French privateer and carried into Martinico:
@@ -143,8 +144,13 @@ In the year 1708,
 William Penn visited the settlers with a letter by his new governor Gookin,
 of which the following is an extract:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 London, 28th 7mo, 1708.
 
+[.salutation]
 Dear Friends and Brethren,
 
 My ancient love, if you can believe it,
@@ -179,6 +185,10 @@ to the merciful providence and orderings of our great and gracious God,
 that welcomed us in poor America, with his excellent love and precious light,
 and will I hope once more, and remain your loving faithful friend,
 
+[.signed-section-signature]
 William Penn.
 
+[.postscript]
 Herewith comes your school charter.
+
+--
