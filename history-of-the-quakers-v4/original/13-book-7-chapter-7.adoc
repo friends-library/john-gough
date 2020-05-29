@@ -1,9 +1,14 @@
 == Chapter VII.
 
-The young Pretender lands in Scotland--The Rebellion quelled.
---The People called Quakers address the King upon the Extinction thereof.--who
-receives their Address favourably.--Case of Thomas Richardson and Benjamin Cox.--Case
-of Hannah Risdale.--Account of Evan Bevan.-- Samuel Crisp.
+[.chapter-synopsis]
+* The young Pretender lands in Scotland
+* The Rebellion quelled
+* The People called Quakers address the King upon the Extinction thereof
+* Who receives their Address favourably
+* Case of Thomas Richardson and Benjamin Cox
+* Case of Hannah Risdale
+* Account of Evan Bevan
+* Samuel Crisp
 
 England having been engaged in a war with Spain since the year 1739,
 and France having also taken part with Spain, and declared war against England; in 1743,
@@ -38,10 +43,16 @@ on the 28th of 3rd month at tended the court at Kensington,
 and were introduced to the king by the duke of St. Albans,
 when Daniel Vandewali read the address, as follows.
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To George II. King of Great Britain, etc.
 
-The humble Address of the People called Quakers from
-their general annual Assembly in London.
+[.blurb]
+=== The humble Address of the People called Quakers from their general annual Assembly in London.
+
+[.salutation]
 May it please the King,
 
 We humbly beg leave to approach thy royal presence with united
@@ -85,14 +96,20 @@ tranquility of Europe on a lasting foundation,
 and grant, that an uninterrupted race of kings of thy royal progeny,
 may perpetuate the blessings of thy reign to our posterity.
 
+[.signed-section-context-close]
 Dated in London, the 22nd of the 3rd month called May, 1746, and signed by 286 friends.
+
+--
 
 Which address the king was pleased to receive very graciously,
 and to which the following answer was returned.
 
+[quote]
+____
 I thank you for this address of congratulation,
 the just concern you have shown there in for hie and my family is very agreeable to me;
 and you may always depend on my protection.
+____
 
 After withdrawing from the king`'s presence, the duke of Grafton came out,
 and told one of the committee,
@@ -205,6 +222,9 @@ A petition was accordingly drawn up in the name of the prisoner,
 setting forth the matter of fact, and consequent proceedings thereupon,
 and further alleged,
 
+[.embedded-content-document.letter]
+--
+
 that she had no intention of disturbing the public worship;
 but acted on a motive purely conscientious,
 being ignorant of the breach of any law therein--that
@@ -217,6 +237,8 @@ had almost expended her substance in her necessary support.
 She therefore hopes they will commiserate her case, and remit the said fine,
 and that she may be discharged from her confinement,
 that she may be enabled to provide for her subsistence, by her labour as formerly.
+
+--
 
 This petition produced the desired effect:
 for by an order of the board of the Treasury to the attorney-general,
@@ -241,6 +263,9 @@ of which exercise and the motives of his joining in society with the people call
 having himself, who could do it best, given a description in a letter to a friend,
 a transcript thereof, will convey the most genuine and authentic account to the reader,
 as follows.
+
+[.embedded-content-document.letter]
+--
 
 Since it hath pleased the divine goodness to endue me with reason,
 I heartily thank his most excellent Majesty:
@@ -344,6 +369,8 @@ so having found the pearl of great price among them, I parted with all to purcha
 or rather, I was restored to all, I mean, the enjoyment of the divine goodness,
 and of myself, by setting a due value upon it.
 
+--
+
 This letter presents a lively picture of humility, sincerity, disinterestedness,
 meekness and modesty in the writer,
 which qualities seem the distinguishing traits in his character;
@@ -438,6 +465,10 @@ Similar to the convincement of Evan Bevan, was that of Samuel Crisp,
 a clergyman of the church of England,
 who gives the following account of his convincement, in a letter to a friend.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My dear Friend,
 
 I received a letter from thee, the week before last, which was sent by thy uncle Bolton:
@@ -447,7 +478,7 @@ for many repeated kindnesses, and if my school had not engrossed so much of my t
 I would have taken opportunity to answer my dear friend`'s letter now,
 and upon that account my delay will be the more excusable.
 
-"`The news thou hast heard of my late change is really true, I cannot conceal it,
+The news thou hast heard of my late change is really true, I cannot conceal it,
 for it is what I glory in;
 neither was it any prospect of temporal advantage that induced me to it,
 but a sincere love to the truth, and pure regard to my own soul:
@@ -723,7 +754,10 @@ Let us remember to pray for one another with all fervency,
 that we may stand perfect in the whole will of God, Amen, saith my soul.
 I am thy most affectionate friend and servant in Jesus,
 
+[.signed-section-signature]
 Samuel Crisp.
+
+--
 
 This epistle and the former of Evan Bevan are introduced by William Sewel as instances,
 among many others, that those from other societies,
