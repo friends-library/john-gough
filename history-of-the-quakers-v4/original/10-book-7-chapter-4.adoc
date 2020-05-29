@@ -1,10 +1,13 @@
 == Chapter IV. Ireland Continued.
 
-Friends allowed to answer Bills in Chancery upon their Affirmation.--Act
-of Exemption from the Penalties of second Eliz.
---A Provincial Visit.-- First Affirmation Act in Ireland.--Account
-of John Barcroft.--Alexander Season.--Thomas Wight,
-and Thomas Wilson.
+[.chapter-synopsis]
+* Friends allowed to answer Bills in Chancery upon their Affirmation
+* Act of Exemption from the Penalties of second Eliz
+* A Provincial Visit
+* First Affirmation Act in Ireland
+* Account of John Barcroft
+* Alexander Season
+* Thomas Wight, and Thomas Wilson
 
 Although the dissenters in general in this kingdom,
 and the people called Quakers in particular,
@@ -494,6 +497,8 @@ his sentiments on the proper qualification for this service,
 are contained in the following remarks,
 which were found amongst his papers after his decease.
 
+[quote]
+____
 As I was deeply exercised in my, mind about the things of the living God,
 and the holy order of the blessed gospel of the Lord Jesus, it was opened to me,
 that all concerned friends that speak in men`'s meetings;
@@ -523,3 +528,4 @@ and you will learn to know what the good and acceptable will of the Lord is,
 and if you speak in the meeting it will be to please God and for his honour,
 not your own, for you strive for honour in a carnal mind,
 and seek not the honour of the Lord, but are in great presumption.
+____
