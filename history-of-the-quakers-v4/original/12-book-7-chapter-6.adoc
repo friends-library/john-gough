@@ -1,9 +1,13 @@
 == Chapter VI.
 
-Account of Alexander Arscott.
---Samuel Overton.
---John Gurney.--Benjamin Bangs.--James Dickenson.
---Thomas Story.--John Fothergill.
+[.chapter-synopsis]
+* Account of Alexander Arscott
+* Samuel Overton
+* John Gurney
+* Benjamin Bangs
+* James Dickenson
+* Thomas Story
+* John Fothergill
 
 In the year 1737, Alexander Arscott of Bristol,
 an useful and respectable member of civil and religious society,
