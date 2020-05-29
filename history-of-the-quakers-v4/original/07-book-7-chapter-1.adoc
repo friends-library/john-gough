@@ -1,10 +1,13 @@
 == BOOK VII. From the Accession of George I. to the end of the Reign of George II. Chapter I.
 
-King George I. ascends the Throne of Great Britain.
---Address of the People called Quakers to him.-- G. Whitehead`'s speech to the
-Prince of Wales.-- Act for our Affirmation renewed.--Rebellion in Scotland.
---Quelled.
---Quakers`' Address upon that Occasion.--Life and Character of Samuel Waldenfield.
+[.chapter-synopsis]
+* King George I. ascends the Throne of Great Britain
+* Address of the People called Quakers to him
+* G. Whitehead`'s speech to the Prince of Wales
+* Act for our Affirmation renewed
+* Rebellion in Scotland
+* Quelled Quakers`' Address upon that Occasion
+* Life and Character of Samuel Waldenfield
 
 Immediately after Queen Anne`'s decease, the privy council assembled,
 and the Earl of Dorset was appointed to carry to
@@ -25,10 +28,16 @@ he introduced it with this preface, "`We are come in behalf of the people called
 to present to King George our address and acknowledgment;
 may it be favourably received.`" After which Joseph Wyeth read it as followeth:
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To George, King of Great Britain, etc.
 
-The humble Address of the people commonly called Quakers.
+[.blurb]
+=== The humble Address of the people commonly called Quakers.
 
+[.salutation]
 Great Prince,
 
 It having pleased Almighty God to deprive these kingdoms of our late gracious Queen,
@@ -51,21 +60,31 @@ And as it hath been our known principle to live peaceably under government,
 so we hope it will always be our practice, through God`'s assistance,
 to approve ourselves, with hearty affection, thy faithful and dutiful subjects.
 
+[.small-break]
+'''
+
 May the wonderful counsellor and great preserver
 of men guide the king by his divine wisdom,
 protect him by his power, give him health and length of days here,
 and eternal felicity hereafter.
 And so bless his royal offspring,
 that they may never fail to adorn the throne with
-a successor endowed with piety and virtue.`"
+a successor endowed with piety and virtue.
+
+--
 
 To which the King returned the following Answer:
 
+[quote]
+____
 I am well satisfied with the marks of duty you express in your address,
-and you may be assured of my protection
+and you may be assured of my protection.
+____
 
 After the address was read, George Whitehead spoke to this effect:
 
+[quote]
+____
 Thou art welcome to us, King George, we heartily wish thee health and happiness,
 and thy son the prince also.
 King William III.
@@ -77,11 +96,15 @@ even among the differing persuasions, than they were when persecution was on foo
 We desire the king may have further knowledge of us and our innocence;
 and that to live a peaceable and quiet life in all godliness and honesty,
 under the king and his government, is according to our principle and practice.
+____
 
 When George had thus spoken, his name was asked, which he told;
 and having a desire to see the prince,
 one of his gentlemen introduced these friends into a chamber, where the prince met them,
 to whom George spoke as follows:
+
+[quote]
+____
 
 We take it as a favour that we are thus admitted to see the Prince of Wales,
 and truly are very glad to see thee;
@@ -101,7 +124,9 @@ viz. "`He that ruleth over men must be just, ruling in the fear of God,
 and he shall be as the light of the morning when the sun riseth,
 even a morning without rain,
 as the tender grass springing out of the earth by clear shining after rain.
+____
 
+[.offset]
 This speech was favourably received.
 
 In the next year 1715 the term of the act for accepting the solemn
@@ -127,6 +152,9 @@ made deep impressions of gratitude on their minds,
 which drew from them the following exhortation in their epistle,
 from the yearly meeting held in London about that time:
 
+[.embedded-content-document.epistle]
+--
+
 The Lord our God, who for the sake of his heritage,
 hath often heretofore rebuked meeting and limited the raging waves of the sea, hath,
 blessed be his name, mercifully dispersed the cloud threatening a storm,
@@ -137,6 +165,8 @@ call for true thankfulness to him.
 And humbly to pray to almighty God for the king and those in authority,
 for his and their safety and defence, is certainly our christian duty,
 as well as to walk inoffensively as a grateful people.
+
+--
 
 The change of ministers and measures in the latter end of
 the late reign had created much dissension amongst the people;
@@ -163,7 +193,7 @@ and gutted (as they called it) the Presbyterian meeting house, that is,
 they broke all the windows, doors, benches, wainscots and seats, carrying them away,
 and burning and destroying them, which made a great uproar in the city.
 {footnote-paragraph-split}
-Friends having heard that they intended
+"`Friends having heard that they intended
 to use our meeting-house as they had done that of the Presbyterians,
 an advertisement thereof was drawn up in writing, directed to the mayor,
 and sent by a friend; but the mayor being absent at the time,
@@ -266,6 +296,8 @@ which they presented to the king on the last day of the third month, O. S. calle
 this year; being introduced by the Earl of Manchester,
 G+++.+++ Whitehead spoke in substance as followeth:
 
+[quote]
+____
 That in the annual assembly held for the religious concerns of their society,
 endeavouring to promote and put in practice the duties of religion professed by them,
 the sense of the great deliverance had such a weight upon their minds,
@@ -274,14 +306,20 @@ whom God by his providence had brought hither and preserved, so that he could we
 he was George by the grace of God, King of Great Britain, etc.
 And that as men carried that saying stamped on the money in their pockets,
 so it was to be wished it might be imprinted in the hearts of the subjects.
+____
 
 Hereupon the address was presented and read as follows:
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To George, King of Great Britain, etc.
 
-The humble Address of the People called Quakers, from their yearly Meeting in London,
-the 26th day of the third month, called May 1716.
+[.blurb]
+=== The humble Address of the People called Quakers, from their yearly Meeting in London, the 26th day of the third month, called May 1716.
 
+[.salutation]
 May it please the King,
 
 We thy faithful and peaceable subjects, Quakers being met in this our annual assembly,
@@ -327,10 +365,15 @@ there may not want a branch of thy royal family
 endowed with wisdom and virtue to fill the throne,
 till time shall be no more.
 
+--
+
 To which address the King returned the following answer,
 
+[quote]
+____
 I thank you for the assurance of duty and affection to my person and government,
 contained in this address; and you may always depend upon my protection.
+____
 
 This year died Samuel Waldensield, a member and minister of this society,
 highly esteemed for his virtuous conversation and his religious services,

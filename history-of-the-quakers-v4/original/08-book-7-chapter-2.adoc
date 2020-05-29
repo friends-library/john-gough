@@ -1,15 +1,22 @@
 == Chapter II.
 
-Affirmation Act renewed.-- Measures of Government to moderate party beats.--Bishop
-Hoadly`'s two Sermons and proceedings thereupon.--Repeal of Occasional
-Conformity and Schism Acts.--South Sea Scheme.--Petition to Parliament
-for a form of Affirmation which might be easy to all Friends.
---Solicitations to procure the passing of an act for that purpose.--Passed by
-the Commons.--Warmly debated in the House of Lords.--Petition against it.
---Passed by the Lords.--Yearly Meeting`'s acknowledgment of the
-favour.--Epistle of Caution concerning the use thereof.
---Account of George Whitehead.--Case of some Friends in New-England
-appointed to assess Taxes.--Death of King George I.
+[.chapter-synopsis]
+* Affirmation Act renewed
+* Measures of Government to moderate party beats
+* Bishop Hoadly`'s two Sermons and proceedings thereupon
+* Repeal of Occasional Conformity and Schism Acts
+* South Sea Scheme
+* Petition to Parliament for a form of Affirmation which might be easy to all Friends
+* Solicitations to procure the passing of an act for that purpose
+* Passed by the Commons
+* Warmly debated in the House of Lords
+* Petition against it
+* Passed by the Lords
+* Yearly Meeting`'s acknowledgment of the favour
+* Epistle of Caution concerning the use thereof
+* Account of George Whitehead
+* Case of some Friends in New-England appointed to assess Taxes
+* Death of King George I
 
 The passing of the Act of Toleration,
 and the effectual establishment thereof under the
@@ -244,9 +251,14 @@ whose countenance to the application was doubtless greatly contributory to its s
 
 The next was a petition to parliament as followeth:
 
+[.embedded-content-document.address]
+--
+
+[.blurb]
 The humble petition of the People called Quakers,
 on behalf of such of their friends who scruple the present form of affirmation,
 
+[.salutation]
 Showeth,
 
 That they humbly beg, thankfully to remember, that the first legal privileges which,
@@ -272,6 +284,8 @@ to bring in a bill for such form of affirmation or declaration as may remove the
 which many of them lie under, or such other relief as you in your wisdom shall see meet.
 And your petitioners shall pray.
 
+--
+
 The above petition was signed by one hundred and thirty two friends.
 
 Besides these applications,
@@ -283,19 +297,16 @@ stiled the Lord Morpeth, to do the same in the house of commons,
 of which he was a member.
 He advised Thomas to make his first application to the Earl of Sunderland,
 secretary of state, and procured him an opportunity of speaking to him.
-Thomas informed him,
-
-that though the king, his ministry,
+Thomas informed him, "`that though the king, his ministry,
 and the parliament intended the people called Quakers
 a great favour in perpetuating the affirmation act,
 as it then stood, yet it did not answer the end proposed;
 for a great part of that people could not comply with it, the terms,
-in their apprehension, importing a difference from the doctrine of Christ.
+in their apprehension, importing a difference from the doctrine of Christ.`"
 
 He then produced the form of the act, and also that which the meeting had agreed to,
 which, when the Earl of Sunderland had perused, he said,
-
-You might have had the latter as soon as the former if you had applied for it;
+"`You might have had the latter as soon as the former if you had applied for it;
 for what we did was to serve you in your own way; and you yourselves soliciting for it,
 we thought we had fully gratified you;
 and were informed that a very few of you were dissatisfied with that form,
@@ -304,7 +315,7 @@ misled by Mr. Penn in disloyalty to the government and in favour to the Pretende
 and who did not desire it of the present government, hoping for it by another in time;
 and those who were satisfied with that form were Mr. Mead`'s friends,
 and principled for the revolution and present government in the house of Hanover;
-and one sort called Pennites and the other Meadites.^
+and one sort called Pennites and the other Meadites.`"^
 footnote:[Remarks of the like kind were formerly made by King William upon the personal
 application of some friends to him in relation to their suffering for tithes,
 and preparing the way for the first Affirmation Act.
@@ -332,9 +343,7 @@ but Christ Jesus to be our only Master,
 as we are a christian society and people.`" The King appeared serious and well satisfied,
 and befriended them in their applications for relief in both cases.]
 
-To this Thomas Story replied,
-
-This is only a calumny artfully invented to defame our society,
+To this Thomas Story replied, "`This is only a calumny artfully invented to defame our society,
 and render the more distressed suspected by the king and government,
 that we might receive no relief; and it is a great cruelty and hardship.
 I do not know or ever heard of any such sect, party or parties among us,
@@ -349,7 +358,7 @@ for I have lately been amongst them in a general way.
 And the Earl of Carlisle himself likewise knows, that many of our friends,
 whom he hath relieved by his interest,
 who had suffered much for non-compliance with the affirmation,
-were as loyal as any others.
+were as loyal as any others.`"
 
 The result of this conference was such as gave the friends good hope of success,
 as they had reason to believe the Earl of Sunderland would
@@ -386,6 +395,10 @@ the lords were to go into a grand committee on the bill,
 but were prevented by an unexpected petition from some of the London clergy,
 which was presented by the Archbishop of York, and was as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the right honourable the Lords Spiritual and Temporal in Parliament assembled.
 
 The humble petition^
@@ -411,11 +424,12 @@ for there are five hundred of the clergy in and about London,
 and we find only forty-one names to their petition, and these very obscure.`"]
 of the Clergy in and about London, with all submission,
 
+[.salutation]
 Showeth,
 
 That there is a bill now depending in your Lordships house, entitled,
-An act for granting the people called Quakers, such a form of affirmation or declaration,
-as may remove the difficulties, which many of them labour under.
+_An Act for Granting the People Called Quakers, Such a Form of Affirmation or Declaration,
+as May Remove the Difficulties, Which Many of Them Labour Under._
 Which bill, should it pass into a law,
 as it may in its consequences nearly affect the property of the subject in general,
 so it will in a more especial manner,
@@ -470,7 +484,10 @@ themselves to your lordships great wisdom,
 may induce your lordships not to give your consent
 to the passing of this bill into a law,
 
+[.signed-section-context-close]
 And your petitioners shall ever pray, etc.
+
+--
 
 The archbishop of York spoke in behalf of this petition, and moved that it might be read;
 and he was seconded by several bishops and noblemen.
@@ -482,7 +499,7 @@ but among themselves; and the archbishop of York moved for a clause,
 that the Quakers affirmation should not go in any suit at law for tithes;
 but after some debate, the question being put thereupon,
 was carried in the negative by fifty-two voices against twenty-one;
-and the question being put in the house, whether the bill should`' pass,
+and the question being put in the house, whether the bill should pass,
 it was resolved in the affirmative.
 
 By this bill the affirmation was established in this simple form, "`I, A.B. do solemnly,
@@ -498,6 +515,9 @@ who turneth the hearts of Kings and Princes; and next,
 to the king and his ministers for their particular favour,
 as expressed in the epistle from their next yearly meeting 1722, as follows:
 
+[.embedded-content-document.epistle]
+--
+
 We acknowledge the goodness of God, in disposing the legislature to grant us,
 the last session of parliament, such form of affirmation, as, by accounts received,
 we find very satisfactory to all the brethren; for which we are truly thankful to God,
@@ -511,12 +531,17 @@ Which good advice this meeting recommends with the greatest eagerness,
 that there be no other than an honest and conscientious
 use made of this farther indulgence granted us.
 
+--
+
 Of the Epistle referred to in the foregoing paragraph, this is a copy:
 
-An Epistle of caution to friends in general,
-Epistle of relating to the solemn affirmation,
-from a meeting held in London the 2nd of the first month, January, 1721-2.
+[.embedded-content-document.epistle]
+--
 
+[.blurb]
+=== An Epistle of caution to friends in general, Epistle of relating to the solemn affirmation, from a meeting held in London the 2nd of the first month, January, 1721-2.
+
+[.salutation]
 Dear Friends and Brethren,
 
 This meeting, under a weighty sense of the great favour,
@@ -663,7 +688,10 @@ footnote:[Heb. 6:9]
 
 Signed in and on behalf of the said meeting by
 
+[.signed-section-signature]
 Bemjamin Bealing.
+
+--
 
 By an act, 22 Geo.
 II. 1749, the affirmation was made perpetual, and to operate in all cases,
@@ -672,8 +700,8 @@ an oath is required,
 although no particular or express mention be made for that purpose in such act or acts,
 with the same force as an oath, except in criminal cases, to serve on juries,
 or to bear any office or place of profit in the government.^
-footnote:[In an act, entitled an act for continuing several laws,
-and for allowing the Quakers to make affirmation, etc. is the following clause;
+footnote:[In an act, entitled _An Act for Continuing Several Laws,
+and for Allowing the Quakers to Make Affirmation, Etc._ is the following clause;
 And whereas a doubt has arisen whether the solemn
 affirmation or declaration of the people called Quakers,
 prescribed by an act made in the eighth year of the
@@ -933,10 +961,10 @@ light to be eclipsed through transgression.
 About the year 1687, the 15th of his incumbency at Peopleton,
 through the operation of divine grace upon his spirit,
 he was brought to a serious consideration of his ways,
-and a clearer sight of the state of his foul, what it was, and what it ought to be;
+and a clearer sight of the state of his soul, what it was, and what it ought to be;
 under which view sin was manifested to be exceeding sinful,
-and his foul was sorely afflicted under the sense and burden of it.
-Under the weight of that god ly sorrow, which leads to repentance not to be repented of,
+and his soul was sorely afflicted under the sense and burden of it.
+Under the weight of that godly sorrow, which leads to repentance not to be repented of,
 seeking rest and finding none,
 he took a journey to London in the month called April 1689,
 hoping to receive consolation and instruction from the ministry
@@ -1251,6 +1279,9 @@ numerous company of his friends and acquaintance.
 The friends of said meeting, amongst whom he spent the last years of his life,
 have given testimony concerning him, that
 
+[.embedded-content-document.testimony]
+--
+
 His ministry was sound and edifying, pressing all to purity and holiness of life.
 His care and concern For the church was great,
 that it might be kept clean from the spots of the world.
@@ -1276,6 +1307,8 @@ being a practical observer of the pure and undefiled religion,
 recommended by the apostle James, to visit the fatherless and widows in their affliction,
 and to keep himself unspotted from the world.
 
+--
+
 Some friends of New England having been appointed
 to assess the taxes on their respective townships,
 and being conscientiously scrupulous of assessing those
@@ -1284,17 +1317,19 @@ and applications for their relief having been ineffectually
 made to the government of that province,
 gave occasion to the following petition to the government at home.
 
-A petition to the King in the cause of some friends under sufferings in New England.
+[.embedded-content-document.letter]
+--
 
+[.blurb]
+=== A petition to the King in the cause of some friends under sufferings in New England.
+
+[.letter-heading]
 To George, king of Great Britain, etc.
 
-The humble petition of Thomas Richardson and Richard Partridge,
-on behalf of Joseph Anthony, John Sisson, John Akin and Philip Tabor,
-prisoners in the common jail at New Bristol in the
-King`'s Province of Massachusets Bay in New England,
-as also of their friends (called Quakers) in general,
-who are frequently under great sufferings for conscience-sake in that government.
+[.blurb]
+=== The humble petition of Thomas Richardson and Richard Partridge, on behalf of Joseph Anthony, John Sisson, John Akin and Philip Tabor, prisoners in the common jail at New Bristol in the King`'s Province of Massachusets Bay in New England, as also of their friends (called Quakers) in general, who are frequently under great sufferings for conscience-sake in that government.
 
+[.salutation]
 Showeth,
 
 That William and Mary, late king and queen of England,
@@ -1428,42 +1463,20 @@ until their case be brought to an issue.
 
 And the petitioners shall pray.
 
+[.signed-section-context-close]
 At a Court at St. James`'s, the 2nd day of June 1724,
 
-Present,
+[.old-style]
+=== Present
 
-The King`'s Most Excellent Majesty.
-
-His Royal Highness the Prince of Wales.
-"`
-
-Archbishop of Canterbury.
-
-Lord Chancellor.
-
-Lord President.
-
-Lord Privy Seal.
-
-Lord Carteret.
-
-Mr. Vice Chamberlain.
-
-William Pultney, Esq.
-
-Lord Chamberlain.
-
-Duke of Roxburgh.
-
-Duke of Newcastle.
-
-Earl of Westmoreland.
-
-Lord Viscount Townsend.
-
-Lord Viscount Torrington.
-
-Mr. Speaker of the House of Commons.
+The King`'s Most Excellent Majesty,
+His Royal Highness the Prince of Wales,
+Archbishop of Canterbury, Lord Chancellor,
+Lord President, Lord Privy Seal,
+Lord Carteret, Mr. Vice Chamberlain,
+William Pultney, Esq., Lord Chamberlain,
+Duke of Roxburgh, Duke of Newcastle, Earl of Westmoreland,
+Lord Viscount Townsend, Lord Viscount Torrington, Mr. Speaker of the House of Commons
 
 Upon reading this day at the board,
 a report from the Right Honorable the Lords of the committee of council,
@@ -1494,9 +1507,13 @@ said province of Massachusetts Bay,
 and all others whom it may concern, are to take notice of,
 and yield obedience thereunto.
 
+[.signed-section-signature]
 Temple Stanyan
 
+[.postscript]
 Vera Copia.
+
+--
 
 In the year 1720 Christopher Story departed this life.
 He was a native of Cumberland, being born at Righead,
