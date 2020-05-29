@@ -255,8 +255,7 @@ The next was a petition to parliament as followeth:
 --
 
 [.blurb]
-The humble petition of the People called Quakers,
-on behalf of such of their friends who scruple the present form of affirmation,
+=== The humble petition of the People called Quakers, on behalf of such of their friends who scruple the present form of affirmation,
 
 [.salutation]
 Showeth,
@@ -401,6 +400,7 @@ which was presented by the Archbishop of York, and was as follows:
 [.letter-heading]
 To the right honourable the Lords Spiritual and Temporal in Parliament assembled.
 
+[.centered.emphasized]
 The humble petition^
 footnote:[That this petition was looked upon in an unfavourable light,
 and as procured to serve a purpose, by many of the peers,
@@ -484,7 +484,7 @@ themselves to your lordships great wisdom,
 may induce your lordships not to give your consent
 to the passing of this bill into a law,
 
-[.signed-section-context-close]
+[.signed-section-closing]
 And your petitioners shall ever pray, etc.
 
 --
