@@ -131,8 +131,7 @@ they also presented a petition and the annexed case to the parliament then sitti
 [.embedded-content-document.address]
 --
 
-[.letter-heading]
-Case of the The Case of the People called Quakers.
+=== Case of the The Case of the People called Quakers.
 
 In the seventh and eighth years of the reign of king William the third,
 an act was passed for the more easy recovery of small tithes, offerings, oblations,
@@ -310,7 +309,7 @@ as administer just occasion of offence and reproach,
 and are in their own natures indisputably wrong.
 
 In an anonymous piece published about this time, under the title of,
-[.book-title]#A Modest Defence of the Opposition Lately Given to the Quaker`'s Bill,
+[.book-title]#A Modest Defence of the Opposition Lately Given to the Quaker`'s Bill,#
 I find a gross misrepresentation of fact,
 either for want of being acquainted with the true state of the fact; or knowingly,
 in which latter case the writer is inexcusable, he saith,
