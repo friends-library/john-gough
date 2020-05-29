@@ -1,8 +1,13 @@
 == Chapter IX. Ireland.
 
-Account of John Dobbs.--John Ashton.--Qeorge Rooke.--Affirmation-act
-made perpetual.--Address to the King.--Account of Mungo Bewly.
---Mary Peisley.
+[.chapter-synopsis]
+* Account of John Dobbs
+* John Ashton
+* George Rooke
+* Affirmation act made perpetual
+* Address to the King
+* Account of Mungo Bewly
+* Mary Peisley
 
 In the year 1739, and the 80th of his age, died John Dobbs of Youghall,
 in the county of Cork, who although not engaged in the work of the ministry;
@@ -264,10 +269,14 @@ friends drew up an address to the king signifying their
 fidelity and good affection to his person and government,
 which was as follows.
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To George II. King of Great Britain and the Dominions thereunto belonging.
 
-The humble Address of his Protestant subjects, the People called Quakers,
-in the kingdom of Ireland,
+[.blurb]
+=== The humble Address of his Protestant subjects, the People called Quakers, in the kingdom of Ireland.
 
 We thy dutiful and peaceable subjects,
 with hearts truly sensible of the many blessings and privileges
@@ -301,8 +310,11 @@ and grant thee a long and prosperous reign over us.
 May the British throne be always filled with one of thy royal offspring,
 to transmit the blessings we enjoy to future ages.
 
+[.signed-section-context-close]
 Signed in Dublin, in behalf of the said people, the 31st of the first month,
 called March, 1744.
+
+--
 
 The act of parliament for granting friends an affirmation in all, except criminal cases,
 and for qualifying for places under the government, and serving on juries,
