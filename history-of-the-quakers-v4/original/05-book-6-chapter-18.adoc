@@ -386,12 +386,10 @@ at which disappointment the judge was greatly incensed,
 and treated the grand jury with indecent asperity,
 addressing them in this passionate language:
 
-[.small-break]
-'''
-
-"`Gentlemen, surely you have forgot your oaths,
+[.discourse-part]
+Gentlemen, surely you have forgot your oaths,
 and for so doing I could give you some hard names, but at present shall forbear.
-Is this your verdict against the Quaker?`"
+Is this your verdict against the Quaker?
 
 [.discourse-part]
 _Foreman._
