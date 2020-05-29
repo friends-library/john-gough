@@ -107,7 +107,7 @@ and to which the following answer was returned.
 [quote]
 ____
 I thank you for this address of congratulation,
-the just concern you have shown there in for hie and my family is very agreeable to me;
+the just concern you have shown there in for me and my family is very agreeable to me;
 and you may always depend on my protection.
 ____
 
@@ -225,7 +225,7 @@ and further alleged,
 [.embedded-content-document.letter]
 --
 
-that she had no intention of disturbing the public worship;
+&hellip;that she had no intention of disturbing the public worship;
 but acted on a motive purely conscientious,
 being ignorant of the breach of any law therein--that
 she had always behaved herself peaceably and honestly,

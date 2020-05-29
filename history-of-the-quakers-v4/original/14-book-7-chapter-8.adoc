@@ -327,8 +327,8 @@ And that you may the more clearly discern the importance of that christian testi
 borne by our predecessors in this case,
 we recommend what follows to your serious consideration, viz.
 
-A brief Account of the Origin of the Names of some Months of the Year,
-and of all the Days of the week, now customarily and commonly used.
+[.blurb]
+=== A brief Account of the Origin of the Names of some Months of the Year, and of all the Days of the week, now customarily and commonly used.
 
 [.numbered]
 I+++.+++ January was so called from Janus, an ancient king of Italy,
@@ -1779,8 +1779,9 @@ from London and elsewhere went to visit him,
 which he took very kindly,
 and to one of them he expressed himself in the following manner,
 
-[quote]
-____
+[.embedded-content-document.testimony]
+--
+
 I never coveted riches nor power; and indeed if I had obtained them, what could they,
 or all the friendships of the world do for me now?
 Nothing but the testimony of a pure conscience and the inward sense of divine favour,
@@ -1811,7 +1812,8 @@ whose conscience accuse them with having enriched
 themselves by oppressing the poor and helpless;
 and when in an unprepared state, after a life of rebellion and hardened in iniquity,
 such must feel the terrors of a guilty mind, added to the agonies of a perishing body.
-____
+
+--
 
 A friend who went to visit him, the day before his death, asked him how he did;
 after a short pause he said, "`I am waiting for my great change; O my Father,
