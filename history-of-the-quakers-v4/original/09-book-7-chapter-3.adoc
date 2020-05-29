@@ -264,7 +264,7 @@ John Birch, Mayor,
 [.signed-section-signature]
 Robert Connell.
 
-[.postscript]
+[.signed-section-context-close]
 To the Keeper of his Majesty`'s Jail of the said City, These.
 
 --
@@ -496,7 +496,7 @@ Given under my hand and seal this 17th day of March 1716.
 [.signed-section-signature]
 John Birch, Mayor.
 
-[.postscript]
+[.signed-section-context-close]
 To the several Constables, and Officers of the said City.
 
 --

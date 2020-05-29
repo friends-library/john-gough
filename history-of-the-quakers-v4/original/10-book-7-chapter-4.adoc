@@ -497,8 +497,9 @@ his sentiments on the proper qualification for this service,
 are contained in the following remarks,
 which were found amongst his papers after his decease.
 
-[quote]
-____
+[.embedded-content-document]
+--
+
 As I was deeply exercised in my, mind about the things of the living God,
 and the holy order of the blessed gospel of the Lord Jesus, it was opened to me,
 that all concerned friends that speak in men`'s meetings;
@@ -528,4 +529,5 @@ and you will learn to know what the good and acceptable will of the Lord is,
 and if you speak in the meeting it will be to please God and for his honour,
 not your own, for you strive for honour in a carnal mind,
 and seek not the honour of the Lord, but are in great presumption.
-____
+
+--
