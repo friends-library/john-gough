@@ -1,10 +1,12 @@
 == BOOK VIII. From the beginning of the present Reign to the Year 1764. Chapter I.
 
-George III.
-succeeds to the Throne.--Address to.
-him.--Address to the Princess Dowager of Wales.
---Francis Hart is prosecuted by Mary Jerom for reading a Testimony
-of Denial.--Address on the Peace.--Account of John Goodwin.
+[.chapter-synopsis]
+* George III. succeeds to the Throne
+* Address to him
+* Address to the Princess Dowager of Wales
+* Francis Hart is prosecuted by Mary Jerom for reading a Testimony of Denial
+* Address on the Peace
+* Account of John Goodwin
 
 George II was succeeded by his grandson George III.
 our present sovereign, son to Frederick, late prince of Wales, who died in the year 1751,
@@ -13,10 +15,17 @@ Addresses to the young king, being sent up from all quarters,
 the people called Quakers in London, also drew up,
 and appointed a deputation to wait upon the king with the following address.
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To George III.
 King of Great Britain and the Dominions thereunto belonging.
-The humble Address of his Protestant Subjects the People called Quakers.
 
+[.blurb]
+=== The humble Address of his Protestant Subjects the People called Quakers.
+
+[.salutation]
 May it please the King,
 
 Deeply affected with the sudden and sorrowful event,
@@ -56,17 +65,28 @@ May sacred and unerring wisdom be thy guide, adorn thee with every virtue,
 and crown thee with every blessing;
 that future ages may commemorate the happiness of thy reign with grateful admiration.
 
+[.signed-section-context-close]
 Signed on behalf of the said people in London, the 1st of 12th month, 1760, by.
 220 friends.
 
-The Answer.
+--
 
+[.old-style]
+=== The Answer.
+
+[.quote]
+____
 This dutiful and loyal address is very acceptable to me,
 and you may depend on my protection.
+____
 
 They also presented an address to his mother, ths princess of Wales, viz.
 
-May it please the Princess Dowager of Wales.
+[.embedded-content-document.address]
+--
+
+[.salutation]
+May it please the Princess Dowager of Wales,
 
 We the people called Quakers,
 beg leave to testify our grief for the loss we have
@@ -93,7 +113,10 @@ and as examples of virtue in succeeding generations.
 
 To which she returned an answer, as nearly as can be recollected, as follows.
 
+[quote]
+____
 I am much obliged to you for your kind attention to me and my family.
+____
 
 A case occurs in this year,
 whereby the validity of the discipline of this society was brought to a legal trial,
@@ -232,11 +255,17 @@ to in a very large assembly of the aforesaid people;
 the only difficulty attending it being the choice of terms sufficiently strong,
 in which to express our duty and affection.`"
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To George III.
 King of Great Britain and the Dominions thereunto belonging.
 
+[.blurb]
 The humble Address of his Protestant Subjects the People called Quakers.
 
+[.salutation]
 May it please the King,
 
 Being met in this our annual assembly from various parts of Great Britain and Ireland,
@@ -274,11 +303,16 @@ with that wisdom, moderation and equity,
 which effectually secure to princes the cheerful obedience of their people,
 and transmit their names with deserved honour to posterity.
 
+--
+
 To which the king was pleased to return the following answer.
 
+[quote]
+____
 These repeated assurances of your affection to my person and family,
 and of your duty to my government,
-are agreeable to me and cannot fail to insure to you the continuance of my protection.`"
+are agreeable to me and cannot fail to insure to you the continuance of my protection.
+____
 
 In the year 1763, died John Goodwin of Eskyrgoch in Montgomeryshire, North Wales,
 a man of a low station in the world, yet an eminent minister of the gospel,
@@ -311,12 +345,17 @@ who received it from his own mouth.^
 footnote:[See the life of James Gough.]
 The great favours of the Lord to him, he recounted to the following purport,
 
+[.embedded-content-document.testimony]
+--
+
 When the Lord pointed out poor Wales as a field of labour for me,
 he promised that if I was faithful to him in it,
 he would be with me and favour me therein;
 and now I have in my heart a testimony for him in my old age,
 that he hath abundantly made good his promise to me, both outwardly and inwardly,
 far beyond what at that day I could have ever expected.
+
+--
 
 In his early days he lived and maintained his wife and family by the labour of his hands,
 on a farm of four pounds a year; but at length was enabled to purchase it,
@@ -350,6 +389,9 @@ being sensible and clear in his understanding to the last hour,
 he quietly departed this life, as one falling into a deep sleep, the 7th of 12th month,
 1763, aged 82 years.
 
+[.embedded-content-document.testimony]
+--
+
 The foregoing narrative of the life of this worthy elder may convey profitable
 instruction to every class of readers whether of high or low degree.^
 footnote:[Life of James Gough.]
@@ -380,3 +422,5 @@ the peace of God that passeth the understandings of men.
 The most splendid and extensive earthly possessions,
 when laid in the balance against durable possessions like these,
 are indeed as nothing and lighter than vanity.
+
+--
