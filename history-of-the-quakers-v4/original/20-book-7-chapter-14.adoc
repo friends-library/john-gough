@@ -1,15 +1,15 @@
 == Chapter XIV. Pennsylvania continued.
 
-A Proclamation published for a public Fast.--Reasons for not observing it.
---Necessity for a Reconciliation with the Indians not early enough
-attended to.--Subscription and Association for preserving Peace
-with them.--Government of Pennsylvania treat with the Indians,
-at Easton.
---Some Friends think it best to attend though discouraged by the Governor.--Trustees
-of the Friendly Association address the Governor in defence of their Conduct.--The
-Governor transmits to England a Report of a Committee,
-which casts the Blame on Friends.
---An intended Theatre prohibited by the Assembly
+[.chapter-synopsis]
+* A Proclamation published for a public Fast
+* Reasons for not observing it
+* Necessity for a Reconciliation with the Indians not early enough attended to
+* Subscription and Association for preserving Peace with them
+* Government of Pennsylvania treat with the Indians, at Easton
+* Some Friends think it best to attend though discouraged by the Governor
+* Trustees of the Friendly Association address the Governor in defence of their Conduct
+* The Governor transmits to England a Report of a Committee, which casts the Blame on Friends.
+* An intended Theatre prohibited by the Assembly
 
 In the sixth month, this year, a proclamation was published,
 appointing a day to be observed a public fast,
@@ -26,9 +26,11 @@ and in support of their christian testimony against complying with
 human in junctions in matters relative to the worship of God,
 viz.
 
-An Apology for the People called Quakers, containing some Reasons,
-for their not complying with human Injunctions and Institutions
-in Matters relative to the Worship of God.
+[.embedded-content-document]
+--
+
+[.blurb]
+=== An Apology for the People called Quakers, containing some Reasons, for their not complying with human Injunctions and Institutions in Matters relative to the Worship of God.
 
 It is well known that the province of Pennsylvania
 was first settled by a number of pious,
@@ -57,7 +59,7 @@ much upon the enjoyment of liberty of their consciences,
 as aforesaid, I do hereby solemnly declare, promise and grant for me,
 my heirs and assigns,
 that the first article of this charter relating to liberty of conscience,
-and every part and clause therein, according to the true intent and meaning thereof,
+and every part and clause therein, according to the true intent and meaning therfeof,
 shall be kept and remain without any alteration inviolably forever.`"
 
 From the first settlement of this province, till within a few years past,
@@ -108,7 +110,7 @@ to undo the heavy burdens, and to let the oppressed go free,
 and that ye break every yoke?
 Is it not to deal thy bread to the hungry,
 and that thou bring the poor that are cast out, to thy house; when thou seest the naked,
-that thou cover hirn, and that thou hide not thyself from thine own flesh,
+that thou cover him, and that thou hide not thyself from thine own flesh,
 then shalt thou call, and the Lord shall answer; thou shalt cry, and he shall say,
 here I am.`"
 From which it appears that even when public fasts were observed by divine appointment,
@@ -151,7 +153,7 @@ testimony of our forefathers is truly consistent therewith,
 as will appear on a perusal of their writings,
 and particularly those of our worthy friends William Penn and Robert Barclay.
 
-"`We cannot, in conscience to God,
+We cannot, in conscience to God,
 observe holy days (so called) the public fasts and feasts,
 because of their human institution and ordination, and that they have no divine warrant,
 but are appointed in the will of man.`"
@@ -260,10 +262,14 @@ turning to him with all our hearts and imploring his assistance, who,
 if our ways please him,
 can arise for our deliverance and cause our enemies to be at peace with us.
 
+[.signed-section-context-close]
 Signed on behalf and by appointment of our said meeting for sufferings,
 held at Philadelphia, the 29th of the 6th month, 1757, by
 
+[.signed-section-signature]
 James Pemberton, Clerk.
+
+--
 
 But although the members of this society could not
 consistently join in observing such a fast,
