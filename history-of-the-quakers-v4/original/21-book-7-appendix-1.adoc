@@ -1,19 +1,15 @@
 == Appendix to Chapter XII. XIII. XIV.
 
-CONTAINING
+[.blurb]
+=== No. I. Extract of a Letter from the Meeting for Sufferings in Philadelphia.
 
-No. I. Extract of a Letter from the Meeting for Sufferings in Philadelphia.
+[.blurb]
+=== No. II. A summary Account of the Occurrences with Governor Denny, on the Approach of the Treaty at Easton, in the seventh Month, 1757.
 
-No. II. A summary Account of the Occurrences with Governor Denny,
-on the Approach of the Treaty at Easton, in the seventh Month, 1757.
+[.blurb]
+=== No. III. Abstract from the Report of the Committee of Council, appointed to inquire into the Complaints of the Indians at the Treaty at Easton, 8th of November, 1756.
 
-No. III.
-Abstract from the Report of the Committee of Council,
-appointed to inquire into the Complaints of the Indians at the Treaty at Easton,
-8th of November, 1756.
-
-No. I. Extract of a Letter to the Meeting for Sufferings in London,
-from the Meeting for Sufferings in Philadelphia--Twelfth Month, 1756.
+=== No. I. Extract of a Letter to the Meeting for Sufferings in London, from the Meeting for Sufferings in Philadelphia--Twelfth Month, 1756.
 
 Our friends John Hunt and C. Wilson by their long passage being
 prevented of seeing friends together at our yearly meeting,
