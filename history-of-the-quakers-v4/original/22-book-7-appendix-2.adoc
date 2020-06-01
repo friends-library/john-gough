@@ -1,17 +1,14 @@
 == Appendix No. II.
 
-A summary Account of the Occurrences with Governor
-Denny on the Approach of the Treaty at Easton,
-in the 7th Month, 1757.
+=== A summary Account of the Occurrences with Governor Denny on the Approach of the Treaty at Easton, in the 7th Month, 1757.
 
 Although the governor at the preceding treaty held at Easton,
 had delivered to the Indians the presents provided for them by the people called
 Quakers (as his predecessor had done on their behalf and in their name) and expressed
 his satisfaction with the conduct and company of thole who attended that treaty,
 he now pleaded "`That the proprietaries had directed him not to suffer them,
-or any other body, or particular society in Pennsylvania, to concern
-
-themselves in any treaty with the Indians,
+or any other body,
+or particular society in Pennsylvania, to concern themselves in any treaty with the Indians,
 or on any pretence to suffer presents from such persons to be given to the Indians,
 or to be joined with the public present in any such treaty.`" And he further says;
 "`These directions I shall conform to,
@@ -23,12 +20,17 @@ having given great offence to the ministry.`"
 Which answer occasioned the address of the trustees and treasurer of the friendly association,
 as follows.
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To William Denny, Esq.
 Lieutenant Governor and Commander in Chief of the Province of Pennsylvania, etc.
 
-The Address of the Trustees and Treasurer of the Friendly Association,
-for regaining and preserving Peace with the Indians by Pacific Measures.
+[.blurb]
+=== The Address of the Trustees and Treasurer of the Friendly Association, for regaining and preserving Peace with the Indians by Pacific Measures.
 
+[.salutation]
 Respectfully showeth,
 
 That on consideration of the answer given by the governor to our offer
@@ -120,7 +122,7 @@ though a much larger part of their estates should be necessary
 than the heaviest taxes of a war could be expected to require,
 by voluntarily grants cheerfully to contribute towards the obtaining peace in the same
 manner as the unhappy experience of several of the most martial neighbouring colonies,
-had after long and bloody wars, testified it must at last, if ever, be obtained.`"
+had after long and bloody wars, testified it must at last, if ever, be obtained.
 
 Governor Morris was pleased to give a civil answer to this address;
 but thought it necessary to proceed immediately to a declaration of war:
@@ -451,9 +453,13 @@ denominations we hold more dear to us, than any other titles or appellations wha
 
 Signed on behalf and by appointment of the said trustees and treasurer, by
 
+[.signed-section-signature]
 Abel James, Clerk.
 
+[.signed-section-context-close]
 Philadelphia, 14th of seventh month, 1757
+
+--
 
 The next day after the delivery of the foregoing address to the governor,
 the same committee who presented it,
@@ -463,10 +469,15 @@ whether he had any objections to their also printing
 his answer to their first verbal application to him;
 about three hours after, he sent them the two following answers.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Philadelphia, 15th July, 1757, 12 o`'clock.
 
 (Copy)
 
+[.salutation]
 Gentlemen,
 
 As you know I am desired and most strictly enjoined not to suffer any
@@ -478,14 +489,23 @@ you would do well to decline appearing at the ensuing treaty in a body;
 your attendance at treaties as a distinct society,
 having given great offence to the ministry.
 
+[.signed-section-signature]
 William Denny.
 
+[.signed-section-context-close]
 Philadelphia, 15th July, 1757, 2 o`'Clock
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Mr. Israel Pemberton, and the other Gentlemen.
 
 (Copy)
 
+[.salutation]
 Gentlemen,
 
 Your address, in some parts of it,
@@ -501,12 +521,20 @@ and obstruct the business of the ensuing treaty at Easton,
 where the complaints made by them will be fully and impartially heard,
 and I hope finally accommodated.
 
-William Denny
+[.signed-section-signature]
+William Denny.
 
+[.signed-section-context-close]
 To Mr. Israel Pemberton, and the other Gentlemen.
+
+--
 
 On consideration of which they sent him the following address.
 
+[.embedded-content-document.address]
+--
+
+[.salutation]
 May it please the governor,
 
 Nothing less than a regard to the public interest would engage
@@ -540,6 +568,10 @@ Signed by appointment,
 and on behalf of the trustees and treasurer of the friendly association----for
 regaining and preserving peace with the Indians by pacific measures.
 
+[.signed-section-signature]
 Abel James, Clerk.
 
+[.signed-section-context-close]
 15th of 7th month, 1757
+
+--

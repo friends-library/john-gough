@@ -1,8 +1,6 @@
 == Appendix, No. III.
 
-Abstract from the Report of the Committee of Council,
-appointed to inquire into the Complaints of the Indians at the Treaty at Easton,
-the 8th of November, 1756.
+=== Abstract from the Report of the Committee of Council, appointed to inquire into the Complaints of the Indians at the Treaty at Easton, the 8th of November, 1756.
 
 To William Denny, Esq.
 Lieutenant Governor, etc. of the Province of Pennsylvania, and Counties of New-Castle,
@@ -47,8 +45,8 @@ to ingratiate themselves with the Indians,
 and for Teedyuscung`'s choosing to offer these imaginary reasons for his quarrel with us,
 rather than the true one.
 
-We are, Sir
+[.signed-section-closing]
+We are, Sir, your most humble Servants,
 
-Your most humble Servants,
-
+[.signed-section-signature]
 Lynford Lardner, etc.
