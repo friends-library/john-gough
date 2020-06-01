@@ -1,11 +1,16 @@
 == Chapter VIII.
 
-Treaty of Aix-Ia-Chapelle.--The Quakers (so called) send R. Barclay`'s Apology
-to each of the Plenipotentiaries.--Letter to the Ambassadors.--- Account of Benjamin
-Kidd.--Alteration of the Style.--Paper of Advice thereupon.--Account of John
-Richardson and Samuel Bownas.---Cafe of Daniel Hollis,
-who died a Prisoner.--Account of Peter Andrews and
-Abraham Farrington.-- Death of King George II.
+[.chapter-synopsis]
+* Treaty of Aix-Ia-Chapelle
+* The Quakers (so called) send R. Barclay`'s Apology to each of the Plenipotentiaries
+* Letter to the Ambassadors
+* Account of Benjamin Kidd
+* Alteration of the Style
+* Paper of Advice thereupon
+* Account of John Richardson and Samuel Bownas
+* Case of Daniel Hollis, who died a Prisoner
+* Account of Peter Andrews and Abraham Farrington
+* Death of King George II.
 
 The war which had begun between England and Spain in 1739, still continued;
 and in the intermediate time,
@@ -32,9 +37,11 @@ In the mean time it was thought expedient to prepare an epistle by way of introd
 as to reasons for presenting the apology, which being drawn up and approved,
 was printed in English and Latin, and is as followeth.
 
-To the Ambassadors of the Christian Princes and States,
-met to conclude a general Peace at Aix-la-Chapelle,
-the People called Quakers wish Health and Happiness.
+[.embedded-content-document.epistle]
+--
+
+[.blurb]
+=== To the Ambassadors of the Christian Princes and States, met to conclude a general Peace at Aix-la-Chapelle, the People called Quakers wish Health and Happiness.
 
 Near a century ago it pleased the Almighty to raise up a people in this kingdom,
 to publish among other gospel truths,
@@ -78,7 +85,10 @@ and through them to the whole world.
 Signed in London on behalf of the aforesaid people, the 13th of 6th month called August,
 1748.
 
+[.signed-section-signature]
 Joseph Ollive, Jacob Hagen, Simeon Warner, John Hayward, David Barclay, Thomas Hyam.
+
+--
 
 A suitable number of the apologies, in different languages,
 being sent over to Jan Vander Werf, and duly received by him,
@@ -176,7 +186,7 @@ and when the said friend took his leave of him,
 he expressed himself to him in an affectionate manner
 to his great comfort and encouragement.
 
-At another time, having delivered some excelent exhortations to those present with him;
+At another time, having delivered some excellent exhortations to those present with him;
 he added for their encouragement to persevere in their christian progress,
 "`I am under no fear, nor doubtful apprehensions;
 for I know that for me to live is Christ, and to die is gain.`"
@@ -215,9 +225,14 @@ and the day after the 2nd of September, be called the 14th.
 In conformity to this alteration the meeting for sufferings in London drew up,
 and circulated to friends the following directions and advice.
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 An Epistle to the Quarterly and Monthly Meetings of Friends, in Great Britain,
 Ireland and America.
 
+[.salutation]
 Dear Friends,
 
 Pursuant to the directions of the last yearly meeting, and the report of a committee,
@@ -238,6 +253,7 @@ shall be reckoned, taken, deemed and accounted to be the first day of the year,
 and that each new year, shall accordingly commence and begin to be reckoned,
 from the first day of every such month of January.`"
 
+[.numbered]
 2+++.+++ The opinion of the said committee, agreed to by the yearly meeting, was,
 that in all the records and writings of friends,
 from and after the last day of the 10th month, called December, next,
@@ -253,6 +269,7 @@ and Sixth July ttiled the Seventh August Eighth September Ninth October
 Tenth November Eleventh December 7vjelfth Month of the neit,
 and trerj succeed ing Year.
 
+[.numbered]
 3+++.+++ And whereas for the more regular computation of time,
 the same act of parliament doth direct, that,
 "`The natural day next immediately following the second day of September,
@@ -310,35 +327,43 @@ And that you may the more clearly discern the importance of that christian testi
 borne by our predecessors in this case,
 we recommend what follows to your serious consideration, viz.
 
-A brief Account of the Origin of the Names of some Months of the Year,
-and of all the Days of the week, now customarily and commonly used.
+[.blurb]
+=== A brief Account of the Origin of the Names of some Months of the Year, and of all the Days of the week, now customarily and commonly used.
 
+[.numbered]
 I+++.+++ January was so called from Janus, an ancient king of Italy,
 whom heathenish superstition had deified, to whom a temple was built,
 and this month dedicated.
 
+[.numbered]
 II. February was so called from Februa, a word denoting purgation by sacrifices;
 it being usual in this month, for the priests of the heathen god Pan,
 to offer sacrifices and perform certain rites, conducing, as was supposed,
 to the cleansing or purgation of the people.
 
+[.numbered]
 III.
 March was so denominated from Mars, feigned to be the god of war, whom Romulus,
 founder of the Roman empire, pretended to be his father.
 
+[.numbered]
 IV. April is generally supposed to derive its name from the Greek appellation of Venus,
 an imaginary goddess worshipped by the Romans.
 
+[.numbered]
 V+++.+++ May is said to have been so called from Maia, the mother of Mercury,
 another of their pretended Ethnic deities,
 to whom in this month they paid their devotions.
 
+[.numbered]
 VI. June is said to take its name from Juno, one of the supposed goddesses of the heathen.
 
+[.numbered]
 VII.
 July so called from Julius Caesar, one of the Roman emperors,
 who gave his own name to this month, which before was called Quintilis, or the fifth.
 
+[.numbered]
 VIII.
 August so named in honour of Augustus Caesar, another of the Roman emperors.
 This month was before called Sextilis or the Sixth.
@@ -416,7 +441,10 @@ and so shall we follow the example of our worthy elders,
 and come up in a noble and honourable testimony against these,
 and all other remains of idolatry and superstition.
 
+[.signed-section-context-close]
 From the meeting for sufferings in London, the 6th day of the 7th month, 1751.
+
+--
 
 It is to be especially noted,
 that the dates hitherto used have been conformed to the old style,
@@ -785,7 +813,9 @@ An instance whereof, accompanied with sensible and edifying reflections,
 I think not impertinent to introduce here from his journal,
 in hopes it may engage the attention of some readers to profit thereby.
 
-In our imminent danger (saith he) I looked over my tender friends,
+[quote]
+____
+In our imminent danger +++[+++saith he+++]+++ I looked over my tender friends,
 and thought in my heart, what a pity it would be,
 if all these were drowned! yet the thought of my own drowning never entered my mind,
 until I was got over the river, which was a mercy to me,
@@ -798,7 +828,8 @@ I reflected that it is an excellent thing to be, as much as we can, always ready
 and by frequent ruminating upon death, to live so as to be fit to die,
 that it may not cause so much surprise and consternation when it doth come:
 this is a great point of true wisdom, so to number our days,
-as to consider our latter end.`"
+as to consider our latter end.
+____
 
 Whilst he remained at home,
 he was exemplary in the diligent attendance of the meeting to which he belonged,
@@ -1201,6 +1232,9 @@ and the matter objected on behalf of the defendant should be reserved
 for the determination of the court of Common Pleas.
 Whereupon a verdict was given and the following order and case agreed upon.
 
+[.embedded-content-document.legal]
+--
+
 It is ordered by the consent of the parties their counsel and attorneys
 that the verdict now given in this cause for the defendant,
 shall stand as a security to him,
@@ -1218,12 +1252,19 @@ the postea shall remain in the hands of the associate,
 and not be returned without the order of the said court of Common Pleas,
 and that order shall be made a rule of his majesty`'s court of Common Pleas.
 
+[.signed-section-closing]
 By the court,
 
+[.signed-section-signature]
 Rash, Associate.
 
-In pursuance of this order the following cafe was
+--
+
+In pursuance of this order the following case was
 stated and agreed by counsel on both sides.
+
+[.embedded-content-document.legal]
+--
 
 That within the parish of Swasham, there is and for all the time whereof,
 the memory of man is not to the contrary,
@@ -1243,7 +1284,13 @@ nor did the plaintiff or his said wife any of the offices of the church.
 On the whole whereof it was submitted to the court whether the defendant
 is entitled to a writ of consultation on this case or not.
 
-Signed, Edward Leeds for the plaintiff, H. Partridge for the defendant.
+[.signed-section-closing]
+Signed,
+
+[.signed-section-signature]
+Edward Leeds for the plaintiff, H. Partridge for the defendant.
+
+--
 
 N.B. Sergeant Prime refused to sign the cause on behalf of the defendant,
 because he disapproved it, thinking it much to his client`'s prejudice.
@@ -1261,13 +1308,19 @@ occasioned by the indisposition or absence of one or other of the judges,
 but on the sixteenth of the 9th month, 1747,
 at the court of Common Pleas all the four judges being present, viz.
 
+[.small-break]
+'''
+
 Sir John Willis
 
 Sir Thomas Abney
 
 Sir Thomas Burnett
 
-Sir Thomas Burch,
+Sir Thomas Burch
+
+[.small-break]
+'''
 
 This affair came on with sergeant Leeds argument on behalf of the plaintiff Fuller;
 began with a recital of the previous proceedings,
@@ -1724,7 +1777,10 @@ O grave where is thy victory?
 but thanks be to God who giveth us the victory.`" Many friends
 from London and elsewhere went to visit him,
 which he took very kindly,
-and to one of them he expressed him self in the following manner,
+and to one of them he expressed himself in the following manner,
+
+[.embedded-content-document.testimony]
+--
 
 I never coveted riches nor power; and indeed if I had obtained them, what could they,
 or all the friendships of the world do for me now?
@@ -1756,6 +1812,8 @@ whose conscience accuse them with having enriched
 themselves by oppressing the poor and helpless;
 and when in an unprepared state, after a life of rebellion and hardened in iniquity,
 such must feel the terrors of a guilty mind, added to the agonies of a perishing body.
+
+--
 
 A friend who went to visit him, the day before his death, asked him how he did;
 after a short pause he said, "`I am waiting for my great change; O my Father,
