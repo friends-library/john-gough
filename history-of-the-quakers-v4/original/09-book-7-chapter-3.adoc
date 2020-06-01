@@ -1,11 +1,13 @@
 == Chapter III. Ireland.
 
-Visit of Benjamin Holme and John Burton.
---John Burton returns home.
---Benjamin visits Londonderry and several other Places,
-where there are no Meetings of Friends,--Is imprisoned at Long ford.--Address
-to Government on Occasion of the Rebellion.--Thomas Story visits Ireland.--At
-Kilkenny is persecuted by the Bishop of Ossory.
+[.chapter-synopsis]
+* Visit of Benjamin Holme and John Burton
+* John Burton returns home
+* Benjamin visits Londonderry and several other Places, where there are no Meetings of Friends
+* Is imprisoned at Long ford
+* Address to Government on Occasion of the Rebellion
+* Thomas Story visits Ireland
+* At Kilkenny is persecuted by the Bishop of Ossory
 
 Benjamin Holme, a friend of Yorkshire, a man of ancient simplicity,
 who resigning all worldly concerns and cares,
@@ -107,12 +109,17 @@ the friends in Ireland thought it requisite at this
 time to testify their affection to the government,
 which was done by the following address to the Lords justices.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Charles Duke of Grafton, and Henry Earl of Galway, lords justices,
 and chief governors of Ireland.
 
-The humble address of the people called Quakers,
-from their national half-year`'s meeting held in Dublin the 10th of the ninth month, 1715:
+[.blurb]
+=== The humble address of the people called Quakers, from their national half-year`'s meeting held in Dublin the 10th of the ninth month, 1715:
 
+[.salutation]
 May it please the Lords Justices,
 
 The many and great privileges continued unto us under
@@ -145,6 +152,8 @@ We sincerely pray to Almighty God, that he may endue your hearts with,
 divine wisdom so to govern, that virtue and piety may be encouraged,
 and the contrary restrained, that so his blessing may attend you here in this life,
 and eternal happiness in that to come.
+
+--
 
 Thomas Wilson and several others by appointment of the national
 meeting came over to the yearly meeting of London as usual,
@@ -236,9 +245,11 @@ They again required sureties tor his appearance at the assizes,
 and for his good behaviour,
 and upon his refusal committed him to jail with the following mittimus.
 
-City of Kilkenny, ss.
-By John Birch, Esq; Mayor of the said City, and Robert Connell, Esq;
-one of his Majesty`'s justices of the Peace for the said City.
+[.embedded-content-document.legal]
+--
+
+[.blurb]
+=== City of Kilkenny, ss. By John Birch, Esq; Mayor of the said City, and Robert Connell, Esq; one of his Majesty`'s justices of the Peace for the said City.
 
 We herewith send you the body of Thomas Story,
 he unlawfully assembling himself with several other persons,
@@ -247,11 +258,16 @@ and for his good behaviour, and him to keep, till thence discharged by the cours
 and for so doing this shall be your Warrant.
 Given under our hands and seals this 28th day of February, 1716.
 
+[.signed-section-signature]
 John Birch, Mayor,
 
+[.signed-section-signature]
 Robert Connell.
 
+[.signed-section-context-close]
 To the Keeper of his Majesty`'s Jail of the said City, These.
+
+--
 
 By this mittimus he was sent to the town jail,
 and put into the common ward among thieves, in irons;
@@ -457,11 +473,11 @@ This error being detected,
 it was concluded that the mayor should issue his warrant and mittimus,
 which he did accordingly as followeth:
 
-"`City of Kilkenny, ss.
+[.embedded-content-document.legal]
+--
 
-By John Birch, Esq;
-
-Mayor of the said City.
+[.blurb]
+=== City of Kilkenny, ss. By John Birch, Esq; Mayor of the said City.
 
 Whereas I received a Certificate,
 under the hand and seal of the Right Reverend Father in God Thomas Lord Bishop of Ossory,
@@ -477,9 +493,13 @@ there to remain for the space of three months, without bail or mainprize;
 whereof fail not at your peril, and for your so doing this shall be your Warrant.
 Given under my hand and seal this 17th day of March 1716.
 
+[.signed-section-signature]
 John Birch, Mayor.
 
+[.signed-section-context-close]
 To the several Constables, and Officers of the said City.
+
+--
 
 This warrant was served upon him in the evening of the same day at the sheriff`'s;
 but the sheriff declared he should not leave his house that night,
