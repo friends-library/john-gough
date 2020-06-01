@@ -1466,17 +1466,43 @@ And the petitioners shall pray.
 [.signed-section-context-close]
 At a Court at St. James`'s, the 2nd day of June 1724,
 
-[.old-style]
-=== Present
+[.no-indent.emphasized]
+Present:
 
 The King`'s Most Excellent Majesty,
+
 His Royal Highness the Prince of Wales,
-Archbishop of Canterbury, Lord Chancellor,
-Lord President, Lord Privy Seal,
-Lord Carteret, Mr. Vice Chamberlain,
-William Pultney, Esq., Lord Chamberlain,
-Duke of Roxburgh, Duke of Newcastle, Earl of Westmoreland,
-Lord Viscount Townsend, Lord Viscount Torrington, Mr. Speaker of the House of Commons
+
+Archbishop of Canterbury,
+
+Lord Chancellor,
+
+Lord President,
+
+Lord Privy Seal,
+
+Lord Carteret,
+
+Mr. Vice Chamberlain,
+
+William Pultney, Esq.,
+
+Lord Chamberlain,
+
+Duke of Roxburgh,
+
+Duke of Newcastle,
+
+Earl of Westmoreland,
+
+Lord Viscount Townsend,
+
+Lord Viscount Torrington,
+
+Mr. Speaker of the House of Commons
+
+[.small-break]
+'''
 
 Upon reading this day at the board,
 a report from the Right Honorable the Lords of the committee of council,
