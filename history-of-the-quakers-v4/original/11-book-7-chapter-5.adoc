@@ -1,15 +1,20 @@
 == Chapter V.
 
-George II. Accession to the Throne.--Friends address the King on the Occasion.--This
-Society still exposed to heavy Sufferings for Ecclesiastical Demands.--Lift of
-enormous Sufferings of the People called Quakers presented to the House of Commons,
-which is strongly opposed by the Clergy.
---Remarks upon two Pamphlets written against it.--Extracts from the Country Parson`'s
-Plea and the Answer thereto.---Petitions sent up against the Bill.
---Is passed in the House of Commons and sent up to the Lords.
---After a long Debate is lost in the House of Lords.--Address of Thanks to the Bishops
-of London and Salisbury.--Remark thereupon.--Defence of the Opposition thereto.
---Remarks thereupon.
+[.chapter-synopsis]
+* George II. Accession to the Throne
+* Friends address the King on the Occasion
+* This Society still exposed to heavy Sufferings for Ecclesiastical Demands
+* List of enormous Sufferings of the People called Quakers presented to the House of Commons
+* Strongly opposed by the Clergy
+* Remarks upon two Pamphlets written against it
+* Extracts from the Country Parson`'s Plea and the Answer thereto
+* Petitions sent up against the Bill
+* Is passed in the House of Commons and sent up to the Lords
+* After a long Debate is lost in the House of Lords
+* Address of Thanks to the Bishops of London and Salisbury
+* Remark thereupon
+* Defence of the Opposition thereto
+* Remarks thereupon
 
 When the account of the late king`'s death was received,
 his son George the second succeeded to the government of the British dominions.
@@ -70,13 +75,12 @@ some of whom continued prisoners to the time of their death, some ten years, oth
 whereby several families have been reduced to the necessity
 of being supported by the charity of their friends.
 
-Sums demanded and value taken
+[.old-style]
+=== Sums demanded and value taken From 1704 to 1722:
 
-From 1704 to 1722:
+James Haviland: demanded: 8£. -- taken: 61£.
 
-James Haviland ---- demanded: 8£. -- taken: 61£.
-
-Thomas Strong ---- demanded 1£. 10s. 6d. -- taken: 15£. 11s. 6d.
+Thomas Strong: demanded 1£. 10s. 6d. -- taken: 15£. 11s. 6d.
 
 Richard Case ---- demanded: 13s. -- taken: 37£. 11s. 6d. By sequestration
 
@@ -124,7 +128,10 @@ N+++.+++ B. These accounts appear to be drawn up about the year 1728.
 In the year 1736,
 they also presented a petition and the annexed case to the parliament then sitting.
 
-Case of the The Case of the People called Quakers.
+[.embedded-content-document.address]
+--
+
+=== Case of the The Case of the People called Quakers.
 
 In the seventh and eighth years of the reign of king William the third,
 an act was passed for the more easy recovery of small tithes, offerings, oblations,
@@ -173,6 +180,8 @@ frequently attended with excommunications and imprisonments,
 be not grievances which call for redress,
 and whether it be not reasonable to restrain the prosecutors
 from proceedings so ruinous and destructive.
+
+--
 
 In pursuance of this petition and case, a bill for their relief,
 was brought into the house of commons, and printed;
@@ -240,7 +249,8 @@ Upon the second reading of the bill, they were heard for and against it,
 and after they had finished and were withdrawn, a motion was made for commuting the bill,
 whereupon a very long debate ensued.
 
-The motion was made by lord H----n (supposed Hinton) supported by lords Hervey and Carteret,
+The motion was made by lord H+++_______+++n
+(supposed Hinton) supported by lords Hervey and Carteret,
 the duke of Argyle and earl of Hay, and opposed by the bishop of Salisbury,
 the lord Chancellor, lords Hardwick and Lovell.
 But after the merits of the case were debated at large,
@@ -299,14 +309,16 @@ as administer just occasion of offence and reproach,
 and are in their own natures indisputably wrong.
 
 In an anonymous piece published about this time, under the title of,
-A modest defence of the opposition lately given to the Quaker`'s Bill,
+[.book-title]#A Modest Defence of the Opposition Lately Given to the Quaker`'s Bill,#
 I find a gross misrepresentation of fact,
 either for want of being acquainted with the true state of the fact; or knowingly,
 in which latter case the writer is inexcusable, he saith,
 
+[quote]
+____
 If people suffered themselves to be imposed upon by false representations
 of the clergy`'s having abused the liberty out of malice or ill-will,
-they know whom to blame.`"
+they know whom to blame.
 
 The Quakers were early challenged with out doors,
 to make good a charge so injurious to the character of the clergy,
@@ -320,19 +332,23 @@ had to guard against the specification of particulars.
 And it was astonishing to hear them plead unpreparedness,
 after they had represented those abuses in the gross,
 (to the number of one thousand) as the only foundation of their bill.
+____
 
 Now by the real state of the case it will appear that,
 
+[.numbered]
 1+++.+++ The people called Quakers made no false representation
 of the clergy`'s having abused the liberty,
 etc. in publishing a list of the grievous sufferings of their friends,
 in cases wherein Reflections they might have recovered their claims in a more easy way.
 
+[.numbered]
 2+++.+++ That when they were early challenged to make good their
 charge by assigning particular instances of such abuse;
 they answered the challenge by producing a specification of the grievances complained
 of with as much expedition as the nature of the case would admit.
 
+[.numbered]
 3+++.+++ That his information was very wrong, if he was informed,
 that the instances alleged "`were not above four or five,`"
 whereas they were more than twice as many hundred,
@@ -348,7 +364,7 @@ no instance of a tender regard to the maxims of Christianity or humanity.
 
 === 1. Grievous Prosecutions for trivial Demands.
 
-+++[+++Bedfordshire, 1707.]William Francis, of Luton, a poor shoe-maker,
++++[+++Bedfordshire, 1707.] William Francis, of Luton, a poor shoe-maker,
 was prosecuted in the ecclesiastical court, at the suit of Christopher Eaton, vicar;
 for a demand of one groat, for Easter-offerings so warmly,
 that the charges of the prosecution came to eighty pounds.
@@ -411,6 +427,9 @@ for Easter-offerings and small tithes, at the suit of John Wright vicar of Stepn
 The rates set upon Easter-offerings, and tithes claimed by the said John Wright,
 in his bill of complaint against them preferred in the Exchequer, were as followeth,
 
+[.small-break]
+'''
+
 For Easter-Offerings upon every person: 3d.
 
 A Cock -- 2d.
@@ -426,6 +445,9 @@ A Sow -- 1s. 8d.
 A Cow -- 6d.
 
 Turnips for every acre sowed in the field -- 4s.
+
+[.small-break]
+'''
 
 The said vicar also made claim upon gardens, orchards, calves, lambs, wool and milk,
 in his said bill of complaint.
@@ -480,11 +502,17 @@ They were all taken up by an attachment in November, 1721, and carried to Ailsbu
 On the 20th and 22nd of October, 1722,
 the goods of the said Abraham Barber were seized for the whole demand and charges, viz.
 
+[.small-break]
+'''
+
 7 Quarters and 4 bushels of Wheat, 11£. 0s. 0d.
 
 16 Quarters of Malt London measure, 12£. 16s. 0d.
 
 For a demand of 8s. Taken 23£. 16s. 0d.
+
+[.small-break]
+'''
 
 +++[+++1707.]
 Thomas Ellwood, Abraham Butterfield and William Catch, were prosecuted in the Exchequer,
@@ -512,6 +540,9 @@ Peasly was brought to the Exchequer again in 1717, and committed to the Fleet;
 and proceeded against to a Sequestration,
 by which was seized and taken from him in December, 1717:
 
+[.small-break]
+'''
+
 14 Cows, 6 heifers and 3 yearlings, valued at 77£. 0s. 0d.
 
 A wheat mow, a bean mow, and about 20 bushels of beans, 19£. 0s. 0d.
@@ -527,6 +558,9 @@ Three ricks of hay, 12£. 0s. 0d.
 7£. per Annum free land during his life, 70£. 0s. 0d.
 
 For about 7£. value Taken 237£. 5s. 0d.
+
+[.small-break]
+'''
 
 N+++.+++ B. The said vicar did threaten to ruin the said
 Jonathan Peasley of his stock and estate,
@@ -588,7 +622,7 @@ which were taxed at 3£. 9s. 3d.
 +++[+++Buckinghamshire, 1704.]
 John Babington was prosecuted for tithes, four years successively,
 at the suit of Ignatius Fuller, parson of Sherington: in 1704,
-in the Common Pleas for treble damages: in 1705, in the Exchequer: in 1 706,
+in the Common Pleas for treble damages: in 1705, in the Exchequer: in 1706,
 in the Ecclesiastical Court: in 1707, in the Common Pleas.
 The first of which issued in the seizure of his cattle,
 to the value of above 40£. for 7£. 16s. demanded.
@@ -767,12 +801,16 @@ and of themselves from the invidious suggestions of their enemies.
 In reply to what had been insinuated in one of these examinations,
 they allege that they have proved,
 
+[.numbered]
 1+++.+++ That 1180 persons have been prosecuted.
 
+[.numbered]
 2+++.+++ That 302 of them were committed to prison.
 
+[.numbered]
 3+++.+++ That 9 of them died prisoners.
 
+[.numbered]
 4+++.+++ That the sums sued for were frequently from 4d.
 to 5s. that in one case a poor widow and her son,
 were imprisoned eleven months on a verdict for one penny for tithe-wool.
@@ -786,7 +824,7 @@ at the suit of Thomas Sayer and William Slater, wardens, for a church-rate so ca
 The demands were on Walton, two shillings and six pence,
 Lackenby, two pence halfpenny, Dixon one farthing; on the widow Murwaite, four pence,
 and on Dalton, one farthing; they were all committed to Durham jail,
-on a writ de Excommunicado capiendo; but several of their neighbours,
+on a writ _de excommunicado capiendo;_ but several of their neighbours,
 troubled at their imprisonment for such trifles, paid the demands of the court,
 and got them discharged.
 {footnote-paragraph-split}
@@ -803,8 +841,10 @@ In any civil concern how would that man expose himself to censure and reproach,
 who would go to law for one groat or one farthing;
 suits for such sums seem peculiar to ecclesiastical demands.]
 
+[.numbered]
 5+++.+++ That a great part of those prosecutions V- were for sums not exceeding 40s.
 
+[.numbered]
 6+++.+++ That heavy costs and rigorous executions have attended those prosecutions,
 of which there are a great many instances;
 in some of which the proportion of the sums levied to the original demand,
@@ -822,6 +862,8 @@ perhaps be gathered from the following passage in
 a defence of reasons for not paying tithes,
 viz.
 
+[quote]
+____
 I think it is more than probable,
 that the discernment and moderation of the latter ages having rejected
 the principles which were the original foundation of tithes,
@@ -837,6 +879,7 @@ or even their power of inflicting penalties on those who questioned their claims
 and to exert the weight of their united influence,
 which from their character and connections is a very powerful one,
 to frustrate any such attempt.
+____
 
 By the different examinations on the part of the clergy,
 and the vindications of their brief accounts the people called
@@ -844,8 +887,11 @@ Quakers had a controversy on their hands till the year 1740,
 by which time they received the following account of a similar prosecution,
 whereby three friends were committed to York castle.
 
-The suffering cases of Richard Ward, Benjamin Burn, and William Boocock,
-on the account of refusing to pay tithes.
+[.embedded-content-document]
+--
+
+[.blurb]
+=== The suffering cases of Richard Ward, Benjamin Burn, and William Boocock, on the account of refusing to pay tithes.
 
 We the said Richard Ward and Benjamin Burn of Hillam,
 in the parish of Monk-Fryston in the county of York, and William Boocock of Mithley,
@@ -880,22 +926,29 @@ for nine years small tithes, 4£. 19s. 9d. Burn, for nine years small tithes,
 57£. 3s. 4d. and for our conscientiously refusing to pay the abovesaid sums,
 we were taken up by attachments issuing out of the Exchequer court in Easter term, 1740,
 and committed prisoners to York castle, the 30th of 3rd month called May following,
-and have great loss and detriment of our families.`"
+and have great loss and detriment of our families.
 
+[.signed-section-signature]
 Richard Ward
 
+[.signed-section-signature]
 Benjamin Burn
 
+[.signed-section-signature]
 William Boocock
 
+[.signed-section-context-close]
 York castle the 7th of 3rd month, 1741.
 
+[.postscript]
 N.B.A. little time before we were brought hither prisoners in the 3rd mouth, 1740,
 the said Robert Robinson, by virtue of a warrant from Robert Mitford and Robert Pockley,
 justices, distrained one cow of Richard Ward`'s,
 appraised at 3£. 10s. for five years small tithes, since the aforesaid suit commenced;
 and from Benjamin Burn he distrained a cow and a calf valued at 2£. 15s. for tithes,
 since the said suit commenced.
+
+--
 
 Had this tithe-farmer,
 who appears to have known the method of recovering by justices warrant,
@@ -916,6 +969,9 @@ by the following justices of the peace, who met at the castle of York,
 pursuant to an adjournment of quarter sessions from Bradford,
 the 21st of the 5th month last, and before whom the prisoners appeared, viz.
 
+[.small-break]
+'''
+
 Francis Barlow,
 
 Richard Dawson,
@@ -923,6 +979,9 @@ Richard Dawson,
 Mark Braithwate, L. D. an advocate,
 
 Richard Gilpin Sowry.
+
+[.small-break]
+'''
 
 It was pleaded by council on behalf of the prosecutor, that the whole costs of suit,
 viz. 57£. 3s. 4d. was chargeable on any one or two of the prisoners,
@@ -938,6 +997,9 @@ and taking off twenty pounds,
 which Dr. Sharpe allowed the prosecutor upon renewing the lease,
 granted a warrant for distress, as follows:
 
+[.small-break]
+'''
+
 On Richard Ward:
 
 for tithes: 4£. 19s. 9 1/4d.
@@ -946,6 +1008,9 @@ For one third costs: 2£. 7s. 9d.
 
 In all: 17£. 7s. 6 1/4d.
 
+[.small-break]
+'''
+
 On Benjamin Burn:
 
 for tithes: 2£. 17s. 6d.
@@ -953,6 +1018,9 @@ for tithes: 2£. 17s. 6d.
 For one third costs: 12£. 7s. 9d.
 
 In all: 15£. 5s. 3d.
+
+[.small-break]
+'''
 
 On the prosecutor`'s return from the levy, they were all three released;
 William Boocock freely.
