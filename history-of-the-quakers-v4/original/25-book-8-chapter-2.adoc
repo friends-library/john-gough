@@ -1,18 +1,27 @@
-== Chapter II. Pennsylvania,
+== Chapter II. Pennsylvania.
 
-A Spirit of Enmity remains in Pennsylvania.-- Account of the Indians at
-Conestogoe.--These Indians address the Governor.--Six of them are murdered
-in their Huts.--Proclamation is sued for taking the Murderers.--Fourteen
-Indians are murdered in the Work-house at Lancaster.--A second Proclamation.--Other
-friendly Indians are removed to Philadelphia for Protection.
---Further Mischief is intended.
---Governor consults the Inhabitants of the City.--Rioters come within six Miles
-of Philadelphia.--Governor sends some to speak with them.--They deliver a Remonstrance
-and return Home.--Address of the People called Quakers to the Governor
+[.chapter-synopsis]
+* A Spirit of Enmity remains in Pennsylvania
+* Account of the Indians at Conestogoe
+* These Indians address the Governor
+* Six of them are murdered in their Huts
+* Proclamation is sued for taking the Murderers
+* Fourteen Indians are murdered in the Work-house at Lancaster
+* A second Proclamation
+* Other friendly Indians are removed to Philadelphia for Protection.
+* Further Mischief is intended
+* Governor consults the Inhabitants of the City
+* Rioters come within six Miles of Philadelphia
+* Governor sends some to speak with them
+* They deliver a Remonstrance and return Home
+* Address of the People called Quakers to the Governor
 
-=== IRELAND.
+[.old-style]
+=== Ireland.
 
-Death of the Author of this History.--Testimony concerning the Author.
+[.chapter-synopsis]
+* Death of the Author of this History
+* Testimony concerning the Author.
 
 The affairs of this society in England furnish few or no
 remarkable materials for history at this period of time;
@@ -155,6 +164,9 @@ by their conduct after wards manifested their willingness and ability to do it.
 Upon this second massacre,
 a second proclamation was issued by the governor in the following terms.
 
+[.embedded-content-document.legal]
+--
+
 Whereas on the twenty-second day of December last,
 I issued a proclamation for the apprehending and bringing to justice,
 a number of persons, who in violation of the public faith, and in defiance of all law,
@@ -204,11 +216,16 @@ Given under my hand and the great seal of the said province, at Philadelphia,
 the second day of January, in the fourth year of his majesty`'s reign,
 and in the year of our Lord, one thousand seven hundred and sixty-four.
 
+[.signed-section-signature]
 John Penn.
 
+[.signed-section-context-close]
 By his honour`'s command Joseph Shippen, junior, sec.
 
+[.signed-section-context-close]
 God save the King.
+
+--
 
 These proclamations produced no discovery;
 the murderers and their partisans having given out such
@@ -309,11 +326,17 @@ they applied to the governor, requesting a copy of each, which he readily grante
 whereupon they agreed upon an address in answer thereto,
 which they presented to the governor as follows.
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To John Penn, Esq.
 Lieutenant Governor of the Province of Pennsylvania.
 
-The Address of the People called Quakers in the said Province.
+[.blurb]
+=== The Address of the People called Quakers in the said Province.
 
+[.salutation]
 May it please the Governor,
 
 We acknowledge thy kind reception of our Address of application for copies of the two
@@ -542,12 +565,16 @@ for the continuance of his paternal tenderness towards us; and that we are,
 as we have ever been, real friends to the government,
 and steadily desirous of acting agreeable to our stations, as members of civil society.
 
+[.signed-section-context-close]
 Signed on behalf,
 and by order of a committee appointed to represent
 our religious society in Pennsylvania and New Jersey,
 at a meeting held in Philadelphia, the 25th of second month, 1764.
 
+[.signed-section-signature]
 Samuel Emlen, junior, Clerk.
+
+--
 
 The frontiers were mostly inhabited by emigrants
 from the north of Ireland and their descendants,
@@ -574,15 +601,17 @@ Those papers are now in my possession, and shall be carefully preserved,
 till some friend may see it his business to finish it in a fifth volume.
 Lisburn in Ireland, 5th of sixth mo. 1792. John Gough, Junior]
 
+[.asterism]
+'''
 Soon after writing the foregoing, the author was seized with a fit of apoplexy,
 which in a few hours ended in his decease.--He attained to 70 years,
 and had been engaged during the work,
 last eight years of his life in writing this history.
 
-A Testimony from Lisburn Men`'s Meeting, concerning our deceased friend John Gough,
-read and approved in the Quarterly-Meeting for Ulster,
-held at Moyallon the 18th of 2nd Month,
-and in the National Half-year`'s Meeting in Dublin, 5th Month, 1792.
+=== A Testimony from Lisburn Men`'s Meeting, concerning our deceased friend John Gough, read and approved in the Quarterly-Meeting for Ulster, held at Moyallon the 18th of 2nd Month, and in the National Half-year`'s Meeting in Dublin, 5th Month, 1792.
+
+[.embedded-content-document.testimony]
+--
 
 He was born at Kendal in Westmoreland, in the beginning of the year 1721,
 of parents professing the truth, as held by us, the people called Quakers,
@@ -721,4 +750,7 @@ which in a few hours put a period to his existence in this state of mutability,
 he quietly departed as one falling asleep and on the 28th he was decently interred
 in friends burying ground at Lisburn after a solemn meeting.
 
+--
+
+[.the-end]
 End of the Fourth Volume.
