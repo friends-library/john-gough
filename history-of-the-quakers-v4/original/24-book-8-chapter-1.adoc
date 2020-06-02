@@ -111,6 +111,8 @@ May the Almighty pour down his choicest blessings on every branch of the royal f
 may they be regarded as the ornaments of the present age,
 and as examples of virtue in succeeding generations.
 
+--
+
 To which she returned an answer, as nearly as can be recollected, as follows.
 
 [quote]
@@ -263,7 +265,7 @@ To George III.
 King of Great Britain and the Dominions thereunto belonging.
 
 [.blurb]
-The humble Address of his Protestant Subjects the People called Quakers.
+=== The humble Address of his Protestant Subjects the People called Quakers.
 
 [.salutation]
 May it please the King,
