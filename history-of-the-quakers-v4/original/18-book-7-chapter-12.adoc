@@ -289,11 +289,10 @@ nominated twelve friends as representatives of the yearly meeting,
 and directed the respective Quarterly meetings to
 appoint four members each to represent them.
 
-[.embedded-content-document.letter]
+[.embedded-content-document]
 --
 
-[.letter-heading]
-The Services to be performed by the Meeting for Sufferings, viz.
+=== The Services to be performed by the Meeting for Sufferings, viz.
 
 To hear and consider the cases of any friends under sufferings
 and to administer relief as necessity is found to require,
