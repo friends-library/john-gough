@@ -603,15 +603,17 @@ Lisburn in Ireland, 5th of sixth mo. 1792. John Gough, Junior]
 
 [.asterism]
 '''
+
 Soon after writing the foregoing, the author was seized with a fit of apoplexy,
 which in a few hours ended in his decease.--He attained to 70 years,
 and had been engaged during the work,
 last eight years of his life in writing this history.
 
-=== A Testimony from Lisburn Men`'s Meeting, concerning our deceased friend John Gough, read and approved in the Quarterly-Meeting for Ulster, held at Moyallon the 18th of 2nd Month, and in the National Half-year`'s Meeting in Dublin, 5th Month, 1792.
-
 [.embedded-content-document.testimony]
 --
+
+[.blurb]
+=== A Testimony from Lisburn Men`'s Meeting, concerning our deceased friend John Gough, read and approved in the Quarterly-Meeting for Ulster, held at Moyallon the 18th of 2nd Month, and in the National Half-year`'s Meeting in Dublin, 5th Month, 1792.
 
 He was born at Kendal in Westmoreland, in the beginning of the year 1721,
 of parents professing the truth, as held by us, the people called Quakers,
