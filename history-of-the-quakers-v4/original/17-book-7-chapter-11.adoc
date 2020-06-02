@@ -1,13 +1,18 @@
-== Chapter XL. Pennsylvania
+== Chapter XI. Pennsylvania
 
-Original State of Pennsylvania.--Its long Enjoyment of Peace.--A
-due Regard to Religion the surest Foundation of a good Government.
---The Prosperity of Pennsylvanian under the Administration of the People called Quakers.--New
-Settlers excite Discontents.--The proprietary Governors endeavour to shake Encroachments,
--which are opposed by the Assembly.--Whereby they conceive a Dislike to
-Friends.--The French instigate the Indians to war against the English
-Plantations.-- Declaration of War.--Causes a popular Cry for warlike Preparations.
---Militia-law for the lower Counties.--Address to the Proprietaries there upon.
+[.chapter-synopsis]
+* Original State of Pennsylvania
+* Its long Enjoyment of Peace
+* A due Regard to Religion the surest Foundation of a good Government
+* The Prosperity of Pennsylvanian under the Administration of the People called Quakers
+* New Settlers excite Discontents
+* The proprietary Governors endeavour to shake Encroachments, which are opposed by the Assembly
+* Whereby they conceive a Dislike to Friends
+* The French instigate the Indians to war against the English Plantations
+* Declaration of War
+* Causes a popular Cry for warlike Preparations
+* Militia-law for the lower Counties
+* Address to the Proprietaries there upon
 
 Pennsylvania from the excellent institution of its founder William Penn,
 in concert with original planters, and the punctual adherence thereto,
@@ -198,11 +203,15 @@ but rather pointed to bring them under difficulties and sufferings.
 Upon this it was thought necessary to address the proprietaries with the following remonstrance,
 viz.
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To Thomas Penn and Richard Penn, proprietaries of Pennsylvania,
 and the three lower counties of New Castle, Kent and Sussex upon Delaware.
 
-The Address of the People called Quakers,
-on behalf of their Brethren inhabiting the said lower Counties, respectively showeth,
+[.blurb]
+=== The Address of the People called Quakers, on behalf of their Brethren inhabiting the said lower Counties, respectively showeth,
 
 That for above one hundred years past,
 we as a religious society have declared to the world,
@@ -251,7 +260,7 @@ shall be in any case molested or prejudiced in his or their person or estate,
 because of his or their conscientious persuasion or practice,
 nor be compelled to frequent or maintain any religious worship, place,
 or ministry contrary to his or their minds,
-or to do or to suffer any other act or thing contrary to their religious persuasion.`"
+or to do or to suffer any other act or thing contrary to their religious persuasion.
 
 May it please the Proprietaries,
 
@@ -263,7 +272,7 @@ provide themselves with arms and ammunition, to attend with them at certain stat
 "`in order to be taught and instructed in the military exercise;`" with other
 injunctions of the like kind and nature under certain fines and penalties,
 without any exemption of those of tender consciences,
-which in our judgment in in direct repugnance to the clauses above recited,
+which in our judgment is in direct repugnance to the clauses above recited,
 because it enjoins certain acts and things contrary to the
 religious persuasion of many of the inhabitants.
 
@@ -319,5 +328,8 @@ We sincerely desire that divine wisdom may be plentifully afforded to
 conduct you through the various difficulties attending your station,
 to your own true peace, the prosperity of your province and the glory of God.
 
+[.signed-section-context-close]
 Signed at Philadelphia, 5th month 21st, 1756,
 by a committee appointed by the yearly meeting, for Pennsylvania and New Jersey.
+
+--

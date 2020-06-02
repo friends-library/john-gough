@@ -1,11 +1,14 @@
 == Chapter XII. Pennsylvania continued.
 
-Endeavours used to deprive Friends of their Places in the Assembly.--They are misrepresented
-to the British Nation and Government.--General Meeting at Philadelphia.--Dead Bodies
-of some who had been murdered brought into the City.
-Vindication of Friends.--Remarks upon the Indians,
-and the Methods of treating them.-- Subscription for the suffering Inhabitants.--
-Meeting for Sufferings established at Philadelphia.
+[.chapter-synopsis]
+* Endeavours used to deprive Friends of their Places in the Assembly
+* They are misrepresented to the British Nation and Government
+* General Meeting at Philadelphia
+* Dead Bodies of some who had been murdered brought into the City
+* Vindication of Friends
+* Remarks upon the Indians, and the Methods of treating them
+* Subscription for the suffering Inhabitants
+* Meeting for Sufferings established at Philadelphia
 
 By the misapprehensions and prejudices raised in
 the minds of the proprietaries concerning them,
@@ -140,7 +143,7 @@ They are slaves neither to ambition nor interest,
 the two passions which have so much weakened in us those sentiments of
 humanity which the kind Author of nature hath fixed in the human heart,
 and kindled those of covetousness, which are as yet generally unknown amongst them.
-Charlevoix apud umdem.]
+_Charlevoix apud umdem._]
 
 Therefore if the like prudence, justice,
 and friendly intercourse bad been maintained in their
@@ -178,7 +181,8 @@ We have seen their early care to prevent any of their members
 from supplying the Indians with spirituous liquors,
 of which they were very fond, and which were very pernicious to them in various respects^
 footnote:[See vol.
-3 page 307.]--they were studious to do them good;
+3 page 307.]
+--they were studious to do them good;
 to endeavour to draw them by winning persuasions and acts of benevolence,
 and instruction from the inconveniences to which
 their ignorance and roving temper subjected them:
@@ -200,7 +204,7 @@ their measures of treating the Indians, both formerly and even at this time,
 were more christian-like, more rational,
 and more effectual for rescuing the frontiers from their devastation,
 than the sanguinary and violent measures their adversaries were desirous to promote.^
-footnote:["`The perpetual increasing generations of Euro peans in America,
+footnote:["`The perpetual increasing generations of Europeans in America,
 may supply numbers that must in the end wear out
 these poor Indian inhabitants from their country;
 but we shall pay dear, both in blood and treasure, in the mean while, for our injustice.
@@ -285,7 +289,10 @@ nominated twelve friends as representatives of the yearly meeting,
 and directed the respective Quarterly meetings to
 appoint four members each to represent them.
 
-The Services to be performed by the Meeting for Sufferings, viz.
+[.embedded-content-document]
+--
+
+=== The Services to be performed by the Meeting for Sufferings, viz.
 
 To hear and consider the cases of any friends under sufferings
 and to administer relief as necessity is found to require,
@@ -307,7 +314,9 @@ To receive an account from the several particular meetings,
 of any sufferings to which friends may be subjected for the testimony of truth.
 
 And that fair minutes of all their proceedings should be kept,
-and laid before the yearly meeting from time to time.`"
+and laid before the yearly meeting from time to time.
+
+--
 
 And some years after the establishment of the said meeting,
 the revisal of all manuscripts intended for publication by any member of the society,
