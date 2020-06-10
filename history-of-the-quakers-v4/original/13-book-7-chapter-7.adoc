@@ -129,7 +129,7 @@ The former, an inhabitant Of Spittle-fields,
 Was prosecuted for non-payment of 6s. for six years small tithes,
 at the suit of Robert Leybourn and John Brookband,
 stiled rectors and portionists of the united rectory of Stepney;
-but the defendant being admitted to answer in forma pauperis,
+but the defendant being admitted to answer _in forma pauperis,_
 heard nothing further of the prosecution.
 
 The latter, who resided at Mumby in Lincolnshire,
@@ -179,11 +179,11 @@ and was there indicted for a misdemeanor, in disturbing the priest during divine
 and convicted on the Toleration Act, fined 20£. for the king`'s use,
 and committed to prison in the castle of Lincoln, till the fine should be paid.
 
-Summum jus, summa injuria.
+_Summum jus, summa injuria._
 Upon perusing the clause of the Toleration Act, upon which she was convicted,
 it appears to me stretched to the utmost to comprise any offence she was guilty of.
 The words of the act are, "`If any person or persons, shall willingly and of purpose,
-maliciously or contemptuously come into any cathedral or parish-church,
+_maliciously_ or _contemptuously_ come into any cathedral or parish-church,
 chapel or other congregation permitted by this act, and disquiet and disturb the same,
 or misuse any preacher or teacher, such persons or persons,
 upon conviction at the general or Quarter Sessions,
@@ -664,7 +664,7 @@ and to what body of people I should join myself.
 So I immediately left the communion of the church of England,
 and went to Gracious-street meeting.
 After I had read Barclay, I read some other books of that kind,
-among which was an excellent piece, though in a small volume, called, No cross no crown:
+among which was an excellent piece, though in a small volume, called, [.book-title]#No Cross, No Crown:#
 thus I continued weeks together, but did not let any one soul know what I was about:
 the first man I conversed with was George Whitehead,
 and this was several weeks after I began to read Barclay, and frequent their meetings:
