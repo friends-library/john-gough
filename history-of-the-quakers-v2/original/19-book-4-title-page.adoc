@@ -1,0 +1,8 @@
+[#book4.intermediate-title, short="Book IV"]
+== History of the+++<br />+++People Called Quakers
+
+[.division]
+=== Book IV.
+
+[.blurb]
+==== From the Declaration of Indulgence to the Death of King Charles II.

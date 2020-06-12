@@ -1,0 +1,8 @@
+[#book1.intermediate-title, short="Book I"]
+== History of the+++<br />+++People Called Quakers
+
+[.division]
+=== Book I.
+
+[.blurb]
+==== From the Birth of George Fox to the End of the Commonwealth.

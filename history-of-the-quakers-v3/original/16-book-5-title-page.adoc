@@ -1,0 +1,8 @@
+[#book5.intermediate-title, short="Book V"]
+== History of the+++<br />+++People Called Quakers
+
+[.division]
+=== Book V.
+
+[.blurb]
+==== From the Death of King Charles II to the Revolution.

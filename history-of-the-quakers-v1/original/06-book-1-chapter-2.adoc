@@ -9,7 +9,7 @@
 * George Fox`'s first Appearance in Prayer
 * Attends a public Dispute at Leicester--Endeavours on all Occasions to promote Righteousness
 * Symptoms of Disgust against him begin to appear
-* 1+++.+++ For disusing customary Modes of Salutation and Address
+* For disusing customary Modes of Salutation and Address
 * Other Causes of Offence
 * Chiefly the Doctrine of him and his Friends concerning Gospel Ministry
 * George Fox`'s first Imprisonment at Nottingham
@@ -694,7 +694,7 @@ You know who hath bid us covet earnestly the best gifts,
 but chiefly that we may prophesy;
 which the apostle explains to be a speaking to instruction, edification and comfort,
 which the instructed, edified and comforted can best tell the energy and effect of.
-"`--`" Indeed you err through mistake of the scriptures.
+&hellip;Indeed you err through mistake of the scriptures.
 Approbation is an act of convenience in respect to order, not of necessity,
 to give faculty to preach the Gospel.
 Your pretended fear lest error should step in,

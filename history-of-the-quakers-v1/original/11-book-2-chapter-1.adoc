@@ -1,8 +1,5 @@
 == Chapter I.
 
-[.old-style]
-=== From the End of the Commonwealth to the Restoration of Monarchical Government
-
 [.chapter-synopsis]
 * Oliver Cromwell dissolves the Parliament
 * The Change of Government brings no Advantageto the Quakers
