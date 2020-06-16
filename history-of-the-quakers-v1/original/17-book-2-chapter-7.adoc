@@ -549,6 +549,9 @@ they omitted proceeding thereupon.
 At length they made out their mittimus, grounded on reasons either false or frivolous,
 or absurd.
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ As disturbers of the public peace.
 +++[+++A false charge.]
@@ -578,6 +581,8 @@ for their appearance, but on further deliberation it was vacated,
 under pretence it would not be according to law, and they were sent to prison next day.
 A certificate whereof was signed by those two and nine others.
 Sewel, p. 116.]
+
+====
 
 After six weeks imprisonment in Exeter jail,
 they were indicted at the sessions for a breach of the ordinance against duels,

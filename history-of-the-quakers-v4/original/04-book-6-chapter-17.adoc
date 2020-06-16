@@ -790,6 +790,9 @@ and the people called Quakers presented to the legislature the following remonst
 [.embedded-content-document.address]
 --
 
+[.numbered-group]
+====
+
 [.numbered]
 _1st,_ The church of England hath frequently declared, by several of her members,
 in a civil as well as clerical capacity,
@@ -797,14 +800,12 @@ by those who framed and espoused one or more of the bills against occasional con
 that she is in principle against persecution, and for preserving the toleration.
 
 [.numbered]
-_2ndly._
-The promoters of this bill may please to remember,
+_2ndly._ The promoters of this bill may please to remember,
 that the Queen hath declared from the throne,
 that she will maintain the toleration inviolable.
 
 [.numbered]
-_3rdly._
-The protestant subjects of this kingdom, who are parents of children,
+_3rdly._ The protestant subjects of this kingdom, who are parents of children,
 are supposed to have preserved to them, by the fundamental laws of this kingdom,
 the natural right of the care and direction of the education of their own children,
 which natural right this bill seems calculated to take away and destroy.
@@ -817,26 +818,25 @@ the propagation of the gospel in foreign parts,
 can have very little, if any good effect or success.
 
 [.numbered]
-_5thly._
-May it not seem an objection and contradiction to the many princely and christian
+_5thly._ May it not seem an objection and contradiction to the many princely and christian
 solicitations which the Queen by her ministers hath made at foreign courts,
 on the behalf of protestants,
 against the violent intrusions of papists into their rights and just privileges.
 
 [.numbered]
-_6thly._
-It may be a means to oblige the carrying out of large
+_6thly._ It may be a means to oblige the carrying out of large
 sums of money for foreign education.
 
 [.numbered]
-_7thly._
-It may probably do much hurt to charitable foundations.
+_7thly._ It may probably do much hurt to charitable foundations.
 
 [.numbered]
 _8thly._
 It seems not to be agreeable to the great law of Christ, Matt. 7:12.
 "`Therefore all things whatsoever ye would that men should do to you,
 do ye even so unto them; for this is the law and the prophets.
+
+====
 
 --
 

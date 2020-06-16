@@ -275,11 +275,16 @@ of London or its neighbourhood upon the sittings of said committee,
 particularly William Penn,
 George Whitehead and William Mead of whom the committee inquired,
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ If they owned themselves protestant dissenters?
 
 [.numbered]
 2+++.+++ How they suffered by laws made against popish recusants?
+
+====
 
 To both which questions, answering to the satisfaction of the committee,
 their treatment was generally resented as unjust and illegal,

@@ -82,9 +82,11 @@ The council therefore tendering the preservation of the peace and truth
 enjoyed and professed among the churches of Christ in this country,
 do hereby order:
 
+[.numbered-group]
+====
+
 [.numbered]
-_First,_
-That all such corrupt books as shall be found upon search
+_First,_ That all such corrupt books as shall be found upon search
 to be brought in and spread by the aforesaid persons,
 be forthwith burned and destroyed by the common executioner.
 
@@ -102,6 +104,8 @@ from whence they came,
 he defraying all the charges of their imprisonment and for the effectual
 performance hereof he is to give security in a bond of 100£. sterling,
 and on his refusal to give such security he is to be committed to prison till he do it.
+
+====
 
 --
 

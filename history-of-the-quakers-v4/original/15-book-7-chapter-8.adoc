@@ -242,6 +242,10 @@ in relation to an act made the last session of parliament,
 for regulating the commencement of the year, and correcting the calendar now in use,
 this meeting hath thought convenient to communicate unto you the following advices, viz.
 
+[.numbered-group]
+====
+
+[.numbered]
 By the said act it is ordered and enacted, that, The "`supputation,
 according to which the year of our Lord beginneth on the 25th day of March,
 shall not be made use of from and after the last day of December, 1751,
@@ -280,6 +284,8 @@ the eleven intermediate days of the common calendar.`" The opinion of the said c
 approved by the yearly meeting, was,
 that friends should be sound in the observance of this direction,
 and omit the said eleven nominal days accordingly.
+
+====
 
 And we think it may be useful and expedient, on the present occasion,
 to revive in your remembrance some of the motives which induced our ancient friends,
@@ -330,6 +336,9 @@ we recommend what follows to your serious consideration, viz.
 [.blurb]
 === A brief Account of the Origin of the Names of some Months of the Year, and of all the Days of the week, now customarily and commonly used.
 
+[.numbered-group]
+====
+
 [.numbered]
 I+++.+++ January was so called from Janus, an ancient king of Italy,
 whom heathenish superstition had deified, to whom a temple was built,
@@ -342,8 +351,7 @@ to offer sacrifices and perform certain rites, conducing, as was supposed,
 to the cleansing or purgation of the people.
 
 [.numbered]
-III.
-March was so denominated from Mars, feigned to be the god of war, whom Romulus,
+III. March was so denominated from Mars, feigned to be the god of war, whom Romulus,
 founder of the Roman empire, pretended to be his father.
 
 [.numbered]
@@ -359,14 +367,15 @@ to whom in this month they paid their devotions.
 VI. June is said to take its name from Juno, one of the supposed goddesses of the heathen.
 
 [.numbered]
-VII.
-July so called from Julius Caesar, one of the Roman emperors,
+VII. July so called from Julius Caesar, one of the Roman emperors,
 who gave his own name to this month, which before was called Quintilis, or the fifth.
 
 [.numbered]
 VIII.
 August so named in honour of Augustus Caesar, another of the Roman emperors.
 This month was before called Sextilis or the Sixth.
+
+====
 
 The other four months, namely, September, October, November and December,
 still retain their numerical Latin names, which,

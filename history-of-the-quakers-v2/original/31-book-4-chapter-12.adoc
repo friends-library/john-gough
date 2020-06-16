@@ -122,6 +122,9 @@ among which the following, however represented by some writers as the result of 
 factious spirit, must meet the approbation of all dispassionate men,
 as being in themselves reasonable and just, viz.
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ "`Resolved, that it is the opinion of this house,
 that the acts of parliament made in reigns of queen
@@ -134,6 +137,8 @@ that the prosecution of protestant dissenters upon
 the penal laws is at this time grievous to the subject,
 a weakening of the protestant interest, an encouragement to popery,
 and dangerous to the peace of the kingdom.`"
+
+====
 
 These votes showed the sense of the commons, but did not repeal the penal laws :
 They were still in full force,

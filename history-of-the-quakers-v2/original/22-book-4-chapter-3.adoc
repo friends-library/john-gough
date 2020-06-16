@@ -255,6 +255,9 @@ and consistent with the prosperity of the kingdom?
 [.old-style]
 === The Answer.
 
+[.numbered-group]
+====
+
 [.numbered]
 _1st,_ An inviolable and impartial maintenance of English rights.
 
@@ -264,6 +267,8 @@ towards the several religious interests.
 
 [.numbered]
 _3rd,_ A sincere promotion of general and practical religion.
+
+====
 
 --
 

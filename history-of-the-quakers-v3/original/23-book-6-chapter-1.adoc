@@ -403,6 +403,9 @@ W.P.
 His excellent preface to Robert Barclay`'s works, and another to those of John Burnyeat,
 both printed this year, were farther fruits of his retirement; as were also,
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ A small treatise, entitled, [.book-title]#Just Measures, in an Epistle of Peace and Love,
 to Such Professors As Are under Any Dissatisfaction about
@@ -417,6 +420,8 @@ Wherein Several Doctrines of that People Are Set
 in a Clear Light#--a book so generally accepted,
 that it has been reprinted even to the fifteenth edition.
 
+====
+
 Having thus improved the time of his retirement,
 it pleased divine providence in the year 1693,
 to dissipate this cloud and to open his way again to public service:
@@ -430,11 +435,15 @@ some of whose labours have appeared considerable enough to be particularly
 noticed in course in various parts of this history,
 viz. John Burnyeat, Robert Lodge, Robert Barclay, George Fox and Thomas Salthouse.
 
-[.numbered]
+[.small-break]
+'''
+
 1+++.+++ John Burnyeat married, and spent his latter years in Ireland,
 where will be the proper place to give account of him.
 
-[.numbered]
+[.small-break]
+'''
+
 2+++.+++ Robert Lodge,
 his early and frequent companion and fellow traveller in
 his religious visits to his friends in various parts,
@@ -508,6 +517,9 @@ no less in the whole tenor of his life, and circumspect conversation,
 than in word and doctrine;
 whereby he acquired the general esteem of his friends and neighbours,
 and left an honourable and spotless reputation behind him.
+
+[.small-break]
+'''
 
 The particular account of Robert Barclay`'s birth, family, education and convincement,
 laid before the reader at his first introduction into this history,
@@ -609,6 +621,9 @@ he found it his concern to vindicate his profession
 from the misrepresentations of its antagonists,
 which he is generally allowed to have done in a masterly manner in the following tracts.
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ [.book-title]#Truth Cleared of Calumnies,# published in 1670, about the 23rd year of his age,
 occasioned by a book, entitled [.book-title]#A Dialogue between a Quaker and a Stable Christian,#
@@ -674,6 +689,8 @@ entitled [.book-title]#Quakerism the Pathway to Paganism,# 1679.
 of the Spirit of God Towards the Foundation and Ground of True Faith,
 Proved:# In a letter written in Latin to a person of quality in Holland;
 and now also put into English, 1676.
+
+====
 
 George Fox grown too infirm to bear travelling,
 in consequence of the multiplied hardships,
@@ -788,6 +805,9 @@ sprung up in the times of gothic barbarism and monkish ignorance,
 concludes "`I revere that wisdom, and that goodness,
 who condescended to afford us such an example of prirmitive christianity in life,
 doctrine and conversation, so near our own times.`"
+
+[.small-break]
+'''
 
 Thomas Salthouse was living in Judge Fell`'s family
 at the time when George Fox came to Swarthmore,

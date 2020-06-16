@@ -334,6 +334,9 @@ ____
 
 Now by the real state of the case it will appear that,
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ The people called Quakers made no false representation
 of the clergy`'s having abused the liberty,
@@ -354,6 +357,8 @@ and the greatest part so much to the purpose,
 as clearly shown (not how great reason they, and their friends,
 had to guard against the specification of particulars,`" but) how great reason
 they had to petition for redress of grievances so severe and oppressive.
+
+====
 
 The following cases extracted from which, may, with many others,
 clearly evince that the application of this people, for the redress of grievances,
@@ -799,6 +804,9 @@ and of themselves from the invidious suggestions of their enemies.
 In reply to what had been insinuated in one of these examinations,
 they allege that they have proved,
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ That 1180 persons have been prosecuted.
 
@@ -847,6 +855,8 @@ suits for such sums seem peculiar to ecclesiastical demands.]
 of which there are a great many instances;
 in some of which the proportion of the sums levied to the original demand,
 is greater than that of 800£. for demands of fifteen.
+
+====
 
 The specifications in the account published by friends, therefore,
 are so far from being defective, that they demonstrate,
