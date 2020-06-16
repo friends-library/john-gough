@@ -24,6 +24,9 @@ by virtue of his prerogative, as supreme in ecclesiastical affairs,
 to issue his proclamation for suspending the execution of the penal laws against nonconformists,
 in substance as follows:
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ The King publishes it, in virtue of his supreme power in ecclesiastical matters,
 which is aright inherent in his person, and acknowledged by several acts of parliament.
@@ -61,6 +64,8 @@ except the recusants of the Roman Catholic religion,
 to whom he will no ways allow public places of worship;
 but only indulge them their share in the common exemption from penal laws,
 and the exercise of their worship in private houses only.
+
+====
 
 This declaration of indulgence, apparently humane and laudable in itself,
 is stripped of all its merit by the unanimous suffrage of all our historians,

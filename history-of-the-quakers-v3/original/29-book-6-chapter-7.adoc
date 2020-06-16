@@ -626,18 +626,22 @@ Seeing their relief is to them so needful, so harmless to all,
 and so useful to the government, and their neighbours;
 let us a little consider the common objections, which may be summed up in short thus:
 
+[.numbered-group]
+====
+
 [.numbered]
 _First objection,_ How shall we then be at a certainty?
 
 [.numbered]
-_Secondly,_ Why should the laws be altered for them?
-For,
+_Secondly,_ Why should the laws be altered for them? For,
 
 [.numbered]
 _Thirdly,_ It would be to rase old foundations:
 
 [.numbered]
 _Fourthly,_ And let them into the government,
+
+====
 
 Which it is hoped will not be difficult to answer one by one,
 and that to reasonable satisfaction.

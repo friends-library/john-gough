@@ -220,6 +220,9 @@ at length an Irish friar came from Jerusalem,
 and informed him that he was sent by his fraternity there to propose to him three questions,
 viz.
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ Whether he would promise, when he came to Jerusalem, to visit the holy places,
 as other pilgrims did?
@@ -230,14 +233,21 @@ as other pilgrims did?
 [.numbered]
 3+++.+++ Whether he would wear such a habit as pilgrims usually wear?
 
+====
+
 [.offset]
 To which questions the following injunctions were added:
+
+[.numbered-group]
+====
 
 [.numbered]
 1+++.+++ Not to speak any thing against the Turkish laws.
 
 [.numbered]
 2+++.+++ When he should come to Jerusalem not to speak any thing about religion.
+
+====
 
 But steadfastly refusing to answer their questions, or to submit to their injunctions,
 he was, by the said friar,

@@ -173,6 +173,9 @@ charges as he has to exhibit against us at Turner`'s-hall:
 These are to certify to all whom it may concern,
 that the reasons why we decline any such meeting are as follow:
 
+[.numbered-group]
+====
+
 [.numbered]
 _First._
 Because the said George Keith has given us such frequent
@@ -239,6 +242,8 @@ the remission of his great sin of envy, and evilly entreating the Lord`'s people
 which we profess,
 and which he the said George Keith hath long and lately
 both professed and zealously vindicated as such.
+
+====
 
 --
 
@@ -320,6 +325,9 @@ As to this envenomed performance it was remarked,
 [.embedded-content-document]
 --
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ That the matters therein charged upon us,
 are generally the same that have been charged on us heretofore, by Faldo, Hicks,
@@ -348,6 +356,8 @@ have been misled in their judgments concerning us,
 George Keith, who hath now moved this controversy against us, knows full well,
 that we do not hold those things either generally as a people, or as particular persons,
 which he has charged on us as errors.
+
+====
 
 --
 

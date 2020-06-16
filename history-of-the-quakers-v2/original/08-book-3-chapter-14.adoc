@@ -531,6 +531,9 @@ to lay them before government and seek redress,
 took up much of the attention of that meeting at that time,
 as appears from the queries of that meeting, the three first of which are,
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ What present prisoners?
 
@@ -553,6 +556,8 @@ for the purpose of considering and consulting upon such matters
 as may be laid before them by any of the country correspondents;
 particularly any suffering cases of friends that may want their counsel or assistance:
 and from thence is called the meeting for sufferings, and is a meeting for record.
+
+====
 
 This economy hath ever since subsisted amongst this people,
 whereby the great ends of religious society, real devotion of heart towards God,
@@ -668,6 +673,9 @@ the order that the inquiries of the quarterly meeting are made into their care;
 as contained in the following queries,
 which are answered by each monthly meeting to the quarterly meeting.
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ Are meetings for worship and discipline duly attended;
 and do friends avoid all unbecoming behaviour therein?
@@ -705,6 +713,8 @@ and do none remove from or into your monthly or two weeks-meetings without certi
 particular meeting to have the oversight thereof?
 and is care taken when anything appears amiss that
 the rules of our discipline be put in practice?
+
+====
 
 Of the zeal of the members of this society in the attendance or their religious meetings,
 this history abounds with remarkable instances: neither penal laws, personal abuse,

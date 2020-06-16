@@ -70,6 +70,9 @@ formerly inflicted on us were sometimes abated and respited,
 when it pleased God to move the hearts of kings and governments
 to show some compassion and favour to us,
 
+[.numbered-group]
+====
+
 [.numbered]
 _1st,_ By king Charles the second`'s proclamation of grace in 1661,
 whereby many of our friends were released and freed out of prison.
@@ -90,14 +93,12 @@ and relieved by divers commissions; and two general proclamation pardons,
 the one in 1685 and the other in 1688.
 
 [.numbered]
-_5th,_
-And also by an act of gracious general and free pardon
+_5th,_ And also by an act of gracious general and free pardon
 in the second year of king William and queen Mary,
 several were discharged for contempt and imprisonments.
 
 [.numbered]
-_6th,_
-And by thy late consort the queen (on application
+_6th,_ And by thy late consort the queen (on application
 made to her in thy absence) a poor innocent woman,
 who had been long prisoner at Lancaster upon a fine, was released;
 which as an intimation of the queen`'s tender and
@@ -105,6 +106,8 @@ merciful disposition we very thankfully acknowledge,
 as we do also very kindly acknowledge the king`'s late favourable
 inclination to discharge two of our friends,
 prisoners in Westmorland, upon a petition presented by our friend Daniel Quare.
+
+====
 
 These precedents of royal favour and compassion to the oppressed,
 and the present confinements and hardships of many innocent persons tenderly considered,
