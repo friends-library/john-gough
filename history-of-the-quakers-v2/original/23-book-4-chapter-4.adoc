@@ -35,7 +35,7 @@ introduced a bill for granting an indulgence to protestant dissenters,
 with a speech in favour thereof, wherein with strength of reasoning and sound argument,
 he evinces the reasonableness of this proposed indulgence,
 
-[.embedded-content-document.speech]
+[.embedded-content-document]
 --
 
 My lords, [says he,] there is a thing called liberty,
