@@ -427,7 +427,7 @@ and this appears the proper place to introduce it.
 [.old-style]
 === A Dissertation on the Discipline exercised amongst the People called Quakers
 
-[alt.centered]
+[.alt.centered]
 Sect. I
 
 [.small-break]
@@ -594,10 +594,10 @@ are generally transmitted to the counties in an epistle from the said yearly mee
 [.small-break]
 '''
 
-[alt.centered]
+[.alt.centered]
 Sect. II.
 
-[alt.centered]
+[.alt.centered]
 Of the Manner of conducting these Meetings.
 
 [.small-break]
@@ -656,10 +656,10 @@ upon the subject of religion and its concerns.
 [.small-break]
 '''
 
-[alt.centered]
+[.alt.centered]
 Sect. III.
 
-[alt.centered]
+[.alt.centered]
 Of the Objects of Discipline in the sundry Meetings.
 
 [.small-break]
@@ -1406,10 +1406,10 @@ and their souls shall bless the instruments of their ease and comfort.
 [.small-break]
 '''
 
-[alt.centered]
+[.alt.centered]
 Sect. IV.
 
-[alt.centered]
+[.alt.centered]
 Of their Method of Dealing with Transgressors.
 
 [.small-break]
