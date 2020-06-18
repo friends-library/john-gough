@@ -75,55 +75,86 @@ some of whom continued prisoners to the time of their death, some ten years, oth
 whereby several families have been reduced to the necessity
 of being supported by the charity of their friends.
 
-[.old-style]
-=== Sums demanded and value taken From 1704 to 1722:
+=== An Index of the Number of Prosecutions
 
-James Haviland: demanded: 8£. -- taken: 61£.
+[.table-tail-align-center.table-header-tail-x-small, cols="2,1,1,1,1,1,1"]
+|===
+| _Counties_ | _In the_ Excheq. | _In_ Ecc. Courts | _Other_ Courts. | _In all._ | _Impri-soned._ | _Died Prisoners_
 
-Thomas Strong: demanded 1£. 10s. 6d. -- taken: 15£. 11s. 6d.
+| Bedfordshire      |       6 |       7 |       1 |       14 |       2 |   0
+| Berkshire         |       6 |      13 |       1 |       20 |       3 |   0
+| Buckingh.         |      11 |       3 |       2 |       16 |       8 |   0
+| Cambridgsh.       |      12 |       5 |       1 |       18 |       9 |   0
+| Cheshire          |       1 |      11 |       0 |       12 |       2 |   0
+| Cornwall          |      12 |       9 |       1 |       22 |       6 |   0
+| Cumberland        |      37 |      10 |      11 |       58 |      27 |   3
+| Derbyshire        |       6 |       5 |       1 |        9 |       3 |   0
+| Devonshire        |      15 |      18 |       0 |       33 |       8 |   0
+| Dorsetshire       |       2 |       4 |       4 |       10 |       2 |   0
+| Durham            |       6 |       9 |       2 |       17 |      10 |   0
+| Essex             |      42 |       6 |       9 |       57 |       9 |   0
+| Glocestersh.      |      20 |       3 |       2 |       25 |       3 |   0
+| Hampshire         |      19 |       2 |       1 |       22 |       6 |   0
+| Hertfordsh.       |       4 |       8 |       6 |       18 |       3 |   0
+| Herefordsh.       |       4 |       2 |       0 |        6 |       0 |   0
+| Huntington.       |       4 |       1 |       1 |        6 |       2 |   0
+| Kent              |      16 |      11 |       0 |       27 |       4 |   0
+| Lancashire        |       2 |       2 |      16 |       20 |      11 |   0
+| Leicestersh.      |       6 |      11 |       0 |       17 |       6 |   1
+| Lincolnshire      |      16 |       5 |       4 |       25 |       4 |   0
+| London            |      23 |      19 |       0 |       42 |       1 |   0
+| Middlesex         |      74 |       6 |       6 |       86 |       9 |   0
+| Norfolk           |      20 |       7 |       2 |       29 |       8 |   0
+| Northampt.        |       8 |      13 |       4 |       25 |      10 |   0
+| Nottingham.       |       6 |       5 |       1 |       12 |       3 |   0
+| Oxfordshire       |      17 |       1 |       4 |       22 |       4 |   0
+| Rutlandshire      |       1 |       2 |       0 |        3 |       2 |   0
+| Somersetsh.       |      76 |      22 |       9 |      107 |      30 |   1
+| Staffordsh.       |      -- |       9 |       1 |       10 |       4 |   0
+| Suffolk           |      24 |       7 |       1 |       32 |       5 |   0
+| Surry             |      34 |      21 |      21 |       76 |      13 |   0
+| Sussex            |      36 |       3 |       4 |       43 |      11 |   1
+| Warwicksh.        |       8 |      18 |       3 |       29 |       6 |   1
+| Westmorl.         |       5 |       2 |       2 |        9 |       4 |   0
+| Wiltshire         |      12 |       6 |       0 |       18 |       4 |   0
+| Worcestersh.      |       4 |      10 |       8 |       22 |       5 |   0
+| Yorkshire         |      55 |      61 |      20 |      136 |      46 |   2
+| Wales             |      12 |      10 |       5 |       27 |       9 |   0
+| **_Totals:_**     | **659** | **367** | **154** | **1180** | **302** | **9**
+|===
 
-Richard Case ---- demanded: 13s. -- taken: 37£. 11s. 6d. By sequestration
+[.table-header-tail-x-small.table-last-col-secondary, cols="10,1,1,1,1,1,1,8"]
+|===
+| From 1704 to 1722 3+| Sums demanded 3+| Value taken |
 
-Thomas Drape ---- demanded: 4£. 10s. 1d. -- taken: 50£.
+|                    | _£._ | _.s_ | _.d_ | _£._ | _.s_ | _.d_ |
+| James Haviland     |    8 |    0 |    0 |   61 |    0 |    0 |
+| Thomas Strong      |    1 |   10 |    6 |   15 |   11 |    6 |
+| Richard Cafe       |      |   13 |    0 |   37 |   11 |    6 | By Sequestration
+| Thomas Drape       |    4 |   10 |    1 |   50 |    0 |    0 |
+| Robert Holiday     |      |   11 |    6 |   60 |    0 |    0 | By Sequestration
+| Richard Allen      |    1 |   15 |    6 |   80 |    0 |    0 | By Do.
+| Henry Wake         |    1 |    4 |    6 |   30 |    0 |    0 | By Do.
+| Joseph J. Williams |    2 |    0 |    0 |   30 |    0 |    0 | By Do.
+| John Taylor        |    1 |    5 |    8 |   44 |   18 |    0 |
+| Alexander Moore    |    6 |   15 |   11 |   87 |   16 |   11 | Imprisoned
+| Jeremiah Ellis     |    1 |    0 |    0 |   44 |    0 |    0 |
+| George Bewley      |    3 |   10 |    0 |   93 |   10 |    0 |
+| Samuel Tulley & Thomas Warner | 3 | 2 | 8 | 75 |   16 |    0 |
+| William Pearson    |      |   13 |    0 |   19 |   16 |    0 |
+| Jonathan Peasley   |    7 |    0 |    0 |  237 |    5 |    0 | And twice imprisoned
+| Daniel Williams    |      |    1 |    6 |   20 |    0 |    0 | In Goods &amp; Estate worth 80l. and 15 Months Imprisonment
+| Abram Butterfield  |    8 |    0 |    0 |   90 |    0 |    0 |
+| Roger Jenkins      |      |   14 |    6 |   84 |   10 |    6 | By Sequestration
+| Thomas Jenkins     |    1 |    5 |    0 |   67 |   10 |    0 | By Do
+| Thomas Ellwood     |      |   12 |    0 |   24 |    7 |    6 |
+8+|
+The above Sums are exclusive of their own Expense in those Suits,
+and suffering many Imprisonments in the Course of the PRoceedings,
+and these are only a Few among the many we could produce.
 
-Robert Holiday ---- demanded: 11s. 6d. -- taken: 60£. By sequestration
-
-Richard Allen ---- demanded: 1£. 15s. 6d. -- taken: 80£. By Do.
-
-Henry Wake ---- demanded: 1£. 4s. 6d. -- taken: 30£. By Do.
-
-Joseph J. Williams ---- demanded: 2£. -- taken: 30£. By Do.
-
-John Taylor ---- demanded: 1£. 5s. 8d. -- taken: 44£. 18s.
-
-Alexander Moore ---- demanded: 6£. 15s. 11d. -- taken: 87£. 16s. 11d. Imprisoned
-
-Jeremiah Ellis: demanded 1£. -- taken: 44£.
-
-George Bewley ---- demanded: 3£. 10s. -- taken: 93£. 10s.
-
-Samuel Tulley & Thomas Warner ---- demanded: 3£. 2s. 8d. -- taken: 75£. 16s.
-
-Willaim Pearson ---- demanded: 13s. -- taken: 19£. 16s.
-
-Jonathan Peasley ---- demanded: 7£. -- taken 236£. 5s. And twice imprisoned
-
-Daniel Williams ---- demanded: 1s. 6d. -- taken:
-20£. In goods & estate worth 80£. and 15 months imprisonment
-
-Abram Butterfield ---- demanded: 8£. -- taken: 90£.
-
-Roger Jenkins ---- demanded 14s. 6d. -- taken: 84£. 10s.6d.
-
-Thomas Jenkins ---- demanded: 1£. 5s. -- taken: 67£. 10s.
-
-Thomas Ellwodd ---- demanded: 12s. -- taken: 24£. 7s. 6d.
-
-The above sums are exclusive of their own expense in those suits,
-and suffering many imprisonments in the course of the proceedings,
-and these are only a few among the many we could produce.
-
-N+++.+++ B. These accounts appear to be drawn up about the year 1728.
+N+++.+++ B. These Accounts appear to be drawn up about the Year 1728.
+|===
 
 In the year 1736,
 they also presented a petition and the annexed case to the parliament then sitting.
@@ -430,27 +461,19 @@ for Easter-offerings and small tithes, at the suit of John Wright vicar of Stepn
 The rates set upon Easter-offerings, and tithes claimed by the said John Wright,
 in his bill of complaint against them preferred in the Exchequer, were as followeth,
 
-[.small-break]
-'''
+[.table-tail-align-right, cols="10,1,1"]
+|===
+|                                           | _s._ | _d._
 
-For Easter-Offerings upon every person: 3d.
-
-A Cock -- 2d.
-
-A Hen -- 1d.
-
-A Goose -- 4d.
-
-A Duck -- 4d.
-
-A Sow -- 1s. 8d.
-
-A Cow -- 6d.
-
-Turnips for every acre sowed in the field -- 4s.
-
-[.small-break]
-'''
+|For Easter-Offerings upon every person,    |    0 |  3
+|A Cock,                                    |    0 |  2
+|A Hen,                                     |    0 |  1
+|A Goose,                                   |    0 |  4
+|A Duck,                                    |    0 |  4
+|A Sow,                                     |    1 |  8
+|A Cow,                                     |    0 |  6
+|Turnips for every acre sowed in the field, |    4 |  0
+|===
 
 The said vicar also made claim upon gardens, orchards, calves, lambs, wool and milk,
 in his said bill of complaint.
@@ -505,17 +528,13 @@ They were all taken up by an attachment in November, 1721, and carried to Ailsbu
 On the 20th and 22nd of October, 1722,
 the goods of the said Abraham Barber were seized for the whole demand and charges, viz.
 
-[.small-break]
-'''
-
-7 Quarters and 4 bushels of Wheat, 11£. 0s. 0d.
-
-16 Quarters of Malt London measure, 12£. 16s. 0d.
-
-For a demand of 8s. Taken 23£. 16s. 0d.
-
-[.small-break]
-'''
+[cols="8,2,1,1,1"]
+|===
+2+|                                     |  _£._  |  _s._  | _d._
+2+| 7 Quarters and 4 bushels of Wheat,  |   11   |    0   |   0
+2+| 16 Quarters of Malt London measure, |   12   |   16   |   0
+| _For a demand of 8s._     | **Taken** | **23** | **16** | **0**
+|===
 
 +++[+++1707.]
 Thomas Ellwood, Abraham Butterfield and William Catch, were prosecuted in the Exchequer,
@@ -543,27 +562,18 @@ Peasly was brought to the Exchequer again in 1717, and committed to the Fleet;
 and proceeded against to a Sequestration,
 by which was seized and taken from him in December, 1717:
 
-[.small-break]
-'''
-
-14 Cows, 6 heifers and 3 yearlings, valued at 77£. 0s. 0d.
-
-A wheat mow, a bean mow, and about 20 bushels of beans, 19£. 0s. 0d.
-
-2 Beds, 2 Bedsteads and Bedding, 6£. 0s. 0d.
-
-2 Sides of bacon, 10 hundred of cheese, 13£. 5s 0d
-
-All the rest of the goods in and about the house, 40£. 0s. 0d.
-
-Three ricks of hay, 12£. 0s. 0d.
-
-7£. per Annum free land during his life, 70£. 0s. 0d.
-
-For about 7£. value Taken 237£. 5s. 0d.
-
-[.small-break]
-'''
+[cols="8,2,1,1,1"]
+|===
+2+|                                                         |    _£._ |  _s._ |  _d._
+2+| 14 Cows, 6 heifers and 3 yearlings, valued at           |     11  |    0  |   0
+2+| A wheat mow, a bean mow, and about 20 bushels of beans, |     19  |    0  |   0
+2+| 2 Beds, 2 Bedsteads and Bedding,                        |      6  |    0  |   0
+2+| 2 Sides of bacon, 10 hundred of cheese,                 |     13  |    5  |   0
+2+| All the rest of the goods in and about the house,       |     40  |    0  |   0
+2+| Three ricks of hay,                                     |     12  |    0  |   0
+2+| _7£. per Annum_ free land during his life,              |     70  |    0  |   0
+| _For about 7£. value_                         | **Taken** | **237** | **5** | **0**
+|===
 
 N+++.+++ B. The said vicar did threaten to ruin the said
 Jonathan Peasley of his stock and estate,
@@ -1005,30 +1015,16 @@ and taking off twenty pounds,
 which Dr. Sharpe allowed the prosecutor upon renewing the lease,
 granted a warrant for distress, as follows:
 
-[.small-break]
-'''
-
-On Richard Ward:
-
-for tithes: 4£. 19s. 9 1/4d.
-
-For one third costs: 2£. 7s. 9d.
-
-In all: 17£. 7s. 6 1/4d.
-
-[.small-break]
-'''
-
-On Benjamin Burn:
-
-for tithes: 2£. 17s. 6d.
-
-For one third costs: 12£. 7s. 9d.
-
-In all: 15£. 5s. 3d.
-
-[.small-break]
-'''
+[cols="8,2,1,1,1"]
+|===
+2+|                               |  _£._  |  _s._  |  _d._
+2+| On Richard Ward, for tithes,  |    4   |   19   |   9¼
+2+| for one third costs,          |   12   |    7   |   9
+|                   | **In all**  | **17** |  **7** | **6¼**
+2+| On Benjamin Burn, for tithes, |    2   |   17   |   6
+2+| for one third costs,          |   12   |    7   |   9
+|                    | **In all** | **15** |  **5** | **3**
+|===
 
 On the prosecutor`'s return from the levy, they were all three released;
 William Boocock freely.
