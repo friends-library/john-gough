@@ -1537,7 +1537,11 @@ and yield obedience thereunto.
 Temple Stanyan
 
 [.postscript]
-Vera Copia.
+====
+
+_Vera Copia._
+
+====
 
 --
 

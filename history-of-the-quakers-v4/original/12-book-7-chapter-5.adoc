@@ -959,12 +959,16 @@ William Boocock
 York castle the 7th of 3rd month, 1741.
 
 [.postscript]
-N.B.A. little time before we were brought hither prisoners in the 3rd mouth, 1740,
+====
+
+N+++.+++ B. A little time before we were brought hither prisoners in the 3rd mouth, 1740,
 the said Robert Robinson, by virtue of a warrant from Robert Mitford and Robert Pockley,
 justices, distrained one cow of Richard Ward`'s,
 appraised at 3£. 10s. for five years small tithes, since the aforesaid suit commenced;
 and from Benjamin Burn he distrained a cow and a calf valued at 2£. 15s. for tithes,
 since the said suit commenced.
+
+====
 
 --
 
