@@ -3,11 +3,12 @@
 [.chapter-synopsis]
 * George Fox travels abroad again
 * State of the Nation
-* A general Turn to Religion prevalent,and religious Opinions multiplying, open a freer Reception for George Fox`'s Ministry
+* A general Turn to Religion prevalent, and religious Opinions multiplying, open a freer Reception for George Fox`'s Ministry
 * His first Appearance as a Minister
 * Independents seize the Government
 * George Fox`'s first Appearance in Prayer
-* Attends a public Dispute at Leicester--Endeavours on all Occasions to promote Righteousness
+* Attends a public Dispute at Leicester
+* Endeavours on all Occasions to promote Righteousness
 * Symptoms of Disgust against him begin to appear
 * For disusing customary Modes of Salutation and Address
 * Other Causes of Offence
@@ -52,7 +53,7 @@ and this party (who made high pretensions to sanctity
 and purity of religion) succeeding in their aim,
 both in the conducting of the war, and of the government after the war was concluded,
 giving scope to a latitude of policy, ambition, and a vindictive temper,
-irreconcileable to the honest simplicity,
+irreconcilable to the honest simplicity,
 the peaceable and forgiving spirit of the Christian religion,
 and the purity of their former pretensions, gave occasion to their antagonists,
 and sundry historians after them,
@@ -105,7 +106,7 @@ and so to pass the time of their sojourning here in his fear, as to obtain his f
 that they were preserved thereby through these times
 of tumult in innocence and integrity of life,
 lamenting the calamities of their country,
-and for bearing to take any active part in the guilty and distracting scene.
+and forbearing to take any active part in the guilty and distracting scene.
 That from the reformation to this time a spirit of
 free religious inquiry had been kept alive,
 even by the severities practised to quash it: That the civil wars,
@@ -234,8 +235,8 @@ which liveth and abidith forever?`"^
 footnote:[1 Peter 1:23.]
 The priest replied, I suffer not a woman to speak in the _church_,
 which drew from George Fox an inquiry what he understood the Church to be, for reply,
-the priest returning the question George expressed Explains his
-his Idea thereof "`That it was neither a building of lime and stones,
+the priest returning the question George expressed
+his idea thereof "`That it was neither a building of lime and stones,
 nor a mixed multitude assembled together; but the pillar and ground of truth,
 a spiritual building composed of living stones, a spiritual household,
 which Christ was the head of.`"
@@ -340,7 +341,7 @@ and the external signs thereof belong to God only.
 {footnote-paragraph-split}
 Thirdly,
 they scruple compliance with these customs because they were received
-(amongst many other gross corruprtions of Christianity) through
+(amongst many other gross corruptions of Christianity) through
 the polluted channel of Paganism in its most corrupted state.
 The eastern monarchs, enervated by luxury,
 intoxicated by the flattery of pernicious parasites, and debauched by pride and by power,
@@ -376,7 +377,7 @@ occurs in the last stages of the decline of the Roman empire,
 in the reign of Valentinian and Valens,
 between three and four hundred years after the commencement of the Christian era.
 Eutropius addresseth to Valens,
-vestra tranquillitas +++[+++your tranquillity]. And the
+__vestra tranquillitas__ +++[+++your tranquillity]. And the
 same author dedicated his work to the same Emperor,
 with the following extravagant epithets: _Domino Valenti Gothito maximo, perpetun,
 augusto.
@@ -391,11 +392,11 @@ whom, in this age of gross degeneracy from the manly spirit of their ancestors,
 they were servile and stupid enough to flatter with divine attributes while living,
 and enroll them among their imaginary Deities when dead.
 To an extravagance of Idolatry,
-as irreconcileable to the whole tenor of Christianity as light is to darkness,
+as irreconcilable to the whole tenor of Christianity as light is to darkness,
 or Christ to Belial.
 For these reasons, this people,
 endeavouring to regulate their conduct and their
-con sciences by the light they were savoured with,
+consciences by the light they were savoured with,
 one might reasonably expect should have met with indulgence,
 rather than persecution and insult from the present rulers and teachers,
 whose professed principle was that every man ought to direct his
@@ -490,7 +491,7 @@ than for the uniform practice of every Christian virtue,
 and the severity and iniquity of their sufferings for the testimony of a good
 conscience through three successive revolutions of governments.
 
-George George Fox`'s first imprisonment was in the course of the present year at Nottingham:
+George Fox`'s first imprisonment was in the course of the present year at Nottingham:
 Coming thither on a first day of the week,
 under a persuasion of duty he went to the public worship and the
 priest taking for his text these words of the apostle Peter,
