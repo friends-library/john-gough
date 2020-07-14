@@ -15,7 +15,7 @@
 * Trial of Wenlock Christison
 * The Court divided, yet the Governor passes sentence of death upon him
 * An Order for releasing the Quakers out of Prison
-* Edward Burrough solicits the King to put a stop to the Persecution in New-England
+* Edward Burrough solicits the King to put a stop to the Persecution in New England
 * The King in compliance with his Solicitation orders a Mandamus to stop it
 * He deputes Samuel Shattock to carry it over
 * The Mandamus delivered, and Persecution in part stopped
@@ -42,7 +42,7 @@ After much hardship, by imprisonment and many cruel stripes,
 he had been banished from Boston on pain of death.
 Returning soon after to visit his friends in prison there, he was apprehended,
 and kept night and day in an open jail, chained to a log of wood,
-during an extreme cold winter, exceeding in in clemency our severest seasons in Engiand.
+during an extreme cold winter, exceeding in clemency our severest seasons in England.
 This poor man seems to have been persecuted with peculiar inveteracy of malice.
 In his former imprisonment, he was kept in a prison so close, without sustenance,
 that it bore the appearance of a design to suffocate or famish him,
@@ -382,7 +382,7 @@ where both the governor Endicot and deputy Bellingham endeavoured, but in vain,
 to daunt the valiant confessor with dreadful menaces, telling him,
 that except he would renounce his religion, he should surely die.
 But he, without the least hesitation, answered them, Nay, I shall not change my religion,
-nor seek to save my life; neither do I in tend to deny my master,
+nor seek to save my life; neither do I intend to deny my master,
 but if I lose my life for Christ`'s sake, and the preaching of the gospel,
 I shall save it.
 This undaunted reply put a stop to their further procedure at present;
@@ -409,7 +409,7 @@ I came not in among you in rebellion, but in obedience to the God of heaven;
 not in contempt to any one of you, but in love to your souls and bodies;
 and that you shall know one day,
 when you and all men must give an account of the deeds done in the body.
-Take heed, for you cannot escape the c righteous judgments of God.
+Take heed, for you cannot escape the righteous judgments of God.
 
 [.discourse-part]
 _Major-general Adderton._
@@ -514,7 +514,7 @@ There is a law to hang Jesuits.
 
 [.discourse-part]
 _Wenlock._
-If you put me to death, it is not be cause I go under the name of a Jesuit, but a Quaker,
+If you put me to death, it is not because I go under the name of a Jesuit, but a Quaker,
 therefore I appeal to the laws of my own nation.
 
 [.discourse-part]
@@ -531,7 +531,7 @@ that you will true trial make, and just verdict give, according to the evidence.
 Jury, look for your evidence: what have I done to deserve death?
 Keep your hands out of innocent blood.`'
 This one of the jurymen acknowledged to be good counsel, yet the generality,
-either prejudiced in their minds, or afraid of the displea sure of the court,
+either prejudiced in their minds, or afraid of the displeasure of the court,
 from which they had received their lesson, soon brought him in guilty.
 Wenlock then said, I deny all guilt, for my conscience is clear in the sight of God.
 
@@ -603,7 +603,7 @@ an order of court was issued for the enlargement of him,
 and twenty seven others then in prison for their christian testimony.
 
 When the marshal and constable came to set them at liberty,
-they informed them it was in consequenqe of a new law:^
+they informed them it was in consequence of a new law:^
 footnote:[This new law was for banishing them, and if they returned,
 whipping them from town to town out of their jurisdiction.]
 upon which Wenlock remarked that "`It was thought the gallows had been their last weapon,
@@ -652,13 +652,13 @@ and that they finally ceased not their inhuman severities until the principal ag
 were arrested to appear in judgment before an higher tribunal than theirs.
 
 When the tidings of these severe executions reached their friends in England,
-from the impulse of that fraternal sympathy and affection, chap.
+from the impulse of that fraternal sympathy and affection,
 which made them nearly feel for and with each other in their afflictions,
 they thought it their duty to make immediate application to the king.
 For this purpose Edward Burrough, who had on many former occasions,
 solicited for the relief of his friends,
 when under sufferings in the various changes of government, repaired to court,
-to repeat his solicitations on behalf of the sufferers in New-England;
+to repeat his solicitations on behalf of the sufferers in New England;
 and having obtained access to the King`'s presence, informed him,
 there was a vein of innocent blood opened in his dominions,
 which if it were not stopped might over-run all: to which the king replied,
@@ -672,7 +672,7 @@ which was this; this year you will go to complain to the parliament,
 and the next year they will send to see how it is;
 and the third year the government is changed: This passage immediately struck him,
 so that calling to some of the lords to hear it, he said, "`Lo,
-these are my good subjects of New-England, but I will put a stop to them.`"
+these are my good subjects of New England, but I will put a stop to them.`"
 The king being hereby prepossessed against them,
 readily complied with Edward Burrough`'s solicitations,
 who mandamus representing the case as urgent,
@@ -726,7 +726,7 @@ William Morris
 In order to lose no time in expediting a matter of such consequence, Ralph Goldsmith,
 a ship commander of a good ship, and one of their own society,
 was engaged for three hundred pounds to sail in ten days,
-who immediately prerparing and sailing accordingly, arrived at Boston in about six weeks.
+who immediately preparing and sailing accordingly, arrived at Boston in about six weeks.
 On their arrival in the harbour,
 some of the citizens coming on board to look for letters (which
 would not be delivered that day) at their return on shore,
@@ -738,7 +738,7 @@ Next morning Samuel Shattock went on shore, accompanied only by the master of th
 and going directly to the governor`'s house,
 produced his commission with the King`'s mandamus to the governor,
 who after the perusal thereof, and consulting the deputy governor, The man said,
-We shall obey his Majejsty`'s command.
+We shall obey his Majesty`'s command.
 After this the passengers came ashore,
 and had a religious meeting with their friends in the town,
 to return thanksgivings to the God and Father of all their mercies,

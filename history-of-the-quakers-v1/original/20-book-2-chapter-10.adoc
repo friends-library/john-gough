@@ -19,7 +19,7 @@ and at parting, Cromwell desired him to come to him at Whitehall:
 He accordingly went thither, accompanied by Edward Pyott,
 where they opened the subject more fully,
 acquainting him with the sufferings of their brethren,
-and remonstrating against persecution, as entirely in consistent with Christianity,
+and remonstrating against persecution, as entirely inconsistent with Christianity,
 and a manifest deviation from the example of Christ and his apostles,
 who suffered persecution, but never persecuted any.
 
@@ -32,7 +32,7 @@ not (as falsely represented) in contempt of authority,
 but in conformity to the dictates of their consciences,
 which taught them to decline every appearance of flattery
 and refinement in their addresses to the greatest,
-as apprehending these things in consistent with the simplicity
+as apprehending these things inconsistent with the simplicity
 and godly sincerity recommended in the gospel:
 These extracts also exhibiting a lively description of the
 sufferings which this people at that time endured,
@@ -250,7 +250,7 @@ against the people called Quakers.
 
 After all,
 we need not perhaps admire that the measures of this
-parliament were not farourable to liberty:
+parliament were not favourable to liberty:
 Men who had given themselves up to act by the nod or direction of another,
 having resigned their own liberty,
 were not likely to have a tender regard for the liberties of other men.
