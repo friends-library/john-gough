@@ -2,7 +2,7 @@
 
 [.chapter-synopsis]
 * Discovery of North-America
-* First Planters of New-England
+* First Planters of New England
 * John Robinson`'s Farewell-Admonition
 * Emigrations multiply in the Reign of Charles I
 * Reflection on the Spirit of these Colonists
@@ -150,7 +150,7 @@ his intemperate bigotry to useless and unmeaning ceremonies;
 his aversion to the Puritans, to whom his innovations in worship were an abomination;
 and his determined resolution to force them into
 an uniformity after his superstitious scheme,
-impelled him to prosecute them with rigorous seventy
+impelled him to prosecute them with rigorous severity
 in the high commission court and Star Chamber,
 two very arbitrary and illegal courts,
 that seem to have been established for the purpose of subduing
@@ -214,8 +214,8 @@ became in a short time tainted with this illiberal vice,
 and were eager to introduce an uniformity in religion among all that entered their territories.
 We have also a full proof of this in a letter dated August 16, 1677,
 from William Coddington, governor of Rhode Island, to R. Fretwell:
-"`These forty years to my knowledge, they +++[+++the rulers of New-England]
-have had many warnings From the Spirit of the Lord in his servants,
+"`These forty years to my knowledge, they (the rulers of New England)
+have had many warnings from the Spirit of the Lord in his servants,
 all crying out against their idolatrous practices,
 confused principles and fighting spirits long before
 that reproachful name of Quakers got up,
@@ -247,9 +247,9 @@ That magistrates had nothing to do with matters of the first table, but the seco
 that there should be an unlimited toleration for all religions,
 and to punish men for matters of conscience was persecution.`"
 I see nothing in these opinions deserving banishment or even censure.
-Neale`'s [.book-title]#History of New-England, Vol 1.# p. 159.]
+Neale`'s [.book-title]#History of New England, Vol 1.# p. 159.]
 In the year 1637 a more extensive schism broke out,
-which divided 16 the inhabitants of Boston and the adjacent country into two parties,
+which divided the inhabitants of Boston and the adjacent country into two parties,
 under the denominations Boston, of Antinomians and Legalists,
 or such as were (as they termed it) for a covenant of grace;
 and such as were for a covenant of works:
@@ -272,7 +272,7 @@ Dudley and others applied to him to sign an order for the banishment of one Math
 a Welch priest, he refused, saying, he had his hands too much in such things already.]
 as governor in his stead, with some difficulty succeeded in the election:
 Winthrop being settled in the government,
-and the Antinomians having lost their chief Synod protector,
+and the Antinomians having lost their chief protector,
 a synod was convened to consider the controverted points, and give judgment upon them.
 This synod consisted not only of the ministers and delegates, but the magistrates also,
 under colour of keeping the peace,
@@ -313,7 +313,7 @@ footnote:[As Neale, from whom I take this account, follows Cotton Mather,
 an apologist for these severities, there is reason to suspect his relation of partiality;
 if we had accounts on the other side to balance against this,
 I doubt not but these proceedings would appear in even a more unfavourable light.
-Of these first settlers in Rhode-Island he copies this character from Mather.
+Of these first settlers in Rhode Island he copies this character from Mather.
 Cotton Mather represents them as a generation of Familists, Libertines,
 Antinomians and Quakers,
 whose posterity for want of schools of learning and a public ministry,
@@ -324,10 +324,10 @@ and would never till of late allow any such to preach among them.
 This seems the language of animosity and contempt;
 but I have before me a very different description of these
 Rhode Islanders drawn up by a more judicious pen in my opinion:
-"`Several slips, torn from the original government of New-England,
-planted themselves of Rhode-Island,
+"`Several slips, torn from the original government of New England,
+planted themselves of Rhode Island,
 whose inhabitants were driven out from the Massachusett colony (for that is the
-name by which the government first erected in New-England was distinguished)
+name by which the government first erected in New England was distinguished)
 for supporting the freedom of religious sentiment,
 and maintaining that the civil magistrate had no
 right over the speculative opinions of mankind.
@@ -369,7 +369,7 @@ and under a shew of humility and self-denial,
 craftily undermined the reputation of the best ministers in the country,
 calling them legalists,^
 footnote:[Yet this author represents her as a great admirer of John Cotton,
-one of the best, if not the very best, minister at this time in New-England.]
+one of the best, if not the very best, minister at this time in New England.]
 Men that were not acquainted with the spirit of the gospel, nay,
 that were unacquainted with Christ himself.^
 footnote:[That there was too much truth in this description of these ministers,
@@ -425,7 +425,7 @@ who committed them to Boston prison by the following mittimus:
 
 By virtue hereof you are required to take into
 your custody from the constable Lynn or his deputy,
-the bodies of John John Clarke, Obadiah Holmes and John Crandall,
+the bodies of John Clarke, Obadiah Holmes and John Crandall,
 and them to keep until the next county prison court to be held at Boston,
 that they may then and there answer to such complaints as may be alleged against them,
 for being taken by the constable at a private meeting at Lynn on the Lord`'s day,
