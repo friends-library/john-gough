@@ -5,16 +5,16 @@
 * George Fox imprisoned at Worcester, together with Thomas Lower
 * Brought to trial at the Sessions
 * Oaths of Allegiance and Supremacy required of George Fox
-* For refusing be is remanded to Prison
+* For refusing he is remanded to Prison
 * Thomas Lower discharged
 * And solicits his Father`'s Discharge in vain
-* George Fox removed by Habeas Corpus.--By Parker`'s Contrivance remanded to Worcester
+* George Fox removed by _habeas corpus_.--By Parker`'s Contrivance remanded to Worcester
 * Brought again before the Sessions
 * George Fox`'s Vindication
 * Clandestinely condemned in a Premunire
 * Falls sick in Prison
 * The King offers him a Pardon; which he is not free to accept
-* Removed again by Habeas Corpus and released
+* Removed again by _habeas corpus_ and released
 * After his Release goes down to Swarthmore to reside
 
 For the indulgence was hardly sooner revoked, than the informers,
@@ -33,7 +33,7 @@ from whence he went through Gloucestershire and Oxfordshire to London,
 and after staying there a while, visiting his friends in their meetings,
 and their children in their schools, he set forward with his wife and Thomas Lower,
 with intention to accompany her on her way home,
-and to visit his mother on her death bed; but when they came into Worcestershire,
+and to visit his mother on her deathbed; but when they came into Worcestershire,
 he signified to his wife his apprehension that a prison would be his lot there,
 which filled her with sorrow.
 And soon after, having had a meeting at John Halford`'s, at Armscot,
@@ -179,10 +179,10 @@ four cows worth 14£.£. At another time for the like demand of 8£. he
 suffered by distraint of four cows and two horses 30£.£. Crowther had
 the power of holding an ecclesiastical court once in three years,
 to which the said William Parr was cited for not coming to hear common prayer,
-was committed to prison by writ de excommunicato capiendo,
+was committed to prison by writ _de excommunicato capiendo_,
 and detained in prison upwards of two years and an half.]
 At this the justices broke into a laughter; for Doctor Crowther, the priest spoken of,
-was then fitting with them in the room, unknown to Thomas Lower,
+was then sitting with them in the room, unknown to Thomas Lower,
 and he had the sense to let it pass without any reply,
 either of resentment or vindication.
 But when Thomas Lower was gone, the justices,
@@ -193,7 +193,7 @@ which coming to Thomas`'s ears, he sent him word, and afterwards told him to his
 and bring his whole parish in evidence against him.`"
 So the priest in conclusion thought it the wisest course to let it drop.
 
-Some days after an habeas corpus came down for removing
+Some days after an _habeas corpus_ came down for removing
 George Fox to the King`'s Bench bar at Westminster.
 On receipt whereof the under sheriff made Thomas Lower his deputy to convey him to London,
 where they arrived on the 2nd of the month called February, and appearing in court,
@@ -201,7 +201,7 @@ his case was argued, but no determination come to at that time;
 he was ordered into the custody of the marshal of the King`'s Bench,
 and another day appointed for hearing it.
 
-In the mean time Parker, who had grossly injured him in his causeless imprisonment,
+In the meantime Parker, who had grossly injured him in his causeless imprisonment,
 with persevering enmity, to prolong his imprisonment, and cloak his own illegal conduct,
 had, in concert with other adversaries, dispersed a malicious report,
 "`that there were many substantial men with George Fox, out of many parts of the nation,
@@ -355,8 +355,8 @@ he thought the acceptance of a pardon would be a tacit acknowledgement of guilt;
 wherefore he declared, he had rather lie in prison all his days,
 than come out in any way dishonourable to the truth he made profession of.
 He rather chose to have the validity of his indictment tried before the judges;
-and accordingly procured an habeas corpus^
-footnote:[The Habeas Corpus being readily procured and sent down to Worcester,
+and accordingly procured an _habeas corpus_^
+footnote:[The _habeas corpus_ being readily procured and sent down to Worcester,
 his adversaries,
 as conscious of having exerted a power which would not stand the test of examination,
 were reluctant to comply therewith, and endeavoured to evade it,
@@ -385,7 +385,7 @@ insinuating he was a dangerous man to be at liberty.
 But that upright and conscientious judge Sir Matthew
 Hale at this time presided at the King`'s Bench,
 who was too honest to lend an ear to such suggestions,
-saying be had indeed heard some such reports of George Fox,
+saying he had indeed heard some such reports of George Fox,
 but he had also heard more good reports of him.
 So after a full hearing before the four judges he was discharged by proclamation,
 after he had suffered an unjust imprisonment of a year and almost two months,
@@ -394,7 +394,7 @@ without impeachment (by implication) of his innocence.
 And Corbet his advocate obtained great credit by his manner of pleading his cause;
 the lawyers alledging he had brought that to light which had not been remarked before.
 And after the trial one of the judges complimented him upon it, saying,
-you hive obtained a great deal of honour,
+you have obtained a great deal of honour,
 by your way of pleading George Fox`'s cause in court.
 
 After his release he went to London,
