@@ -4,7 +4,7 @@
 * Visit of Benjamin Holme and John Burton
 * John Burton returns home
 * Benjamin visits Londonderry and several other Places, where there are no Meetings of Friends
-* Is imprisoned at Long ford
+* Is imprisoned at Longford
 * Address to Government on Occasion of the Rebellion
 * Thomas Story visits Ireland
 * At Kilkenny is persecuted by the Bishop of Ossory
@@ -62,7 +62,7 @@ Benjamin Holme replied, they did not come to ask his leave,
 but as a magistrate to inform him thereof and pleaded
 the Queen`'s toleration for liberty of conscience,
 and so they parted.
-But the land lord hearing of Spann`'s prohibition, told them,
+But the landlord hearing of Spann`'s prohibition, told them,
 that in this circumstance he durst not by any means suffer a meeting in his house,
 for that Mr. Spann would ruin him.
 Whereupon Benjamin Holme and Benjamin Parvin, going to seek another place,
@@ -73,7 +73,7 @@ that either man or woman in England or Ireland could grant a toleration.
 Benjamin Holme desired him "`to do as he would be done by.`"
 The priest replied, "`that is no rule to me.`" His passion being greatly raised,
 he called for a constable; but none appearing,
-he seized him him and seeing the jailer near, commanded him to take him into custody;
+he seized him, and seeing the jailer near, commanded him to take him into custody;
 and so leading him by one arm, and the jailer by the other,
 they put him into the dungeon, and after some abusive language,
 laid hold of Benjamin Parvin, and delivered him to the jailer,
@@ -173,7 +173,7 @@ the inhabitants of which city are generally of the Romish communion,
 or Protestants of the high church class,
 being the ancient residence of the Dukes of Ormond,
 and at that time under the influence of a lordly high priest, Vesey, bishop of Ossory,
-whose palace as there.
+whose palace is there.
 Here are few dissenters of any class except papists;
 and this bishop seemed much disposed, as far as he had power, to suffer no other.
 
@@ -213,14 +213,14 @@ which was brought to him ready drawn up by Robert Connell the bishop`'s register
 and sent to him by the bishop, desiring him to sign it;
 it was with reluctance he complied; they took them to other justices,
 who evaded interfering; till at last they were taken before the mayor, and this Connell,
-who being an alder man, was a justice of the city by his office;
+who being an alderman, was a justice of the city by his office;
 they charged them with holding a riotous and unlawful assembly, which being denied,
 Connell acknowledged they were not making any disturbance,
 but still it was an unlawful assembly,
 the act of toleration in England not extending to Ireland.
 This position Thomas Story endeavoured to disprove;
 these magistrates then required security for their appearance at the assizes,
-and for their good behaviour in the mean time; this was refused;
+and for their good behaviour in the meantime; this was refused;
 the justices wrote a mittimus,
 but at last dismissed them with menaces of the consequences,
 if they should attempt to hold any more meetings there.
@@ -294,7 +294,7 @@ and acknowledged his sorrow for it; and Alderman Haddock and others,
 who entering into conference with him, began to discourse about his confinement,
 at which they freely expressed their indignation.
 
-In the mean time the mayor and alderman Connell also came in a great chase,
+In the meantime the mayor and alderman Connell also came in a great chase,
 which was heightened when they saw these persons in friendly conversation with him.
 As they advanced towards them, Thomas began to speak to his company,
 concerning the grounds upon which they founded their proceedings,
@@ -347,7 +347,7 @@ and might go when and whither he pleased; and made an apology for his conduct,
 that he would not have done what he did,
 but that the Clergy as one man strongly urged him to it,
 by telling him they had thought him a man for the church, but to find him so remiss,
-looked quite other wise;
+looked quite otherwise;
 that for his own part it gave him no concern what meetings they had,
 and was glad he was now like to be out of the way,
 being obliged to attend the judges at the assizes
@@ -380,7 +380,7 @@ when the constables and sergeants came again,
 but being grown weary of the invidious office, with great reluctance and with apologies,
 and so faintly, that they could hardly touch him;
 and one of them naming the bishop to be concerned,
-furnished Thomas at the Thomas with an occasion to remark,
+furnished Thomas with an occasion to remark,
 they were not ignorant all this time,
 who was at the bottom of these persecuting measures,
 but now they heard plainly it was the bishop.
@@ -394,7 +394,7 @@ that their offices should subject them to actions so contrary to their inclinati
 entreated him to walk up to his lodgings till church was done;
 he told them he was in their custody, and must go whither they should take him;
 whereupon they accompanied him to the sheriff`'s house.
-In the mean time the meeting continued; William Brookfield appeared in the ministry;
+In the meantime the meeting continued; William Brookfield appeared in the ministry;
 some constables were there, who stood without,
 as if they had no mind to understand or hear anything; the meeting ended in order,
 and friends were greatly comforted.
@@ -422,7 +422,7 @@ and inclined to do all they could for them in honor and safety.
 The judges sent for the sheriff to examine the calendar,
 and not finding the mittimus therein,
 it appeared that his adversaries had little hopes of gaining anything by a prosecution,
-and there fore having exercised their power as far as they durst,
+and therefore having exercised their power as far as they durst,
 were willing to drop further proceedings,
 which must here redound to their discredit and disappointment.
 And the judges advised Thomas and his friends to
@@ -460,7 +460,7 @@ directed to the sheriff to arrest and commit him to the
 common jail for three months without bail or mainprize;
 intending to wreak his malice by confining him in
 an incommodious common prison the whole time;
-for he had sent for the sheriff and reprimanded him sharly,
+for he had sent for the sheriff and reprimanded him sharply,
 and threatened to call him before the house of lords,
 for giving him the liberty of the town upon his first commitment.
 
@@ -515,7 +515,7 @@ without an unreserved Conformity to the episcopal church in every respect;
 but had no respect to those who preached without pay.
 
 Upon this discovery he told the sheriff it was false imprisonment,
-and desired him and others to rake down in writing at what time he was arrested,
+and desired him and others to take down in writing at what time he was arrested,
 because there might be occasion for their evidence.
 The sheriff seemed surprised that the great bishop
 and his counsellors should commit such a blunder;
