@@ -398,7 +398,7 @@ we can produce the opinions of other writers,
 not a whit inferior in soundness of judgment, in mental abilities, or in literary fame;
 and much superior, in my opinion, in justice and liberality of sentiment.
 
-[quote, Norris, Treatise of Divine Light Tract 2, p. 32]
+[quote, Norris, "Treatise of Divine Light Tract 2, p. 32"]
 ____
 I cannot think Quakerism inconsiderable,
 as the principles of it are laid down and managed by Mr. Barclay.
@@ -423,7 +423,7 @@ And I am convinced that, taken altogether,
 it is the most reasonable and most perfect system, which hath ever been conceived.
 ____
 
-[quote, Cato's Letters Vol. 4. p.226]
+[quote, , Cato's Letters Vol. 4. p.226]
 ____
 I am not ashamed to own that I have with great pleasure
 read over Mr. Barclay`'s Apology for Quakerism,
