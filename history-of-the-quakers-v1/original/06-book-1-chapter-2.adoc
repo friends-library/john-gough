@@ -377,7 +377,7 @@ occurs in the last stages of the decline of the Roman empire,
 in the reign of Valentinian and Valens,
 between three and four hundred years after the commencement of the Christian era.
 Eutropius addresseth to Valens,
-__vestra tranquillitas__ +++[+++your tranquillity]. And the
+__vestra tranquillitas__ +++[+++your tranquillity+++]+++. And the
 same author dedicated his work to the same Emperor,
 with the following extravagant epithets: _Domino Valenti Gothito maximo, perpetun,
 augusto.
