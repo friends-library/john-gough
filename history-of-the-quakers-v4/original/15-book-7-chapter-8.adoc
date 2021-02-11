@@ -266,52 +266,117 @@ and that accordingly the first day of the 11th month, commonly called January, n
 shall be reckoned and deemed, by friends,
 the first day of the first month of the year 1752, and
 
-[.table-valign-middle.table-vertical-lines.table-align-center, cols="1,2,2,2,2,2,2"]
-|===
-|The
-|
-_Eleventh_ +
-_Twelfth_ +
-_First_ +
-_Second_ +
-_Third_ +
-_Fourth_ +
-_Fifth_ +
-_Sixth_ +
-_Seventh_ +
-_Eighth_ +
-_Ninth_ +
-_Tenth_ +
-| Month called
-|
-_January_ +
-_February_ +
-_March_ +
-_April_ +
-_May_ +
-_June_ +
-_July_ +
-_August_ +
-_September_ +
-_October_ +
-_November_ +
-_December_ +
-| shall be reckoned, and styled the
-|
-_First_ +
-_Second_ +
-_Third_ +
-_Fourth_ +
-_Fifth_ +
-_Sixth_ +
-_Seventh_ +
-_Eighth_ +
-_Ninth_ +
-_Tenth_ +
-_Eleventh_ +
-_Twelfth_ +
-| Month of the next, and every succeeding Year.
-|===
+// --lint-ignore - asciidoc-source: https://gist.github.com/jaredh159/147c9e8db25621a5fbfefc130ecbc512/raw/89779d8c236e32995e11fb254fb81a1f12d93721/gough-7.adoc
+++++
+<table class="tableblock frame-all grid-all stretch table-valign-middle table-vertical-lines table-align-center">
+  <colgroup>
+    <col style="width: 7.6923%;"></col>
+    <col style="width: 15.3846%;"></col>
+    <col style="width: 15.3846%;"></col>
+    <col style="width: 15.3846%;"></col>
+    <col style="width: 15.3846%;"></col>
+    <col style="width: 15.3846%;"></col>
+    <col style="width: 15.3847%;"></col>
+  </colgroup>
+  <tbody>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">The</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock"><em>Eleventh</em>
+          <br />
+          <em>Twelfth</em>
+          <br />
+          <em>First</em>
+          <br />
+          <em>Second</em>
+          <br />
+          <em>Third</em>
+          <br />
+          <em>Fourth</em>
+          <br />
+          <em>Fifth</em>
+          <br />
+          <em>Sixth</em>
+          <br />
+          <em>Seventh</em>
+          <br />
+          <em>Eighth</em>
+          <br />
+          <em>Ninth</em>
+          <br />
+          <em>Tenth</em>
+          <br />
+        </p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Month called</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock"><em>January</em>
+          <br />
+          <em>February</em>
+          <br />
+          <em>March</em>
+          <br />
+          <em>April</em>
+          <br />
+          <em>May</em>
+          <br />
+          <em>June</em>
+          <br />
+          <em>July</em>
+          <br />
+          <em>August</em>
+          <br />
+          <em>September</em>
+          <br />
+          <em>October</em>
+          <br />
+          <em>November</em>
+          <br />
+          <em>December</em>
+          <br />
+        </p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">shall be reckoned, and styled the</p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock"><em>First</em>
+          <br />
+          <em>Second</em>
+          <br />
+          <em>Third</em>
+          <br />
+          <em>Fourth</em>
+          <br />
+          <em>Fifth</em>
+          <br />
+          <em>Sixth</em>
+          <br />
+          <em>Seventh</em>
+          <br />
+          <em>Eighth</em>
+          <br />
+          <em>Ninth</em>
+          <br />
+          <em>Tenth</em>
+          <br />
+          <em>Eleventh</em>
+          <br />
+          <em>Twelfth</em>
+          <br />
+        </p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">Month of the next, and every succeeding Year.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+++++
 
 [.numbered]
 3+++.+++ And whereas for the more regular computation of time,
