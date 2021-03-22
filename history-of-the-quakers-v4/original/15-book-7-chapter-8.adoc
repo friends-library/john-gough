@@ -270,13 +270,13 @@ the first day of the first month of the year 1752, and
 ++++
 <table class="tableblock frame-all grid-all stretch table-valign-middle table-vertical-lines table-align-center">
   <colgroup>
-    <col style="width: 7.6923%;"></col>
-    <col style="width: 15.3846%;"></col>
-    <col style="width: 15.3846%;"></col>
-    <col style="width: 15.3846%;"></col>
-    <col style="width: 15.3846%;"></col>
-    <col style="width: 15.3846%;"></col>
-    <col style="width: 15.3847%;"></col>
+    <col style="width: 7.6923%;"/>
+    <col style="width: 15.3846%;"/>
+    <col style="width: 15.3846%;"/>
+    <col style="width: 15.3846%;"/>
+    <col style="width: 15.3846%;"/>
+    <col style="width: 15.3846%;"/>
+    <col style="width: 15.3847%;"/>
   </colgroup>
   <tbody>
     <tr>

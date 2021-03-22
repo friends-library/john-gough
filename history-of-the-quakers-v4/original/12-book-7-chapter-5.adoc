@@ -81,13 +81,13 @@ of being supported by the charity of their friends.
 ++++
 <table class="tableblock frame-all grid-all stretch table-tail-align-center table-header-tail-x-small">
   <colgroup>
-    <col style="width: 25%;"></col>
-    <col style="width: 12.5%;"></col>
-    <col style="width: 12.5%;"></col>
-    <col style="width: 12.5%;"></col>
-    <col style="width: 12.5%;"></col>
-    <col style="width: 12.5%;"></col>
-    <col style="width: 12.5%;"></col>
+    <col style="width: 25%;"/>
+    <col style="width: 12.5%;"/>
+    <col style="width: 12.5%;"/>
+    <col style="width: 12.5%;"/>
+    <col style="width: 12.5%;"/>
+    <col style="width: 12.5%;"/>
+    <col style="width: 12.5%;"/>
   </colgroup>
   <thead>
     <tr>
@@ -1029,14 +1029,14 @@ of being supported by the charity of their friends.
 ++++
 <table class="tableblock frame-all grid-all stretch table-header-tail-x-small table-last-col-secondary">
   <colgroup>
-    <col style="width: 41.6666%;"></col>
-    <col style="width: 4.1666%;"></col>
-    <col style="width: 4.1666%;"></col>
-    <col style="width: 4.1666%;"></col>
-    <col style="width: 4.1666%;"></col>
-    <col style="width: 4.1666%;"></col>
-    <col style="width: 4.1666%;"></col>
-    <col style="width: 33.3338%;"></col>
+    <col style="width: 41.6666%;"/>
+    <col style="width: 4.1666%;"/>
+    <col style="width: 4.1666%;"/>
+    <col style="width: 4.1666%;"/>
+    <col style="width: 4.1666%;"/>
+    <col style="width: 4.1666%;"/>
+    <col style="width: 4.1666%;"/>
+    <col style="width: 33.3338%;"/>
   </colgroup>
   <thead>
     <tr>
@@ -1876,9 +1876,9 @@ in his bill of complaint against them preferred in the Exchequer, were as follow
 ++++
 <table class="tableblock frame-all grid-all stretch table-tail-align-right">
   <colgroup>
-    <col style="width: 83.3333%;"></col>
-    <col style="width: 8.3333%;"></col>
-    <col style="width: 8.3334%;"></col>
+    <col style="width: 83.3333%;"/>
+    <col style="width: 8.3333%;"/>
+    <col style="width: 8.3334%;"/>
   </colgroup>
   <thead>
     <tr>
@@ -2037,11 +2037,11 @@ the goods of the said Abraham Barber were seized for the whole demand and charge
 ++++
 <table class="tableblock frame-all grid-all stretch">
   <colgroup>
-    <col style="width: 61.5384%;"></col>
-    <col style="width: 15.3846%;"></col>
-    <col style="width: 7.6923%;"></col>
-    <col style="width: 7.6923%;"></col>
-    <col style="width: 7.6924%;"></col>
+    <col style="width: 61.5384%;"/>
+    <col style="width: 15.3846%;"/>
+    <col style="width: 7.6923%;"/>
+    <col style="width: 7.6923%;"/>
+    <col style="width: 7.6924%;"/>
   </colgroup>
   <tbody>
     <tr>
@@ -2135,11 +2135,11 @@ by which was seized and taken from him in December, 1717:
 ++++
 <table class="tableblock frame-all grid-all stretch">
   <colgroup>
-    <col style="width: 61.5384%;"></col>
-    <col style="width: 15.3846%;"></col>
-    <col style="width: 7.6923%;"></col>
-    <col style="width: 7.6923%;"></col>
-    <col style="width: 7.6924%;"></col>
+    <col style="width: 61.5384%;"/>
+    <col style="width: 15.3846%;"/>
+    <col style="width: 7.6923%;"/>
+    <col style="width: 7.6923%;"/>
+    <col style="width: 7.6924%;"/>
   </colgroup>
   <tbody>
     <tr>
@@ -2721,11 +2721,11 @@ granted a warrant for distress, as follows:
 ++++
 <table class="tableblock frame-all grid-all stretch">
   <colgroup>
-    <col style="width: 61.5384%;"></col>
-    <col style="width: 15.3846%;"></col>
-    <col style="width: 7.6923%;"></col>
-    <col style="width: 7.6923%;"></col>
-    <col style="width: 7.6924%;"></col>
+    <col style="width: 61.5384%;"/>
+    <col style="width: 15.3846%;"/>
+    <col style="width: 7.6923%;"/>
+    <col style="width: 7.6923%;"/>
+    <col style="width: 7.6924%;"/>
   </colgroup>
   <tbody>
     <tr>
