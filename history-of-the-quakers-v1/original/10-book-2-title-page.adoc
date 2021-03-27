@@ -1,4 +1,4 @@
-[#book2.intermediate-title, short="Book II"]
+[.intermediate-title, short="Book II"]
 == History of the+++<br />+++People Called Quakers
 
 [.division]

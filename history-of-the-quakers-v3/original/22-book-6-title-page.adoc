@@ -1,4 +1,4 @@
-[#book6.intermediate-title, short="Book VI"]
+[.intermediate-title, short="Book VI"]
 == History of the+++<br />+++People Called Quakers
 
 [.division]

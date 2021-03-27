@@ -1,4 +1,4 @@
-[#appendices, short="Appendices"]
+[short="Appendices"]
 == Appendices to Chapters XII, XIII, and XIV.
 
 [.chapter-synopsis]

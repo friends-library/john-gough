@@ -1,4 +1,4 @@
-[#book7.intermediate-title, short="Book VII"]
+[.intermediate-title, short="Book VII"]
 == History of the+++<br />+++People Called Quakers
 
 [.division]

@@ -1,4 +1,4 @@
-[#book8.intermediate-title, short="Book VIII"]
+[.intermediate-title, short="Book VIII"]
 == History of the+++<br />+++People Called Quakers
 
 [.division]
