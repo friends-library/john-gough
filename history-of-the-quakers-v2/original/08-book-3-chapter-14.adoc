@@ -424,14 +424,11 @@ realized in the beneficial effects it then had, and hath since continued to prod
 seems to demand a particular disquisition in a work of this nature,
 and this appears the proper place to introduce it.
 
-[.old-style]
+[.blurb]
 === A Dissertation on the Discipline exercised amongst the People called Quakers
 
-[.alt.centered]
-Sect. I
-
-[.small-break]
-'''
+[.old-style]
+==== Sect. I
 
 The first meeting for church affairs that I find any clear account of,
 was held at Skipton in Yorkshire, whether occasionally by particular appointment,
@@ -591,17 +588,8 @@ The result of which deliberations,
 and the advice appearing requisite to the state of the society,
 are generally transmitted to the counties in an epistle from the said yearly meeting.
 
-[.small-break]
-'''
-
-[.alt.centered]
-Sect. II.
-
-[.alt.centered]
-Of the Manner of conducting these Meetings.
-
-[.small-break]
-'''
+[.old-style]
+==== Sect. II. / Of the Manner of conducting these Meetings.
 
 From these meetings of discipline no members of the society are excluded;
 but every one in unity hath liberty to attend and express
@@ -653,17 +641,8 @@ the witness of their transactions, and of the frame of their hearts,
 are under the properest temper of mind for deliberating and deciding
 upon the subject of religion and its concerns.
 
-[.small-break]
-'''
-
-[.alt.centered]
-Sect. III.
-
-[.alt.centered]
-Of the Objects of Discipline in the sundry Meetings.
-
-[.small-break]
-'''
+[.old-style]
+==== Sect. III. / Of the Objects of Discipline in the sundry Meetings.
 
 The monthly meetings may not be improperly termed the executive power of this society,
 as it is their business to apply the rules of the discipline
@@ -1403,17 +1382,8 @@ let all that are capable be ready and willing to advise, relieve and help the di
 This is an acceptable work cf charity, and a great comfort to such in sharp afflictions,
 and their souls shall bless the instruments of their ease and comfort.
 
-[.small-break]
-'''
-
-[.alt.centered]
-Sect. IV.
-
-[.alt.centered]
-Of their Method of Dealing with Transgressors.
-
-[.small-break]
-'''
+[.old-style]
+==== Sect. IV. / Of their Method of Dealing with Transgressors.
 
 Having given a general view of the subjects of the
 christian discipline amongst this people,
